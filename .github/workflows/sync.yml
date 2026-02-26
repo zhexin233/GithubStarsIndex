@@ -73,9 +73,10 @@ jobs:
           AI_BASE_URL: ${{ vars.AI_BASE_URL }}         # AI 接口地址
           AI_MODEL: ${{ vars.AI_MODEL }}
           MAX_CONCURRENCY: ${{ vars.MAX_CONCURRENCY }}
+          OUTPUT_FILENAME: ${{ vars.OUTPUT_FILENAME }}
           VAULT_SYNC_ENABLED: ${{ vars.VAULT_SYNC_ENABLED }}
           VAULT_REPO: ${{ vars.VAULT_REPO }}
-          VAULT_FILE_PATH: ${{ vars.VAULT_FILE_PATH }}
+          VAULT_SYNC_PATH: ${{ vars.VAULT_SYNC_PATH }}
           TEST_LIMIT: ${{ github.event.inputs.test_limit }}
           PAGES_SYNC_ENABLED: ${{ vars.PAGES_SYNC_ENABLED }}
         run: python scripts/sync_stars.py

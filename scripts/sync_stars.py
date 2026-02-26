@@ -57,89 +57,77 @@ DATA_DIR.mkdir(exist_ok=True)
 
 
 def load_config() -> dict:
-    """加载 config.yml，并用环境变量覆盖敏感字段"""
+    """加载配置：环境变量优先于 config.yml"""
+    # 核心映射：环境变量名 -> (配置路径, 默认值)
+    # 配置路径使用点分隔，如 'ai.model'
+    env_mapping = {
+        "GH_USERNAME": "github.username",
+        "GH_TOKEN": "github.token",
+        "GITHUB_TOKEN": "github.token",
+        "AI_BASE_URL": "ai.base_url",
+        "AI_API_KEY": "ai.api_key",
+        "AI_MODEL": "ai.model",
+        "MAX_CONCURRENCY": "ai.concurrency",
+        "OUTPUT_FILENAME": "output.filename",
+        "VAULT_SYNC_ENABLED": "vault_sync.enabled",
+        "VAULT_REPO": "vault_sync.repo",
+        "VAULT_SYNC_PATH": "vault_sync.path",
+        "VAULT_PAT": "vault_sync.pat",
+        "PAGES_SYNC_ENABLED": "pages_sync.enabled",
+        "TEST_LIMIT": "test_limit",
+    }
+
+    # 1. 默认基础结构
     cfg = {
-        "github": {"username": "", "token": None},
+        "github": {"username": os.environ.get("GH_USERNAME"), "token": None},
         "ai": {
             "model": "gpt-4o-mini",
             "base_url": "https://api.openai.com/v1",
-            "api_key": "",
-            "timeout": 60,
-            "max_retries": 3,
-            "max_readme_length": 8000,
-            "concurrency": 1,
+            "api_key": None,
+            "concurrency": 5,
         },
-        "output": {"file_path": "stars.md"},
+        "output": {"filename": "stars"},
         "vault_sync": {
             "enabled": False,
-            "repo": "",
-            "file_path": "",
-            "pat": "",
-            "default_file_path": "GitHub-Stars/stars.md",
+            "repo": None,
+            "path": "GitHub-Stars/",
+            "pat": None,
             "commit_message": "🤖 自动更新 GitHub Stars 摘要",
         },
-        "pages_sync": {
-            "enabled": False,
-            "output_dir": "dist",
-            "file_name": "index.html",
-            "template": "index.html.j2",
-        },
+        "pages_sync": {"enabled": False},
+        "test_limit": None,
     }
 
+    # 2. 从 config.yml 加载 (若存在)
     if CONFIG_PATH.exists():
         with open(CONFIG_PATH, "r", encoding="utf-8") as f:
-            user_cfg = yaml.safe_load(f) or {}
-            # 深度合并或手动更新，此处采用手动按需更新
-            if "ai" in user_cfg:
-                cfg["ai"].update(user_cfg["ai"])
-            if "output" in user_cfg:
-                cfg["output"].update(user_cfg["output"])
-            if "vault_sync" in user_cfg:
-                cfg["vault_sync"].update(user_cfg["vault_sync"])
-            if "pages_sync" in user_cfg:
-                cfg["pages_sync"].update(user_cfg["pages_sync"])
+            user_yml = yaml.safe_load(f) or {}
+            # 这里简单处理两层嵌套
+            for section in ["ai", "output", "vault_sync", "pages_sync"]:
+                if section in user_yml and isinstance(user_yml[section], dict):
+                    cfg[section].update(user_yml[section])
 
-    # 环境变量优先覆盖
-    if os.environ.get("GH_USERNAME"):
-        cfg["github"]["username"] = os.environ["GH_USERNAME"]
-    if os.environ.get("AI_BASE_URL"):
-        cfg["ai"]["base_url"] = os.environ["AI_BASE_URL"]
-    if os.environ.get("AI_API_KEY"):
-        cfg["ai"]["api_key"] = os.environ["AI_API_KEY"]
-    if os.environ.get("AI_MODEL"):
-        cfg["ai"]["model"] = os.environ["AI_MODEL"]
+    # 3. 环境变量覆盖 (具有最高优先级)
+    for env_key, config_path in env_mapping.items():
+        val = os.environ.get(env_key)
+        if val is not None:
+            # 处理类型转换
+            if env_key in ["MAX_CONCURRENCY", "TEST_LIMIT"]:
+                if val.isdigit():
+                    val = int(val)
+                else:
+                    continue
+            elif env_key in ["VAULT_SYNC_ENABLED", "PAGES_SYNC_ENABLED"]:
+                val = val.lower() == "true"
 
-    # 并发数：环境变量具有最高优先级
-    concurrency_env = os.environ.get("MAX_CONCURRENCY", "").strip()
-    if concurrency_env.isdigit():
-        cfg["ai"]["concurrency"] = int(concurrency_env)
+            # 更新到字典
+            parts = config_path.split(".")
+            target = cfg
+            for p in parts[:-1]:
+                target = target[p]
+            target[parts[-1]] = val
 
-    # GitHub Token
-    cfg["github"]["token"] = os.environ.get("GH_TOKEN") or os.environ.get(
-        "GITHUB_TOKEN"
-    )
-
-    # Vault 同步
-    if os.environ.get("VAULT_SYNC_ENABLED", "").lower() == "true":
-        cfg["vault_sync"]["enabled"] = True
-    if os.environ.get("VAULT_REPO"):
-        cfg["vault_sync"]["repo"] = os.environ["VAULT_REPO"]
-    if os.environ.get("VAULT_FILE_PATH"):
-        cfg["vault_sync"]["file_path"] = os.environ["VAULT_FILE_PATH"]
-    if os.environ.get("VAULT_PAT"):
-        cfg["vault_sync"]["pat"] = os.environ["VAULT_PAT"]
-
-    # Pages 同步
-    if os.environ.get("PAGES_SYNC_ENABLED", "").lower() == "true":
-        cfg["pages_sync"]["enabled"] = True
-
-    # 测试限制
-    test_limit = os.environ.get("TEST_LIMIT", "").strip()
-    cfg["test_limit"] = int(test_limit) if test_limit.isdigit() else None
-    if cfg["test_limit"]:
-        log.info(f"📍 测试模式已开启，限制处理项目数: {cfg['test_limit']}")
-
-    # 简单校验
+    # 4. 必填项校验
     if not cfg["github"]["username"]:
         log.error("❌ 错误: 未配置 GitHub 用户名 (GH_USERNAME)")
         sys.exit(1)
@@ -364,7 +352,7 @@ class AISummarizer:
                         "tags_zh": [],
                         "tags_en": [],
                     }
-                log.warning(f"AI 重试 {attempt + 1}...")
+                log.warning(f"AI 生成失败 [{repo_name}]，重试中 {attempt + 1}: {e}")
                 time.sleep(2**attempt)
 
 
@@ -524,11 +512,8 @@ def main():
 
     for lang in langs:
         lang_context = {**context, "current_lang": lang}
-        base_name = cfg["output"].get("file_path", "stars.md")
-        if base_name.endswith(".md"):
-            output_name = f"{base_name[:-3]}_{lang}.md"
-        else:
-            output_name = f"{base_name}_{lang}"
+        base_name = cfg["output"].get("filename", "stars")
+        output_name = f"{base_name}_{lang}.md"
 
         # 直接写入 dist 目录
         output_md_path = dist_dir / output_name
@@ -544,13 +529,13 @@ def main():
     v_cfg = cfg.get("vault_sync", {})
     if v_cfg.get("enabled"):
         for lang, data in generated_mds.items():
-            base_vault_path = v_cfg.get("file_path") or v_cfg.get(
-                "default_file_path", "stars.md"
-            )
-            if base_vault_path.endswith(".md"):
-                vault_path = f"{base_vault_path[:-3]}_{lang}.md"
-            else:
-                vault_path = f"{base_vault_path}_{lang}"
+            # 拼接路径: 文件夹 + 文件名 + 语言 + .md
+            vault_dir = v_cfg.get("path", "GitHub-Stars/")
+            if not vault_dir.endswith("/"):
+                vault_dir += "/"
+
+            base_name = cfg["output"].get("filename", "stars")
+            vault_path = f"{vault_dir}{base_name}_{lang}.md"
 
             gh.push_file(
                 v_cfg["repo"],
