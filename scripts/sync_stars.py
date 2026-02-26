@@ -324,18 +324,20 @@ class AISummarizer:
 
     def summarize(self, repo_name: str, description: str, readme: str) -> dict:
         context = f"Repo: {repo_name}\nDesc: {description}\n\nREADME:\n{readme}"
-        prompt = """你是一个技术文档分析专家。请根据 GitHub 仓库信息生成：
-1. 专业的**中文摘要**（100字以内），描述核心功能、场景和亮点
-2. 专业的**英文摘要**（100字以内）
-3. **中文关键词标签**（5-8个）
-4. **英文关键词标签**（5-8个）
+        prompt = """你是一个顶级技术布道师和架构师。请深入分析 GitHub 仓库信息并生成：
+1. **中文摘要**（80-100字）：准确提炼核心价值、应用场景与技术亮点，避免空话。
+2. **英文摘要**（80-100字）。
+3. **高权重关键词标签**（中英文各 2-4 个）：
+   - **定位精准**：标签必须反映项目最核心的技术栈、领域分类或独特性。
+   - **拒绝平庸**：不要使用 "github", "project", "awesome" 等无意义通用词汇。
+   - **质量优先**：数量严格控制在 2-4 个，宁愿少而精，不要多而杂。
 
 输出 JSON 格式：
 {
   "zh": "中文摘要",
   "en": "English summary",
-  "tags_zh": ["标签1", "标签2"],
-  "tags_en": ["tag1", "tag2"]
+  "tags_zh": ["核心技术", "细分领域", "主要特征"],
+  "tags_en": ["Core Tech", "Sub-domain", "Key Feature"]
 }"""
         for attempt in range(self.retry):
             try:
