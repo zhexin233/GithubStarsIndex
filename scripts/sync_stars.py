@@ -15,6 +15,7 @@ import json
 import time
 import base64
 import logging
+import argparse
 import threading
 from datetime import datetime, timezone
 from pathlib import Path
@@ -384,83 +385,108 @@ class TemplateGenerator:
 
 
 def main():
+    parser = argparse.ArgumentParser(description="GitHub Stars Index 同步与生成脚本")
+    parser.add_argument(
+        "--render-only", action="store_true", help="直接使用本地 json 数据重新生成展示文件，不进行 API 抓取"
+    )
+    args = parser.parse_args()
+
     log.info("GitHub Stars Index同步系统开始运行")
     cfg = load_config()
 
-    gh = GitHubClient(cfg["github"]["username"], cfg["github"].get("token"))
-    ai = AISummarizer(
-        cfg["ai"]["base_url"],
-        cfg["ai"]["api_key"],
-        cfg["ai"]["model"],
-        cfg["ai"].get("timeout", 60),
-        cfg["ai"].get("max_retries", 3),
-    )
     store = DataStore(STARS_JSON_PATH)
     generator = TemplateGenerator(TEMPLATES_DIR)
 
-    # 1. 抓取所有 Stars
-    all_repos = gh.get_starred_repos()
-
-    # 2. 增量处理
-    new_repos_to_process = []
-    seen_full_names = set()  # 防止 API 返回重复数据
-    test_limit = cfg.get("test_limit")
-
-    for repo in all_repos:
-        full_name = repo["full_name"]
-
-        # 跳过已经在此次运行中处理过或已存在于 JSON 中的
-        if full_name in seen_full_names:
-            continue
-
-        existing = store.get_repo(full_name)
-
-        # 检查是否需要处理：如果不存在，或者摘要数据缺失/无效
-        is_processed = False
-        if existing:
-            summ = existing.get("summary", {})
-            # 只有当摘要存在、且不是默认的失败信息时，才视为已处理
-            if summ and summ.get("zh") and "生成失败" not in summ.get("zh"):
-                is_processed = True
-
-        if not is_processed:
-            if test_limit is not None and len(new_repos_to_process) >= test_limit:
+    if args.render_only:
+        log.info("🚀 运行模式: 仅渲染 (Render Only)")
+        if not STARS_JSON_PATH.exists():
+            log.error(f"❌ 错误: 未找到数据文件 {STARS_JSON_PATH}，无法进行渲染。")
+            sys.exit(1)
+        # 在仅渲染模式下，我们从 store 中获取所有已处理的项目
+        # 注意：这里我们没有 gh 客户端抓取的实时 all_repos 顺序，
+        # 所以我们按照 json 中存储的 pushed_at 倒序排列，模拟原有逻辑。
+        all_repos_data = []
+        for full_name, entry in store.data.get("repos", {}).items():
+            repo_meta = entry.get("metadata", {})
+            if not repo_meta:
                 continue
-            new_repos_to_process.append(repo)
-            seen_full_names.add(full_name)
-        else:
-            # 更新元数据信息（Stars 数等）但保留已有摘要
-            existing["metadata"] = repo
-            seen_full_names.add(full_name)
+            all_repos_data.append(repo_meta)
 
-    def process_repo(args):
-        idx, repo_data = args
-        fname = repo_data["full_name"]
-        total = len(new_repos_to_process)
-
-        log.info(f"[{idx}/{total}] 正在处理新仓库: {fname}")
-        readme_content = gh.get_readme(fname, cfg["ai"].get("max_readme_length", 4000))
-
-        if not readme_content and not repo_data["description"]:
-            summ = {"zh": "暂无描述。", "tags": []}
-        else:
-            summ = ai.summarize(fname, repo_data["description"], readme_content)
-
-        store.update_repo(fname, repo_data, summ)
-        return True
-
-    new_count = len(new_repos_to_process)
-    if new_count > 0:
-        concurrency = cfg["ai"].get("concurrency", 5)
-        log.info(f"🚀 开始并发处理 {new_count} 个新仓库 (并发数: {concurrency})")
-        with ThreadPoolExecutor(max_workers=concurrency) as executor:
-            list(executor.map(process_repo, enumerate(new_repos_to_process, 1)))
-
-    if new_count > 0:
-        store.save()
-        log.info(f"✅ 数据保存完成，新增 {new_count} 条记录")
+        # 按星标时间或推送时间排序（这里假设 metadata 中有足够信息，通常我们按推送时间排）
+        all_repos = sorted(
+            all_repos_data, key=lambda x: x.get("updated_at", ""), reverse=True
+        )
     else:
-        log.info("✨ 没有新条目需要处理")
+        gh = GitHubClient(cfg["github"]["username"], cfg["github"].get("token"))
+        ai = AISummarizer(
+            cfg["ai"]["base_url"],
+            cfg["ai"]["api_key"],
+            cfg["ai"]["model"],
+            cfg["ai"].get("timeout", 60),
+            cfg["ai"].get("max_retries", 3),
+        )
+
+        # 1. 抓取所有 Stars
+        all_repos = gh.get_starred_repos()
+
+        # 2. 增量处理
+        new_repos_to_process = []
+        seen_full_names = set()  # 防止 API 返回重复数据
+        test_limit = cfg.get("test_limit")
+
+        for repo in all_repos:
+            full_name = repo["full_name"]
+
+            if full_name in seen_full_names:
+                continue
+
+            existing = store.get_repo(full_name)
+
+            is_processed = False
+            if existing:
+                summ = existing.get("summary", {})
+                if summ and summ.get("zh") and "生成失败" not in summ.get("zh"):
+                    is_processed = True
+
+            if not is_processed:
+                if test_limit is not None and len(new_repos_to_process) >= test_limit:
+                    continue
+                new_repos_to_process.append(repo)
+                seen_full_names.add(full_name)
+            else:
+                existing["metadata"] = repo
+                seen_full_names.add(full_name)
+
+        def process_repo(args_tuple):
+            idx, repo_data = args_tuple
+            fname = repo_data["full_name"]
+            total = len(new_repos_to_process)
+
+            log.info(f"[{idx}/{total}] 正在处理新仓库: {fname}")
+            readme_content = gh.get_readme(
+                fname, cfg["ai"].get("max_readme_length", 4000)
+            )
+
+            if not readme_content and not repo_data["description"]:
+                summ = {"zh": "暂无描述。", "tags": []}
+            else:
+                summ = ai.summarize(fname, repo_data["description"], readme_content)
+
+            store.update_repo(fname, repo_data, summ)
+            return True
+
+        new_count = len(new_repos_to_process)
+        if new_count > 0:
+            concurrency = cfg["ai"].get("concurrency", 5)
+            log.info(f"🚀 开始并发处理 {new_count} 个新仓库 (并发数: {concurrency})")
+            with ThreadPoolExecutor(max_workers=concurrency) as executor:
+                list(executor.map(process_repo, enumerate(new_repos_to_process, 1)))
+
+        if new_count > 0:
+            store.save()
+            log.info(f"✅ 数据保存完成，新增 {new_count} 条记录")
+        else:
+            log.info("✨ 没有新条目需要处理")
 
     # 3. 按 Star 时间重新排序（最新 Star 在前）
     # JSON 里的 repos 是无序的，我们按照 all_repos 的顺序来生成（它是倒序的）
