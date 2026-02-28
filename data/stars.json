@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 11:54 UTC",
+  "last_updated": "2026-02-28 11:56 UTC",
   "repos": {
     "LifeArchiveProject/WeChatDataAnalysis": {
       "metadata": {
@@ -1503,7 +1503,7 @@
         "name": "Mole",
         "owner": "tw93",
         "description": "🐹 Deep clean and optimize your Mac.",
-        "stars": 37386,
+        "stars": 37387,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://x.com/HiTw93/status/2025424790467871149",
@@ -3172,7 +3172,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 9538,
+        "stars": 9539,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -4850,7 +4850,7 @@
         "name": "weekly",
         "owner": "ruanyf",
         "description": "科技爱好者周刊，每周五发布",
-        "stars": 84853,
+        "stars": 84854,
         "language": "N/A",
         "url": "https://github.com/ruanyf/weekly",
         "homepage": "",
@@ -28684,7 +28684,7 @@
         "name": "waoowaoo",
         "owner": "waoowaooAI",
         "description": "首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场",
-        "stars": 3062,
+        "stars": 3065,
         "language": "TypeScript",
         "url": "https://github.com/waoowaooAI/waoowaoo",
         "homepage": "",
@@ -28768,10 +28768,11 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "command": [
+          "bash",
+          "-lc",
+          "ls -la"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
