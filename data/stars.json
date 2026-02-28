@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 12:07 UTC",
+  "last_updated": "2026-02-28 12:18 UTC",
   "repos": {
     "iblogc/GithubStarsIndex": {
       "metadata": {
@@ -15,10 +15,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "GitHubStarsIndex 可自动抓取账号全部 Star 仓库，解析 README 并调用 OpenAI 兼容接口生成中英文 AI 摘要与高权重标签，写入 data/stars.json 便于二次开发与检索。支持并发加速、增量更新避免重复消耗，基于 Jinja2 输出 Markdown/HTML 搜索页，并可通过 GitHub Actions 定时运行，同步到 Obsidian Vault 与 GitHub Pages。",
+        "en": "GitHubStarsIndex automatically harvests all repositories you’ve starred, reads each README, and uses any OpenAI-compatible endpoint (OpenAI/Azure/Ollama) to generate bilingual AI summaries and high-signal tech tags. Results are stored in a data/stars.json index for fast search and downstream tooling. It supports incremental processing to avoid repeated API costs, concurrency to speed up large backlogs, and Jinja2-based rendering to Markdown and an interactive HTML page. GitHub Actions scheduling enables hands-free refresh, with optional syncing to an Obsidian Vault repo and GitHub Pages deployment.",
+        "tags_zh": [
+          "GitHub Stars 知识索引",
+          "OpenAI 兼容 LLM 摘要",
+          "GitHub Actions 自动化",
+          "Jinja2 静态生成"
+        ],
+        "tags_en": [
+          "GitHub Stars Indexing",
+          "OpenAI-Compatible LLM Summarization",
+          "GitHub Actions Automation",
+          "Jinja2 Static Site Generation"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -38,10 +47,19 @@
         "updated_at": "2026-02-14"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "该仓库提供 Three.js + Capacitor（iOS/桌面）3D 项目“参考模板”，核心是给 Claude Code/Codex CLI 的技能脚本与分步提示词：涵盖场景搭建、GLTF/GLB 加载、动画混合与 iOS 集成。并以 assets_index.json 定义角色动画元数据契约（剪辑名、时长、循环、过渡），便于将自制 GLB 快速接入可维护的动画状态机。",
+        "en": "This repo is a reference/template for building a Three.js + Capacitor (iOS/desktop) 3D experience using AI-assisted workflows. It ships agent “skills” for Claude Code and Codex CLI covering scene setup, GLTF/GLB loading, animation mixing, and Capacitor iOS integration. It also includes the step-by-step prompts used to generate characters, backgrounds, voices, and scenes, plus an assets_index.json that formalizes an animation metadata contract (clip names, durations, loop modes, crossfades) for wiring custom GLB characters into a maintainable animation/state pipeline.",
+        "tags_zh": [
+          "Three.js",
+          "Capacitor iOS",
+          "GLTF/GLB 动画管线",
+          "AI 代码代理技能/提示词"
+        ],
+        "tags_en": [
+          "Three.js",
+          "Capacitor iOS",
+          "GLTF/GLB Animation Pipeline",
+          "AI Agent Skills/Prompts"
         ]
       },
       "pushed_at": "2026-02-14",
@@ -88,7 +106,7 @@
         "name": "waoowaoo",
         "owner": "waoowaooAI",
         "description": "首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场",
-        "stars": 3066,
+        "stars": 3094,
         "language": "TypeScript",
         "url": "https://github.com/waoowaooAI/waoowaoo",
         "homepage": "",
@@ -259,7 +277,7 @@
         "name": "get-shit-done",
         "owner": "gsd-build",
         "description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-        "stars": 22019,
+        "stars": 22025,
         "language": "JavaScript",
         "url": "https://github.com/gsd-build/get-shit-done",
         "homepage": "",
@@ -296,7 +314,7 @@
         "name": "superpowers",
         "owner": "obra",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 65482,
+        "stars": 65496,
         "language": "Shell",
         "url": "https://github.com/obra/superpowers",
         "homepage": "",
@@ -422,7 +440,7 @@
         "name": "dexter",
         "owner": "virattt",
         "description": "An autonomous agent for deep financial research",
-        "stars": 16691,
+        "stars": 16692,
         "language": "TypeScript",
         "url": "https://github.com/virattt/dexter",
         "homepage": "",
@@ -563,7 +581,7 @@
         "name": "claude-code-best-practice",
         "owner": "shanraisshan",
         "description": "practice made claude perfect",
-        "stars": 5897,
+        "stars": 5905,
         "language": "HTML",
         "url": "https://github.com/shanraisshan/claude-code-best-practice",
         "homepage": "",
@@ -596,7 +614,7 @@
         "name": "cloudflare_temp_email",
         "owner": "dreamhunter2333",
         "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-        "stars": 6231,
+        "stars": 6232,
         "language": "Vue",
         "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
         "homepage": "https://mail.awsl.uk",
@@ -704,7 +722,7 @@
         "name": "oh-my-claudecode",
         "owner": "Yeachan-Heo",
         "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "stars": 7739,
+        "stars": 7740,
         "language": "TypeScript",
         "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
         "homepage": "https://yeachan-heo.github.io/oh-my-claudecode-website",
@@ -753,10 +771,17 @@
         "updated_at": "2026-01-24"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "GoSubTTS 是基于 Go+Wails 的跨平台桌面工具，离线集成 Whisper.cpp 字幕提取与 EdgeTTS 高质量配音，并可同步生成时间轴精准的 SRT。内置 FFmpeg 支持多格式导入，Windows 自动启用 CUDA、macOS 支持 Metal 加速，零依赖拖拽即用，适合剪辑配音与本地转写场景。",
+        "en": "GoSubTTS is a cross-platform desktop app built with Go and Wails, designed for plug-and-play voiceover generation and subtitle extraction. It integrates Microsoft Edge TTS for high-quality multilingual speech synthesis without API keys, while producing perfectly aligned SRT subtitles. For transcription, it bundles whisper.cpp for fully offline ASR with strong performance, supporting CUDA acceleration on Windows and Metal on Apple Silicon. Built-in FFmpeg enables direct import of common audio/video formats, prioritizing privacy and zero-configuration workflows.",
+        "tags_zh": [
+          "Wails跨平台桌面",
+          "Whisper.cpp离线ASR",
+          "EdgeTTS配音生成"
+        ],
+        "tags_en": [
+          "Wails Desktop App",
+          "Whisper.cpp Offline ASR",
+          "Edge TTS Voiceover"
         ]
       },
       "pushed_at": "2026-01-24",
@@ -843,10 +868,19 @@
         "updated_at": "2026-02-12"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "Universal DB MCP 是面向 AI 助手的通用数据库连接器，基于 MCP 与 HTTP API 让用户用自然语言跨 17 种数据库查询分析。提供 stdio/http 双启动与 SSE/Streamable HTTP/REST 多通道接入，默认只读、脱敏与 Schema 缓存/批量拉取将大库元数据检索提速至 100×，并增强表注释与隐式关系提升 Text2SQL 准确率，适配 55+ 客户端。 ",
+        "en": "Universal DB MCP is a universal database connector for AI assistants, exposing databases via MCP and an HTTP API so users can query and analyze data in natural language across 17 engines. It supports stdio/http modes and multiple transports (MCP stdio, SSE, Streamable HTTP, REST). Security features include read-only by default and automatic sensitive-data masking. Performance is boosted with schema caching and batched metadata fetching (up to 100× faster), plus schema enrichment (comments and inferred relations) to improve Text2SQL accuracy. Works with 55+ clients.",
+        "tags_zh": [
+          "Model Context Protocol(MCP)",
+          "自然语言数据库查询(Text2SQL)",
+          "多数据库连接器",
+          "数据脱敏与只读安全"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Natural-language DB Query (Text2SQL)",
+          "Multi-database Connector",
+          "Data Masking & Read-only Security"
         ]
       },
       "pushed_at": "2026-02-12",
@@ -866,10 +900,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于 FastMCP 的 MCP 服务器，将 Grok（OpenAI 兼容）实时搜索/抓取能力接入 Claude/Claude Code。提供结构化 JSON 结果、平台定向搜索、配置自检、模型切换与工具路由控制，可用于突破知识截止、文档检索与事实核查。",
+        "en": "GrokSearch is a FastMCP-based Model Context Protocol (MCP) server that brings Grok-style, OpenAI-compatible real-time web search and page fetching into Claude and Claude Code. It returns AI-friendly structured JSON (title, link, summary), supports platform-scoped searches (e.g., Twitter/Reddit/GitHub), and includes config diagnostics with safe key masking. It also enables persistent model switching and tool routing to disable built-in WebSearch/WebFetch, improving freshness, citation, and fact-checking workflows.",
+        "tags_zh": [
+          "Model Context Protocol(MCP)",
+          "FastMCP",
+          "Claude 工具路由",
+          "实时网络搜索/抓取"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "FastMCP",
+          "Claude Tool Routing",
+          "Real-time Web Search & Fetch"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -899,10 +942,18 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Trellis 面向 Claude Code/Cursor 等的一体化 AI 编程框架：Markdown 规范库自动注入并更新；基于 Git worktree 启动并行会话，工作痕迹持久化到仓库，支持团队共享最佳实践与一致交付。",
+        "en": "Trellis is an all-in-one AI engineering framework and CLI toolkit for Claude Code, Cursor, Gemini CLI, Codex, and more. It auto-injects your Markdown specs and workflows into every session, turning best practices into a living, auto-updated spec library. Trellis also enables parallel agent sessions via isolated Git worktrees, while persisting traces and context inside your repo for continuity. With team sync, one developer’s patterns become shared standards across the codebase.",
+        "tags_zh": [
+          "AI 编程工作流",
+          "规范注入（Spec Injection）",
+          "Git worktree 并行代理"
+        ],
+        "tags_en": [
+          "AI Coding Workflow",
+          "Spec Injection",
+          "Git Worktree Parallel Agents"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -913,7 +964,7 @@
         "name": "baoyu-skills",
         "owner": "JimLiu",
         "description": "",
-        "stars": 5909,
+        "stars": 5913,
         "language": "TypeScript",
         "url": "https://github.com/JimLiu/baoyu-skills",
         "homepage": "",
@@ -921,10 +972,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "baoyu-skills是Claude Code可安装技能集，支持小红书信息图、封面/漫画/幻灯片生成，并可一键发布到X与微信；同时提供图像生成后端及URL转Markdown、压缩、格式化等工具，提升内容生产与分发效率。",
+        "en": "baoyu-skills is an installable skill set for Claude Code, delivered as marketplace plugins in a Node.js environment (npx/bun). It streamlines content production with generators for RedNote (Xiaohongshu) infographic series, cover images, comics, and slide decks, plus publishing helpers for X and WeChat. It also bundles AI generation backends and practical utilities such as URL-to-Markdown conversion, image compression, and Markdown formatting. A style × layout system enables fast, consistent visual outputs.",
+        "tags_zh": [
+          "Claude Code 插件",
+          "内容生产自动化",
+          "小红书信息图生成",
+          "多模态生成工具链"
+        ],
+        "tags_en": [
+          "Claude Code Plugins",
+          "Content Automation",
+          "RedNote Infographic Generator",
+          "Multimodal Toolchain"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -960,10 +1021,20 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "QuantDinger 是本地优先的 AI 原生量化交易平台，覆盖研究、回测到实盘执行。通过多智能体将自然语言想法自动生成 Python 策略并一键回测、下单，面向零代码与专业用户。支持 10+ 交易所/经纪商，Docker 两分钟自建部署，API Key 与策略全程留在自有服务器，强调隐私与可控性。",
+        "en": "QuantDinger is an AI-native, local-first quantitative trading platform spanning research, backtesting, and live execution. It uses multiple AI agents to turn natural-language trading ideas into Python strategies, then run backtests and place live orders with minimal friction—great for both non-coders and quants. The system supports 10+ exchanges/brokers and is easy to self-host via Docker. A privacy-first design keeps API keys and strategies on your own machine/server, improving security, control, and reproducibility.",
+        "tags_zh": [
+          "AI量化交易",
+          "本地优先自托管",
+          "自然语言生成策略",
+          "多交易所实盘执行"
+        ],
+        "tags_en": [
+          "AI Agentic Trading",
+          "Local-First Self-Hosted",
+          "Natural-Language-to-Python Strategies",
+          "Multi-Exchange Live Execution"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -982,10 +1053,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "火宝短剧是基于Go+Vue3的AIGC短剧生产平台，利用LLM将一句话/剧本解析为角色、场景与分镜，并结合文生图、图生视频与FFmpeg自动剪辑合成成片；内置资产库、任务进度与本地存储/SQLite，适用于短剧批量生产、投放素材生成与营销内容自动化。",
+        "en": "Huobao Drama is an end-to-end AI short drama production platform built with Go (Gin) + Vue 3 and a DDD layered architecture. It turns a single sentence or script into structured characters, scenes, and storyboards via LLM parsing, then generates portraits/backgrounds (text-to-image) and clips (image-to-video / text-to-video), finally composing videos with FFmpeg. The system includes asset library management, import/export, local storage, and task progress tracking, enabling scalable short-drama creation for marketing, rapid prototyping, and batch content production.",
+        "tags_zh": [
+          "AIGC短剧生成",
+          "文生图/图生视频",
+          "Go+Gin后端",
+          "DDD架构"
+        ],
+        "tags_en": [
+          "AIGC Short-Drama Generation",
+          "Text-to-Image & Image-to-Video",
+          "Go (Gin) Backend",
+          "Domain-Driven Design"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -1004,10 +1085,20 @@
         "updated_at": "2026-02-19"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向 Vue 3 开发的 AI 智能体技能库，沉淀真实问题的最佳实践与排错指南，覆盖 Composition API/TypeScript、Vue Router、Pinia、测试、JSX 及可复用 Composable 模式。支持 npx skills 与 Claude 插件安装，并通过“use vue skill”显式触发，提升代码一致性、性能与 SSR 稳定性。",
+        "en": "An experimental community skill pack for AI agents focused on Vue 3 development. It codifies patterns and edge-case guidance from real issues, covering Composition API + TypeScript best practices, Vue Router 4, Pinia state patterns, testing (Vitest, Vue Test Utils, Playwright), JSX usage, and practical debugging (runtime warnings, async errors, hydration/SSR). Install via `npx skills` or the Claude Code marketplace and explicitly trigger with “use vue skill” to get consistent, higher-quality outputs and reusable composable designs.",
+        "tags_zh": [
+          "Vue 3 智能体技能",
+          "Composition API/TypeScript",
+          "Vue Router/Pinia 最佳实践",
+          "SSR 调试与测试"
+        ],
+        "tags_en": [
+          "Vue 3 Agent Skills",
+          "Composition API & TypeScript",
+          "Vue Router 4 & Pinia",
+          "SSR Debugging & Testing"
+        ]
       },
       "pushed_at": "2026-02-19",
       "updated_at": "2026-02-28"
@@ -1026,10 +1117,19 @@
         "updated_at": "2026-01-26"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于 Rust API 服务 + Python Agent 的小红书 Web 接口逆向与自动化工具集。通过 undetected-chromedriver 容器获取合法访客 Cookie，结合纯算法实时签名，降低对浏览器抓包依赖并对抗 Cookie/Header/X-S 强绑定风控。提供二维码登录、搜索/Feed、笔记详情评论、视频/图片直链解析与下载等能力。",
+        "en": "XHS-RS-TOOLS is a Rust API backend plus a Python signing agent for reverse-engineering and automating Xiaohongshu (XHS) web endpoints. It uses a Dockerized undetected-chromedriver to bootstrap legitimate guest cookies, then relies on a “pure algorithm” real-time signature service to satisfy strict cookie/header/X-S binding checks with minimal browser usage. The toolkit supports QR login flows, full search and feed crawling, note details and comments, and media extraction for videos and image notes with direct CDN links and server-side downloading.",
+        "tags_zh": [
+          "Rust+Python 混合架构",
+          "请求签名算法逆向",
+          "undetected-chromedriver 风控对抗",
+          "Docker 化采集代理"
+        ],
+        "tags_en": [
+          "Rust API Backend",
+          "Request-Signing Reverse Engineering",
+          "undetected-chromedriver Automation",
+          "Dockerized Selenium Agent"
         ]
       },
       "pushed_at": "2026-01-26",
@@ -1052,10 +1152,19 @@
         "updated_at": "2026-01-06"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "该智能体以业务创意为关键词抓取小红书笔记与评论，通过LLM提取用户痛点、需求、情绪与竞品线索，并结合评论标签与综合评分自动生成市场验证报告。流程采用编排式多智能体与分阶段checkpoint，便于复跑与迭代分析，适用于新品立项、选品决策、营销洞察与细分赛道调研。",
+        "en": "An agentic workflow that validates business ideas using Xiaohongshu signals. It scrapes relevant posts and comments from a user-provided query, then applies LLM-driven analysis to extract pain points, unmet needs, sentiment, user feedback, and competitive cues. The system performs post analysis, comment analysis, tag mining, and a combined scoring step, finally producing a structured market validation report. Checkpointed stages and an orchestrated multi-agent pipeline make runs reproducible and easy to iterate for product discovery, niche research, and go-to-market planning.",
+        "tags_zh": [
+          "小红书数据抓取",
+          "LLM市场洞察",
+          "自动化商业验证报告",
+          "多智能体编排"
+        ],
+        "tags_en": [
+          "Xiaohongshu Scraping",
+          "LLM Market Intelligence",
+          "Automated Validation Reports",
+          "Agent Orchestration"
         ]
       },
       "pushed_at": "2026-01-06",
@@ -1067,7 +1176,7 @@
         "name": "daily_stock_analysis",
         "owner": "ZhuLinsen",
         "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
-        "stars": 14514,
+        "stars": 14517,
         "language": "Python",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
         "homepage": "",
@@ -1085,10 +1194,18 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向A/H/美股自选股的LLM分析器，聚合多源行情与实时新闻，生成含买卖点、止损目标与检查清单的决策仪表盘；内置策略对话与回测验证，借助GitHub Actions定时执行，并推送到企微/飞书/Telegram/邮箱等渠道，低成本快速部署。",
+        "en": "An LLM-driven stock analyzer for A-shares, Hong Kong stocks, and US equities. It aggregates multi-source quotes and real-time financial news to produce a decision dashboard with actionable entry/exit levels, stop-loss/targets, and a rule-based checklist. The system includes an interactive “ask-a-strategy” agent (multiple built-in trading methods) plus automated backtesting to validate signal quality. It runs on schedules via GitHub Actions (no server needed) and pushes reports to WeCom, Feishu, Telegram, email, and more.",
+        "tags_zh": [
+          "LLM投研分析",
+          "LiteLLM多模型路由",
+          "GitHub Actions定时推送"
+        ],
+        "tags_en": [
+          "LLM-driven Equity Research",
+          "LiteLLM Model Routing",
+          "GitHub Actions Scheduling"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -1107,10 +1224,18 @@
         "updated_at": "2026-01-22"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "GitHub Skill Forge 通过 GitHub API 零克隆扫描仓库，自动剔除噪声并以 Smart RAG 提炼核心代码与文档，生成 context_bundle.md 与技能目录供 Trae 等 AI Agent 直接调用；内置镜像轮换、多线程抓取及 Stars/活跃度预筛，加速把任意项目转成可复用技能。",
+        "en": "GitHub Skill Forge automates turning any GitHub repository into a standardized “skill” for AI assistants (e.g., Trae). It scans repos via the GitHub API in a zero-clone, cloud-first mode, then applies smart RAG-style filtering to remove noise and extract the essential code and docs into a compact context_bundle.md plus a ready-to-use skill folder. Built-in API mirror rotation, multi-thread fetching, and basic quality heuristics (stars/activity) help bypass rate limits and avoid low-quality repos.",
+        "tags_zh": [
+          "AI Agent 技能化",
+          "GitHub API 零克隆抓取",
+          "RAG 上下文打包"
+        ],
+        "tags_en": [
+          "AI Agent Skill Packaging",
+          "Zero-Clone GitHub API Fetching",
+          "RAG Context Bundling"
+        ]
       },
       "pushed_at": "2026-01-22",
       "updated_at": "2026-02-28"
@@ -1129,10 +1254,20 @@
         "updated_at": "2026-02-06"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "GudaStudio Commands 为 Claude Code 提供自定义命令集。核心 gudaspec 以 RPI（研究-计划-实现）串联 OpenSpec，并通过 MCP 协同 Codex/Gemini 等模型，面向复杂、长时编码任务。配合分阶段 /clear 手动切分上下文，最大化约80K有效上下文利用率；内置跨平台安装脚本与可复用的完整工作流示例。",
+        "en": "GudaStudio Commands is a curated set of custom commands for Claude Code. Its flagship workflow, gudaspec, operationalizes the RPI (Research–Plan–Implementation) methodology, integrates OpenSpec outputs, and orchestrates multi-model collaboration via MCP (e.g., Codex and Gemini) to handle complex, long-running coding tasks. The design emphasizes human-in-the-loop context management: users deliberately split stages and clear context between runs to maximize the effective ~80K context budget. The repo includes cross-platform installers and step-by-step usage demos.",
+        "tags_zh": [
+          "Claude Code 工作流",
+          "RPI 编码方法论",
+          "OpenSpec 规范",
+          "MCP 多模型协作"
+        ],
+        "tags_en": [
+          "Claude Code Workflow",
+          "RPI Methodology",
+          "OpenSpec",
+          "MCP Multi-Model Orchestration"
+        ]
       },
       "pushed_at": "2026-02-06",
       "updated_at": "2026-02-28"
@@ -1151,10 +1286,17 @@
         "updated_at": "2026-02-24"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "面向中国A股的智能金融终端，覆盖组合管理、基金池、自选股监控、商品与情绪分析。以AkShare/TuShare取数，APScheduler定时生成盘前/盘后报告并邮件推送，支持Gemini/OpenAI等LLM与中英双语界面。",
+        "en": "VAlpha Terminal is an AI-powered analytics terminal for China A-shares, combining portfolio management, fund pool analysis, watchlist monitoring, commodities tracking, news aggregation, and market-sentiment signals. It ingests data via AkShare/TuShare with optional caching, and uses APScheduler to automate pre-market and post-market report generation plus email alerts. The system integrates multiple LLM backends (Gemini, OpenAI, and compatible endpoints) to produce professional narratives. Built as a full-stack app with FastAPI and a React/TypeScript dashboard with i18n support.",
+        "tags_zh": [
+          "A股智能投研终端",
+          "LLM盘前盘后研报生成",
+          "FastAPI+React全栈"
+        ],
+        "tags_en": [
+          "China A-share Analytics",
+          "LLM Market Report Generation",
+          "FastAPI React Full-stack"
         ]
       },
       "pushed_at": "2026-02-24",
@@ -1174,10 +1316,20 @@
         "updated_at": "2025-12-31"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "LLM量化交易模拟竞技场：接入股市行情，编排多Agent策略并回放交易；内置提示词模板、模型渠道与对比评测，完整记录接口/交易日志。FastAPI+MySQL/Redis后端，Vite前端，脚本与Compose一键部署。",
+        "en": "An LLM-driven quantitative trading simulation arena. It connects to stock market quotes, lets you manage multiple trading agents, and replays trades with detailed transaction and API logs. The platform includes prompt templates, model channels, and side-by-side model comparisons to evaluate strategy quality across different LLMs. Built with a FastAPI backend (Python 3.10+) plus MySQL and Redis, and a Vite-based frontend. Cross-platform one-click deploy scripts and Docker Compose simplify local setup and operations.",
+        "tags_zh": [
+          "LLM智能体交易",
+          "量化交易模拟",
+          "FastAPI后端",
+          "模型对比评测"
+        ],
+        "tags_en": [
+          "LLM Trading Agents",
+          "Quant Trading Simulator",
+          "FastAPI",
+          "Model Benchmarking"
+        ]
       },
       "pushed_at": "2025-12-31",
       "updated_at": "2026-02-28"
@@ -1196,10 +1348,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "面向长篇连载网文的 Claude Code 写作助手，以“大纲/设定约束+新实体入库”抑制遗忘与幻觉。通过双 Agent（Context/Data）管理上下文与知识库，叠加 RAG 检索、六维并行审查（含一致性/节奏/OOC等）与追读力规则，支持 200 万字级持续创作与故障恢复。",
+        "en": "Webnovel Writer is a Claude Code–compatible assistant for long-form serialized fiction (up to ~2M words), designed to reduce LLM “forgetting” and hallucinations. It enforces outline-as-law and canon-as-physics, automatically extracts new entities into a managed knowledge base, and retrieves facts via RAG. A dual-agent design (Context/Data) plus parallel reviewers (consistency, pacing, OOC, coherence, hook payoff) provides continual validation. Python scripts maintain state, indexes, and vectors for durable, recoverable workflows.",
+        "tags_zh": [
+          "Claude Code 插件",
+          "多智能体写作",
+          "RAG 长程记忆",
+          "一致性/反幻觉校验"
+        ],
+        "tags_en": [
+          "Claude Code",
+          "Multi-Agent Writing",
+          "RAG Long-Context Memory",
+          "Hallucination Mitigation"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -1219,10 +1380,20 @@
         "updated_at": "2026-01-30"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "AI Global 是面向多款 AI 编程助手的统一配置管理器，通过单一 AGENTS.md 与 skills/rules/commands 目录集中维护，并自动为各工具生成符号链接实现同步。支持系统级与项目级双模式自动检测，首跑可扫描工具、合并配置并备份原文件，且可从 GitHub 拉取技能包，适合多工具并行开发与团队规范落地。",
+        "en": "AI Global is a unified configuration manager for multiple AI coding assistants. It centralizes AGENTS.md and shared skills/rules/commands into one directory, then syncs each supported tool via symlinks. With automatic context detection, it works in both system-wide and per-project modes without manual switching. On first run it scans installed tools, backs up original configs, merges existing assets, and updates links. It can also import skills from GitHub repos, making it ideal for consistent workflows across tools and teams.",
+        "tags_zh": [
+          "AI 编程助手配置",
+          "符号链接同步",
+          "系统/项目双模式",
+          "CLI 配置管理"
+        ],
+        "tags_en": [
+          "AI Assistant Config",
+          "Symlink-based Sync",
+          "System/Project Modes",
+          "CLI Configuration Manager"
+        ]
       },
       "pushed_at": "2026-01-30",
       "updated_at": "2026-02-28"
@@ -1241,10 +1412,19 @@
         "updated_at": "2026-01-21"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "PromptX 是面向 AI 工作流的提示词管理平台，集成版本管理与差异对比、树形分类与高级标签、全局搜索与一键复制；并提供公共模板库分享/下载、评分评论与审核、WebSocket 实时通知，适合团队沉淀与复用高质量 Prompt。",
+        "en": "PromptX is a full-stack prompt management platform designed for AI workflows. It combines prompt CRUD with nested categorization, advanced tagging, global search, and one-click copy. Its standout feature is built-in version control with auto snapshots, diff comparison, and rollback. PromptX also includes a community template library for sharing and importing prompts, plus ratings, comments, moderation tools, and real-time WebSocket notifications. Built with FastAPI, MongoDB, and a React/TypeScript frontend, it fits individuals and teams building reusable prompt assets.",
+        "tags_zh": [
+          "提示词版本管理",
+          "FastAPI+React 全栈",
+          "公共提示词模板库",
+          "WebSocket 实时通知"
+        ],
+        "tags_en": [
+          "Prompt Versioning",
+          "FastAPI-React Full Stack",
+          "Community Prompt Library",
+          "WebSocket Notifications"
         ]
       },
       "pushed_at": "2026-01-21",
@@ -1274,16 +1454,25 @@
           "openai",
           "voapi"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "All API Hub 是面向 New-API/one-api 等中转站的浏览器扩展，集中管理多站点账号余额与用量，支持自动签到、API Key 批量管理与一键导出到常用客户端，并提供模型/接口可用性测试、用量分析、渠道与模型同步及重定向，适合个人与站点管理员降本增效。",
+        "en": "All API Hub is a browser extension for managing New-API/One-API compatible relay accounts in one place. It aggregates multi-site balances, usage and health status, supports auto check-in, centralized API key management, and one-click exports to popular AI clients and routers. It also provides in-page API/model availability tests, usage analytics with latency views, and admin utilities for self-hosted panels such as channel creation, model sync, and model redirect, reducing repetitive dashboard work.",
+        "tags_zh": [
+          "浏览器扩展",
+          "New-API中转站管理",
+          "API密钥导出集成",
+          "用量分析看板"
+        ],
+        "tags_en": [
+          "Browser Extension",
+          "New-API Relay Manager",
+          "API Key Export Integration",
+          "Usage Analytics Dashboard"
         ]
       },
-      "pushed_at": "2026-02-27",
+      "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
     },
     "Fission-AI/OpenSpec": {
@@ -1292,7 +1481,7 @@
         "name": "OpenSpec",
         "owner": "Fission-AI",
         "description": "Spec-driven development (SDD) for AI coding assistants.",
-        "stars": 26442,
+        "stars": 26444,
         "language": "TypeScript",
         "url": "https://github.com/Fission-AI/OpenSpec",
         "homepage": "https://openspec.dev/",
@@ -1311,10 +1500,18 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "OpenSpec 面向 AI 编码助手的规格驱动开发框架：用 CLI 指令自动生成 proposal、需求场景、设计与任务清单，并以 propose→apply→archive 的工件流闭环实现功能交付。强调迭代、易用与存量代码适配，可扩展到团队/企业；支持 20+ 工具生态，Node.js/NPM 即装即用。",
+        "en": "OpenSpec is a spec-driven development framework built for AI coding assistants. It provides an artifact-guided workflow that turns an idea into structured deliverables—proposal, requirements/scenarios, design, and an implementation task list—then drives execution via commands like /opsx:propose, /opsx:apply, and /opsx:archive. Designed to be iterative and lightweight, it works well on brownfield codebases and scales from solo projects to teams. Distributed as a Node.js CLI via npm and supports 20+ AI tools.",
+        "tags_zh": [
+          "规格驱动开发（SDD）",
+          "AI 编码助手工作流",
+          "Node.js CLI 工具链"
+        ],
+        "tags_en": [
+          "Spec-driven Development (SDD)",
+          "AI Coding Assistant Workflow",
+          "Node.js CLI Tooling"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -1333,10 +1530,20 @@
         "updated_at": "2026-01-29"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Interactive Prompt Iterator 是基于 Next.js 与 AI SDK 的交互式提示词优化器，通过多轮对话把模糊需求拆解为结构化高质量 Prompt。提供可视化表单、维度化选项、模板管理与一键复用，并支持 PDF/图片解析以处理复杂资料，适合内容创作、需求澄清与AI应用落地场景。",
+        "en": "Interactive Prompt Iterator is a Next.js + AI SDK web tool that turns vague ideas into structured, high-quality prompts through multi-turn guided dialogue. It accelerates prompt engineering with visual forms, selectable requirement dimensions, and reusable template management for one-click application. The app also supports parsing PDFs and images to incorporate complex source materials into prompt design. It fits workflows such as content creation, requirement clarification, and building reliable AI-assisted products with repeatable prompts.",
+        "tags_zh": [
+          "Next.js 14",
+          "提示词工程",
+          "多轮交互优化",
+          "PDF/图片解析"
+        ],
+        "tags_en": [
+          "Next.js 14",
+          "Prompt Engineering",
+          "Interactive Prompt Optimization",
+          "PDF/Image Parsing"
+        ]
       },
       "pushed_at": "2026-01-29",
       "updated_at": "2026-02-28"
@@ -1365,10 +1572,17 @@
         "updated_at": "2026-01-22"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "快图设计基于Vue与fabric.js的插件化图片编辑器，支持拖拽排版、图层与历史、辅助线标尺、渐变滤镜等；可导入PSD/JSON并导出PNG/SVG/JSON，且可自定义字体、素材、模板以及右键菜单/快捷键，适用于海报制作与商品DIY在线设计。",
+        "en": "Kuaitu (vue-fabric-editor) is a Vue + Fabric.js based, plugin-driven canvas image editor built for drag-and-drop design rather than a heavy “online PS”. It offers layers, history/undo, guides and rulers, gradients and filters, plus context menus and hotkeys that can be extended via plugins. It imports PSD/JSON and exports PNG/SVG/JSON, and supports custom fonts, assets and templates. Typical use cases include poster/banner creation, template-based marketing creatives, and product/print-on-demand DIY designers.",
+        "tags_zh": [
+          "Vue+Fabric.js",
+          "插件化画布编辑器",
+          "PSD解析与在线设计"
+        ],
+        "tags_en": [
+          "Vue & Fabric.js",
+          "Plugin-based Canvas Editor",
+          "PSD Import & Online Design"
         ]
       },
       "pushed_at": "2026-01-22",
@@ -1388,10 +1602,19 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "CCG 是基于 Claude Code CLI 的多模型协作开发工具集，统一编排 Codex 与 Gemini：Gemini 负责前端、Codex 负责后端，Claude 做智能路由、决策与代码审查。内置 17+ 斜杠命令覆盖规划-执行-测试-Review 与 Git 运维，并封装 OPSX 规范驱动与 Agent Teams 并行实施，通过文件化状态与跨会话执行降低上下文风险。",
+        "en": "CCG is a multi-model developer workflow toolkit built on Claude Code CLI, orchestrating Codex and Gemini with clear role routing (Gemini for frontend, Codex for backend) while Claude handles decisions and code review. It ships 17+ slash commands spanning planning/execution, debugging, testing, review, and Git operations. It also wraps OPSX spec-driven workflows and Claude Agent Teams for parallel implementation, persisting state to files to enable cross-session execution and reduce context window failure modes.",
+        "tags_zh": [
+          "Claude Code CLI",
+          "多模型编排",
+          "OPSX 规范驱动",
+          "Agent Teams 并行开发"
+        ],
+        "tags_en": [
+          "Claude Code CLI",
+          "Multi-model Orchestration",
+          "OPSX Spec-driven Development",
+          "Agent Teams Parallel Coding"
         ]
       },
       "pushed_at": "2026-02-27",
@@ -1403,7 +1626,7 @@
         "name": "ui-ux-pro-max-skill",
         "owner": "nextlevelbuilder",
         "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-        "stars": 35514,
+        "stars": 35516,
         "language": "Python",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "homepage": "https://www.uupm.cc/",
@@ -1431,10 +1654,20 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "UI UX Pro Max 是面向多平台的 AI 设计智能技能，内置设计系统生成器与推理引擎，可按需求快速产出信息架构、版式模式、CTA与组件规范；集成100条推理规则与67种UI风格，并提供CLI工作流，提升从产品到落地实现的一致性与效率。",
+        "en": "UI UX Pro Max is an AI skill that delivers design intelligence for building professional UI/UX across platforms and frameworks. Its core v2.0 capability is a Design System Generator: a reasoning-driven engine that interprets project requirements and outputs a tailored design system, including layout patterns, section structure, CTAs, and style guidance. The repository emphasizes repeatable quality via 100 reasoning rules and 67 curated UI styles, and it ships with CLI tooling (uipro-cli) to integrate design decisions into practical workflows.",
+        "tags_zh": [
+          "AI设计系统生成",
+          "推理规则引擎",
+          "多平台UI/UX",
+          "CLI设计工作流"
+        ],
+        "tags_en": [
+          "AI Design System Generator",
+          "Reasoning Engine",
+          "Cross-platform UI/UX",
+          "CLI Tooling"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -1453,10 +1686,20 @@
         "updated_at": "2026-01-26"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Prisma 是基于 Gemini 3 的可视化多专家并行推理引擎，以 Manager→Experts→Synthesis 工作流动态拆解复杂问题，并通过递归自省迭代提升结论可靠性。它提供思维链/内部独白与流程节点图实时展示，支持分阶段 Thinking Budget、模型切换与多会话本地存储，适用于复杂分析、方案设计与代码架构推演。",
+        "en": "Prisma is a visual deep multi-agent reasoning engine built on Google Gemini 3. It decomposes complex queries via a Manager→Experts→Synthesis pipeline, runs specialized experts in parallel, and applies recursive review/refinement to improve rigor. The UI exposes end-to-end reasoning as a live process graph, including expert internal monologues and drafts. It also offers per-stage thinking budgets, Gemini model switching, and local multi-session management—ideal for complex analysis, design decisions, and architecture/code reasoning.",
+        "tags_zh": [
+          "多智能体推理编排",
+          "Gemini 3 Thinking Config",
+          "推理流程可视化",
+          "递归自省迭代"
+        ],
+        "tags_en": [
+          "Multi-Agent Orchestration",
+          "Gemini 3 Thinking Config",
+          "Reasoning Process Visualization",
+          "Recursive Refinement"
+        ]
       },
       "pushed_at": "2026-01-26",
       "updated_at": "2026-02-28"
@@ -1475,10 +1718,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "面向Claude Code的多智能体开发编排系统，提供/do等模块化工作流，支持Codex/Gemini/OpenCode多后端路由执行，覆盖需求→测试→实现→评审全链路，并带npx安装、更新与安全扫描。",
+        "en": "A Claude Code–centric multi-agent orchestration system for AI-assisted software delivery. It ships modular workflows (/do, /omo, BMAD, SPARV, essentials) to standardize feature development, debugging, and requirements-to-code pipelines. The codeagent wrapper enables multi-backend execution and intelligent routing across Claude, Codex, Gemini, and OpenCode. Installation and updates are streamlined via npx with configurable modules and overwrite-safe upgrades. It also provides security-scanned skill installation plus utilities for PRD scoring, test-case generation, and browser automation.",
+        "tags_zh": [
+          "多智能体编排",
+          "Claude Code",
+          "多模型后端路由",
+          "AI开发自动化"
+        ],
+        "tags_en": [
+          "Multi-agent Orchestration",
+          "Claude Code",
+          "Multi-model Execution",
+          "Dev Workflow Automation"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -1514,10 +1766,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "AxonHub 是开源 AI 网关/平台，兼容 OpenAI、Anthropic 等 SDK，通过协议转换实现“任意 SDK 调任意模型”，配置切换即可接入 100+ LLM。内置 <100ms 故障切换与智能负载均衡、实时成本与配额控制、端到端请求追踪及企业级 RBAC，适合多模型生产接入与避免厂商锁定。",
+        "en": "AxonHub is an open-source AI gateway (Go, Docker-ready) that lets you use any existing SDK—OpenAI, Anthropic, and more—to call 100+ LLMs with zero code changes. It transparently translates API formats so you can switch providers via configuration, reducing vendor lock-in and integration overhead. Built for production, it includes sub-100ms failover, smart load balancing, real-time cost and quota governance with per-request breakdowns, end-to-end tracing for observability, and enterprise-grade RBAC for isolation and control.",
+        "tags_zh": [
+          "AI 网关",
+          "多模型路由",
+          "成本治理",
+          "端到端链路追踪"
+        ],
+        "tags_en": [
+          "AI Gateway",
+          "LLM Routing",
+          "Cost Governance",
+          "End-to-End Tracing"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -1538,10 +1800,19 @@
         "updated_at": "2025-12-30"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于Claude Code CLI的多智能体深度调研框架，利用Skills/Commands一键跑通7阶段流程与Graph of Thoughts路径控制，支持并行检索、综合写作与A-E级引用校验，自动产出结构化研究目录与报告。适用于技术选型、行业分析与可复用研究流水线。",
+        "en": "A multi-agent deep research framework built on Claude Code CLI, reproducing “Deep Research” capabilities via native Skills and Commands. It orchestrates a 7-phase workflow with a Graph of Thoughts controller to manage research paths, launches parallel specialist agents for exploration, and synthesizes outputs into structured reports. A citation validation system rates sources (A–E) and performs verification to improve trustworthiness. Ideal for technical decision-making, market/industry analysis, and repeatable research pipelines that generate organized artifacts under RESEARCH/[topic]/.",
+        "tags_zh": [
+          "Claude Code",
+          "多智能体深度调研",
+          "Graph of Thoughts",
+          "引用校验"
+        ],
+        "tags_en": [
+          "Claude Code",
+          "Multi-Agent Deep Research",
+          "Graph of Thoughts",
+          "Citation Verification"
         ]
       },
       "pushed_at": "2025-12-30",
@@ -1553,7 +1824,7 @@
         "name": "KVideo",
         "owner": "KuekHaoYang",
         "description": "一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 \"Liquid Glass\" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。",
-        "stars": 2545,
+        "stars": 2546,
         "language": "TypeScript",
         "url": "https://github.com/KuekHaoYang/KVideo",
         "homepage": "https://kvideo.pages.dev/",
@@ -1561,10 +1832,19 @@
         "updated_at": "2026-02-25"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "KVideo 基于 Next.js16/React19/Tailwind4 的视频聚合播放平台，以“Liquid Glass”玻璃拟态打造高质交互。支持多源并行搜索（SSE 实时回传）、自定义/订阅源与统一解析；HLS 播放含代理、卡顿检测、PiP、Chromecast；并集成 IPTV(M3U) 代理与豆瓣信息推荐、收藏和历史续播。",
+        "en": "KVideo is a modern video aggregation and playback platform built with Next.js 16, React 19, Tailwind CSS v4, and TypeScript. It features a distinctive “Liquid Glass” UI system for smooth, depth-rich interactions. The app delivers federated multi-source search with parallel queries and real-time results via Server-Sent Events, plus customizable and subscribable sources with a unified parser layer. Playback is HLS-first with proxy modes, stutter detection, PiP, Chromecast, and mobile-friendly controls. It also includes IPTV (M3U/M3U8) support with stream proxying, plus Douban metadata, recommendations, favorites, and resume history.",
+        "tags_zh": [
+          "Next.js全栈应用",
+          "HLS流媒体代理",
+          "SSE多源并行搜索",
+          "IPTV(M3U)聚合播放"
+        ],
+        "tags_en": [
+          "Next.js Full-stack App",
+          "HLS Streaming Proxy",
+          "SSE Federated Search",
+          "IPTV (M3U) Aggregation"
         ]
       },
       "pushed_at": "2026-02-25",
@@ -1591,10 +1871,20 @@
         "updated_at": "2026-02-10"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向提示词工程的优化与测试工具，支持系统/用户提示词一键迭代、原始与优化结果对比。内置变量管理、多轮会话与工具调用调试，集成OpenAI、Gemini、DeepSeek等及文生图/图生图。纯客户端直连模型，提供Web/桌面/插件/Docker与MCP接入。",
+        "en": "Prompt Optimizer is a prompt engineering assistant for refining system and user prompts through iterative rewriting and side-by-side evaluation. It provides variable templating, multi-turn conversation tests, and tool/function-calling playgrounds to harden prompts for production formats. The app integrates multiple LLM and image models (OpenAI, Gemini, DeepSeek, Zhipu, SiliconFlow, etc.) and supports T2I and I2I workflows. Built as a client-side app with optional access password, it ships as web, desktop, Chrome extension, Docker, and MCP server integrations. Real-time diff testing helps quantify improvements and choose the best prompt version.",
+        "tags_zh": [
+          "提示词工程",
+          "多模型集成",
+          "纯客户端隐私",
+          "MCP协议"
+        ],
+        "tags_en": [
+          "Prompt Engineering",
+          "Multi-LLM Integration",
+          "Client-side Privacy",
+          "Model Context Protocol (MCP)"
+        ]
       },
       "pushed_at": "2026-02-10",
       "updated_at": "2026-02-28"
@@ -1621,10 +1911,18 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "CLIProxyAPI 将 Gemini CLI、Claude Code、Codex、Qwen 等封装为 OpenAI/Gemini/Claude 兼容 API 服务，支持 OAuth 登录、多账号轮询负载、流式与非流式输出、工具/函数调用及图文多模态输入。适用于 IDE/SDK/Amp 等客户端无缝对接，以统一接口低成本调用多家 CLI 模型能力。",
+        "en": "CLIProxyAPI turns Gemini CLI, Claude Code, OpenAI Codex (GPT), Qwen Code and iFlow into OpenAI/Gemini/Claude/Codex-compatible API endpoints. It supports OAuth-based login, multi-account round-robin load balancing, streaming and non-streaming responses, tool/function calling, and multimodal inputs (text + images). Designed for CLI and coding clients (SDKs, IDE extensions, Amp), it enables seamless use of multiple providers through one stable gateway, with model mapping and smart fallback routing when models are unavailable.",
+        "tags_zh": [
+          "OpenAI兼容API网关",
+          "OAuth多账号轮询负载",
+          "CLI大模型代理"
+        ],
+        "tags_en": [
+          "OpenAI-Compatible API Gateway",
+          "OAuth Multi-Account Load Balancing",
+          "CLI LLM Proxy"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -1643,10 +1941,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "EnsoAI 是 Electron/React 桌面端多智能体开发工具，将 Git worktree 作为独立工作区；每个分支保留专属 AI 上下文，并行调用 Claude/Gemini/Codex 等代理完成编码、Diff 审查与提交，减少频繁切换带来的上下文损耗，提升多分支并行开发与协作效率。",
+        "en": "EnsoAI is an Electron/React desktop app that rethinks developer workflow around Git worktrees. It treats each branch as a first-class workspace with its own persistent AI context, enabling parallel work without constant context switching. You can run and switch between multiple agents—Claude, Gemini, Codex, and other CLI-based or local LLM tools—across different worktrees simultaneously. Built-in visual source control helps review diffs, stage changes, and manage commits, making multi-branch coding and review faster and more organized.",
+        "tags_zh": [
+          "Git Worktree 工作流",
+          "多智能体编排",
+          "Electron 桌面应用",
+          "AI 编程助手集成"
+        ],
+        "tags_en": [
+          "Git Worktrees Workflow",
+          "Multi-Agent Orchestration",
+          "Electron Desktop App",
+          "AI Coding Assistants Integration"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -1665,10 +1973,18 @@
         "updated_at": "2026-02-03"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向Codex/Claude的SKILL工作区，内置技能设计规范、AGENTS规则与Issue CSV计划模板，并可生成MCP工具目录。提供Claude/Gemini桥接协作与结构校验，适合沉淀可复用AI代理技能与开发流程。",
+        "en": "A Codex/Claude-style SKILL workspace focused on designing, standardizing, and maintaining agent capabilities. It ships opinionated documentation and workflow assets: AGENTS.md project rules, an issue-driven planning CSV/template, testing defaults, and an auto-generated MCP tools catalog to improve tool-aware planning. Bridge workflows support collaborating with Claude or Gemini without invoking their CLIs directly. Documentation-first and structure-validated, it’s ideal for teams building reusable agent skills and repeatable delivery processes.",
+        "tags_zh": [
+          "LLM技能工程",
+          "MCP工具目录",
+          "AGENTS工作流"
+        ],
+        "tags_en": [
+          "LLM Skill Authoring",
+          "Model Context Protocol",
+          "Agent Workflow Bootstrap"
+        ]
       },
       "pushed_at": "2026-02-03",
       "updated_at": "2026-02-28"
@@ -1687,10 +2003,20 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "AutoGLM-GUI 是 AI 驱动的 Android 自动化前端，基于 ADB+scrcpy 实时预览与交互，采用分层 LLM 代理完成复杂任务；支持无线配对、多设备、Workflow、Cron 定时与 Docker 7x24 部署，并提供 MCP 接入。",
+        "en": "AutoGLM-GUI is a modern Web/desktop interface for AutoGLM that turns Android control into a production-grade automation hub. It combines ADB and scrcpy for low-latency live preview and direct touch/gesture interaction, and uses a layered LLM-agent architecture to separate planning from execution for reliable multi-step tasks. It adds cron-style scheduling, conversation history, fast interruption, multi-device isolation, wireless pairing for Android 11+, Docker deployment for 24/7 operation, and an embedded MCP server for integration with tools like Claude Desktop and Cursor.",
+        "tags_zh": [
+          "Android设备自动化",
+          "分层LLM代理",
+          "ADB+scrcpy远程控制",
+          "MCP协议集成"
+        ],
+        "tags_en": [
+          "Android Device Automation",
+          "Layered LLM Agents",
+          "ADB/scrcpy Remote Control",
+          "MCP Protocol Integration"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -1712,10 +2038,20 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Open-AutoGLM 提供基于视觉语言模型的手机代理框架，通过 ADB/HDC 感知屏幕并结合规划能力自动执行操作链，支持用自然语言/语音驱动“打开App-搜索-点击-输入”等任务；内置敏感操作确认、登录/验证码人工接管与远程 ADB 调试，适用于手机智能助理、UI 自动化与无障碍交互。",
+        "en": "Open-AutoGLM is an open phone-agent model and framework that understands mobile screens with a vision-language model and executes tasks via ADB/HDC automation. Users describe goals in natural language (or voice), and the agent plans and performs multi-step UI actions such as launching apps, searching, tapping, and typing. It includes safety-oriented confirmation for sensitive operations, plus human takeover for login or CAPTCHA flows. Remote ADB debugging over Wi‑Fi/network enables flexible development and device control, and it integrates with Midscene.js for cross-platform UI automation.",
+        "tags_zh": [
+          "多模态手机代理",
+          "视觉语言模型",
+          "ADB/HDC 自动化",
+          "UI 任务规划"
+        ],
+        "tags_en": [
+          "Multimodal Phone Agent",
+          "Vision-Language Model",
+          "ADB/HDC Automation",
+          "UI Task Planning"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -1734,10 +2070,19 @@
         "updated_at": "2026-01-25"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "AI Live2D桌面宠物，Vue3+TS开发，Tauri(macOS)/Capacitor(Android)跨端。接入OpenAI并以Function Calling驱动表情动作；局域网互聊，支持模型包上传、记录导出。",
+        "en": "DesktopFriends is a cross-platform AI Live2D pet built with Vue 3 + TypeScript, shipped via Tauri for macOS and Capacitor for Android. It connects to LLMs (e.g., OpenAI) and uses function calling to trigger each model’s expressions and motions during replies, including an inner-monologue bubble style. Pets can discover each other on the local network and chat across devices through a Fastify + Socket.io relay, with model package upload and chat log export.",
+        "tags_zh": [
+          "Tauri桌面应用",
+          "Capacitor安卓跨端",
+          "Live2D(PixiJS)渲染",
+          "Socket.io局域网互联"
+        ],
+        "tags_en": [
+          "Tauri Desktop",
+          "Capacitor Android",
+          "Live2D PixiJS",
+          "Socket.io LAN Messaging"
         ]
       },
       "pushed_at": "2026-01-25",
@@ -1757,10 +2102,19 @@
         "updated_at": "2026-02-22"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "Code Switch 是面向 Claude Code/Codex/Gemini CLI 的桌面代理与多供应商管理器：在本地端口统一转发请求，按优先级自动降级切换 API，支持模型名映射，提供 Token/请求/成本统计与热力图，并集中管理 MCP 服务器与 CLI 配置，适合多密钥、多渠道与稳定性/成本敏感的开发者。",
+        "en": "Code Switch is a desktop proxy and multi-provider manager for Claude Code, Codex, and Gemini CLI. It runs a local forwarding gateway to route requests through configurable providers with priority levels and automatic failover. It also offers model-name mapping across vendors, detailed usage analytics (requests, tokens, success rate) and cost tracking, plus centralized MCP server and CLI config management—ideal for developers juggling multiple keys/providers and needing reliability and spend control.",
+        "tags_zh": [
+          "本地代理网关",
+          "多供应商故障切换",
+          "MCP 服务器管理",
+          "Token/成本统计"
+        ],
+        "tags_en": [
+          "Local Proxy Gateway",
+          "Multi-Provider Failover",
+          "MCP Server Management",
+          "Token & Cost Analytics"
         ]
       },
       "pushed_at": "2026-02-22",
@@ -1780,10 +2134,20 @@
         "updated_at": "2026-02-26"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向 Antigravity IDE 的 VS Code 插件，自动探测服务端口与凭证并轮询模型配额，在状态栏与 Dashboard 展示剩余额度与重置时间，低配额变色预警，支持本地登录同步及周限检测。",
+        "en": "Antigravity Quota Watcher is a VS Code extension for Google Antigravity IDE that continuously polls AI model quota usage and surfaces it in the status bar and a rich Dashboard. It auto-detects the local Antigravity server port and authentication, can import existing local login credentials, and highlights low quota via color warnings. The Dashboard lists remaining quota and reset times per model, shows connection and account status, and provides quick actions such as refresh and re-detect. Optional weekly-limit checks send a minimal test request.",
+        "tags_zh": [
+          "VS Code 扩展",
+          "配额监控",
+          "Antigravity AI",
+          "本地凭证同步"
+        ],
+        "tags_en": [
+          "VS Code Extension",
+          "Quota Monitoring",
+          "Antigravity AI",
+          "Local Credential Sync"
+        ]
       },
       "pushed_at": "2026-02-26",
       "updated_at": "2026-02-28"
@@ -1802,10 +2166,20 @@
         "updated_at": "2025-12-23"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库提供面向 Claude Code 的 Agent Skills 合集，以模块化技能将编程任务委派给 Codex/Gemini 等 CLI，实现多模型协作的原型开发、调试与代码审查，并提供跨平台一键安装脚本，支持用户级/项目级与自定义路径部署。",
+        "en": "This repository curates GudaStudio Agent Skills for Claude Code, leveraging Anthropic’s modular “Agent Skills” mechanism to plug in specialized workflows on demand. It enables seamless multi-model collaboration by delegating coding tasks to external CLIs such as OpenAI Codex and Google Gemini for prototyping, debugging, and code review. The repo includes cross-platform installers (Bash/PowerShell), supports user-level and project-level installation, and allows custom target paths, making skill rollout consistent across teams and environments.",
+        "tags_zh": [
+          "Claude Code",
+          "Agent Skills",
+          "多模型编排",
+          "CLI 工具协作"
+        ],
+        "tags_en": [
+          "Claude Code",
+          "Agent Skills",
+          "Multi-model Orchestration",
+          "CLI Tooling"
+        ]
       },
       "pushed_at": "2025-12-23",
       "updated_at": "2026-02-28"
@@ -1824,10 +2198,18 @@
         "updated_at": "2026-02-04"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "dompdf.js 在浏览器端将网页 DOM 与样式直接映射为可编辑、可打印的矢量 PDF，支持分页并可生成上千页文档。它改造 html2canvas 的 canvas 渲染器并驱动 jsPDF 输出真实 PDF，避免“截图式”图片 PDF，文件更小、清晰度更高。适用于前端一键导出报表/合同/长文档，但复杂 CSS 与视觉一致性仍有限。",
+        "en": "dompdf.js generates editable, printable vector PDFs directly in the browser by translating DOM structure and computed styles into jsPDF drawing commands. By modifying html2canvas’s canvas renderer, it avoids the common screenshot-to-PDF workflow, producing real PDFs with smaller size and better print quality. It includes pagination and can export documents with thousands of pages, making it suitable for one-click frontend exports such as reports, invoices, and long-form documents. Some CSS is unsupported and visual fidelity may differ from actual rendering.",
+        "tags_zh": [
+          "浏览器端矢量PDF生成",
+          "DOM/CSS渲染到PDF",
+          "html2canvas+jsPDF集成"
+        ],
+        "tags_en": [
+          "Browser-side Vector PDF",
+          "DOM/CSS-to-PDF Rendering",
+          "html2canvas + jsPDF Integration"
+        ]
       },
       "pushed_at": "2026-02-04",
       "updated_at": "2026-02-28"
@@ -1846,10 +2228,19 @@
         "updated_at": "2026-01-18"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于 Model Context Protocol（MCP）的“小红书”图文内容生成服务，面向 Claude Desktop/Claude Code 工作流，提供大纲生成与编辑、图片生成及项目管理能力；通过 npx 一键启动并对接外部图片生成 API（URL/Key/Model 可配），以“项目/资源”抽象组织内容产物。仓库已标记 Deprecated，建议用 Claude Code skill 替代。",
+        "en": "An MCP (Model Context Protocol) server for generating Xiaohongshu-style image-and-text posts within Claude Desktop/Claude Code workflows. It supports smart outline generation and editing, image generation via configurable external image APIs (URL/key/model), and project-based asset management exposed as MCP tools/resources. It can be launched via npx with minimal setup. The repository is marked deprecated, as equivalent functionality is now recommended to be implemented using Claude Code skills.",
+        "tags_zh": [
+          "Model Context Protocol（MCP）",
+          "Claude Desktop 集成",
+          "小红书图文生成",
+          "外部图片生成 API"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Claude Desktop Integration",
+          "Xiaohongshu Content Generation",
+          "Image Generation API"
         ]
       },
       "pushed_at": "2026-01-18",
@@ -1869,10 +2260,20 @@
         "updated_at": "2026-01-04"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 Gemini 3 Pro 的纯前端绘图工作台，支持批量并发、4K/多比例与参考图生成。IndexedDB 持久化会话并保留上下文续作；多 API 渠道轮询，兼容 OpenAI 接口，支持流式响应与 File System Access 本地自动保存。",
+        "en": "Gemini 3 Pro Image Preview is a framework-free web client for AI image generation powered by Google Gemini. It targets high-throughput creation with concurrent batch jobs, 1K–4K rendering, multiple aspect ratios, and reference-image guided generation. Conversations are persisted in IndexedDB and can retain configurable context for iterative workflows. It also provides multi-channel API routing with random polling, supports both native Gemini endpoints and OpenAI-compatible interfaces, and offers streaming responses plus optional auto-save via the browser File System Access API.",
+        "tags_zh": [
+          "Gemini 图像生成",
+          "OpenAI 兼容接口",
+          "IndexedDB 会话持久化",
+          "File System Access 自动保存"
+        ],
+        "tags_en": [
+          "Gemini Image Generation",
+          "OpenAI-Compatible API",
+          "IndexedDB Persistence",
+          "File System Access Auto-Save"
+        ]
       },
       "pushed_at": "2026-01-04",
       "updated_at": "2026-02-28"
@@ -1893,10 +2294,19 @@
         "updated_at": "2025-10-06"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "该项目输入一篇文章即可自动生成英语（或中文）对话播客短视频：LLM生成脚本、TTS配音、Whisper/Edge字幕、无版权高清素材与背景音乐并一键合成。提供WebUI与API，支持批量生成、多分辨率、字幕样式可调及多模型接入，适合英语学习内容生产与抖音/TikTok矩阵化发布。",
+        "en": "This repo turns a single article into an AI-generated conversation podcast short video end-to-end: LLM script generation (or custom scripts), TTS voice synthesis, subtitles via Edge or Whisper, royalty-free HD stock footage, and background music, then composes everything into a high-quality video. It ships with a clean MVC codebase plus both Web UI and API, supports batch rendering, multiple aspect ratios, configurable clip timing, and rich subtitle styling. Ideal for English-learning content creation and TikTok/Douyin distribution workflows.",
+        "tags_zh": [
+          "短视频自动化生成",
+          "LLM多模型接入",
+          "TTS配音与字幕流水线",
+          "WebUI/API内容工厂"
+        ],
+        "tags_en": [
+          "Short-video generation pipeline",
+          "Multi-LLM integration",
+          "TTS + subtitle automation",
+          "WebUI & API content factory"
         ]
       },
       "pushed_at": "2025-10-06",
@@ -2195,7 +2605,7 @@
         "name": "ccstatusline",
         "owner": "sirmalloc",
         "description": "🚀 Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more.",
-        "stars": 4201,
+        "stars": 4202,
         "language": "TypeScript",
         "url": "https://github.com/sirmalloc/ccstatusline",
         "homepage": "",
@@ -2332,7 +2742,7 @@
         "name": "Mole",
         "owner": "tw93",
         "description": "🐹 Deep clean and optimize your Mac.",
-        "stars": 37388,
+        "stars": 37389,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://x.com/HiTw93/status/2025424790467871149",
@@ -2573,7 +2983,7 @@
         "name": "DesktopCommanderMCP",
         "owner": "wonderwhy-er",
         "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-        "stars": 5557,
+        "stars": 5558,
         "language": "TypeScript",
         "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
         "homepage": "https://desktopcommander.app/",
@@ -2590,10 +3000,19 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "Desktop Commander 是面向 Claude/ChatGPT 的 MCP 服务器，提供终端命令流式执行、后台任务与进程/会话管理；集成文件系统读写、ripgrep 递归搜索、差异化替换与多文件编辑。支持内存运行 Python/Node/R、直接读写与搜索 Excel，以及 PDF 提取/生成/修改，并内置工具调用审计日志，适用于本地开发自动化与数据处理。",
+        "en": "Desktop Commander is an MCP server for Claude/ChatGPT that enables secure desktop automation: streamed terminal execution, background jobs, and interactive process/session control. It extends filesystem capabilities with fast recursive search (ripgrep), surgical replace/diff-style editing, and full file operations. It also runs code in memory (Python/Node/R), performs instant analysis on CSV/JSON/Excel, and offers native Excel and PDF read/write/edit support. Comprehensive audit logging and dynamic configuration make it practical for real-world dev workflows and automation.",
+        "tags_zh": [
+          "Model Context Protocol (MCP)",
+          "终端与进程自动化",
+          "代码库搜索与差异编辑",
+          "Excel/PDF 原生处理"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Terminal & Process Automation",
+          "Codebase Search & Diff Editing",
+          "Native Excel/PDF Handling"
         ]
       },
       "pushed_at": "2026-02-27",
@@ -2688,10 +3107,20 @@
         "updated_at": "2025-12-29"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 Gradio 的多模态视频分析 WebUI，集成关键帧提取、画质指标评估与 Faster-Whisper 高性能转录，并将帧+文本进行时空对齐生成结构化摘要报告。支持本地 Ollama 与 OpenAI 兼容 API 双引擎，可一键生成摘要视频/GIF，适用于课程复盘、素材粗剪、内容审校与信息核查等场景。",
+        "en": "A Gradio-based multimodal video analysis WebUI that combines intelligent keyframe selection, objective visual quality metrics, and high-throughput transcription via Faster-Whisper. It aligns frames with timestamped text to produce structured AI summary reports, and can generate highlight media such as recap videos and GIFs. The system supports a dual inference backend—local Ollama models or OpenAI-compatible cloud APIs—making it suitable for lecture review, rough-cut editing, content auditing, and video fact-checking workflows.",
+        "tags_zh": [
+          "多模态视频理解",
+          "Ollama/OpenAI 兼容推理",
+          "Faster-Whisper 转录",
+          "关键帧提取与画质分析"
+        ],
+        "tags_en": [
+          "Multimodal Video Understanding",
+          "Ollama/OpenAI-Compatible Inference",
+          "Faster-Whisper Transcription",
+          "Keyframe Extraction & Video QA Metrics"
+        ]
       },
       "pushed_at": "2025-12-29",
       "updated_at": "2026-02-28"
@@ -2702,7 +3131,7 @@
         "name": "cc-switch",
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-        "stars": 21628,
+        "stars": 21635,
         "language": "TypeScript",
         "url": "https://github.com/farion1231/cc-switch",
         "homepage": "https://github.com/farion1231/cc-switch",
@@ -2727,10 +3156,18 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "CC Switch 是基于 Tauri 2 的跨平台桌面助手，将 Claude Code、Codex、OpenCode 与 Gemini CLI 统一到一个 GUI 中管理与启动。它聚焦多工具并存场景，提供配置与账号/密钥集中维护、环境切换与一键运行，降低命令行门槛，适合开发者在不同模型与渠道间快速切换并保持稳定工作流。",
+        "en": "CC Switch is a cross-platform desktop assistant built with Tauri 2 that unifies Claude Code, Codex, OpenCode, and Gemini CLI into a single GUI. It targets real-world workflows where multiple AI coding CLIs coexist, centralizing configuration, credentials, and runtime environment management. By enabling quick profile switching and one-click launching, it reduces CLI friction and helps developers move between models/providers smoothly. The result is a more consistent, reliable daily setup for AI-assisted coding across Windows, macOS, and Linux.",
+        "tags_zh": [
+          "Tauri 2 桌面应用",
+          "AI 编码 CLI 编排",
+          "Claude Code/Codex/Gemini 集成"
+        ],
+        "tags_en": [
+          "Tauri 2 Desktop App",
+          "AI Coding CLI Orchestration",
+          "Claude Code/Codex/Gemini Integration"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -2757,10 +3194,18 @@
         "updated_at": "2025-12-14"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "MoneyPrinterTurbo 只需输入主题/关键词，即可自动生成脚本、配音、字幕、素材与背景音乐并合成高清短视频。提供 Web 与 API，MVC 架构便于二次开发；支持竖屏/横屏、多尺寸、批量生成与片段时长控制。可接入 OpenAI、DeepSeek、Gemini、Ollama 等多家模型，适用于内容营销与自媒体流水线生产。",
+        "en": "MoneyPrinterTurbo turns a topic or keywords into an HD short video end-to-end: script generation, stock footage sourcing, subtitle creation, voice synthesis, background music selection, and final composition. It ships with both a Web UI and an API, built on a clean MVC structure for maintainability and customization. The pipeline supports vertical/horizontal formats, multiple resolutions, batch generation, and clip duration control. It integrates with many LLM providers (OpenAI, DeepSeek, Gemini, Ollama, etc.), fitting content marketing and creator automation workflows.",
+        "tags_zh": [
+          "短视频自动生成",
+          "多模型LLM接入",
+          "TTS字幕合成"
+        ],
+        "tags_en": [
+          "Automated Short-Video Generation",
+          "Multi-Provider LLM Orchestration",
+          "TTS & Subtitle Synthesis"
+        ]
       },
       "pushed_at": "2025-12-14",
       "updated_at": "2026-02-28"
@@ -2771,7 +3216,7 @@
         "name": "rustdesk",
         "owner": "rustdesk",
         "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-        "stars": 108304,
+        "stars": 108306,
         "language": "Rust",
         "url": "https://github.com/rustdesk/rustdesk",
         "homepage": "https://rustdesk.com",
@@ -2799,10 +3244,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "RustDesk 是 Rust 编写的开源远程桌面，主打自托管替代 TeamViewer。跨平台客户端开箱即用，可部署自建 rendezvous/relay 服务器完成穿透与中继，数据与访问控制留在本地。Flutter/Sciter UI，支持远程控制、文件传输与权限管理，适用于企业运维、远程协助与合规场景。",
+        "en": "RustDesk is an open-source remote desktop and remote support application written in Rust, built for self-hosting as a TeamViewer alternative. It provides cross-platform clients (desktop and mobile) that work out of the box, while letting you run your own rendezvous and relay servers for NAT traversal and traffic forwarding. This keeps identity, routing, and access policies under your control, improving privacy and compliance. The UI is built with Flutter (Sciter legacy) and includes interactive control, file transfer, and session/permission management.",
+        "tags_zh": [
+          "远程桌面",
+          "自托管中继/穿透",
+          "Rust",
+          "跨平台Flutter"
+        ],
+        "tags_en": [
+          "Remote Desktop",
+          "Self-hosted Relay/Rendezvous",
+          "Rust",
+          "Cross-platform Flutter"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -2821,10 +3276,19 @@
         "updated_at": "2025-09-03"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "VoiceCraft 基于 Edge TTS 与硅基流动 STT，提供免费网页与 API 的 TTS/STT 双向服务。20+ 中文音色与多语种，支持语速/音调/风格调参、音频下载。兼容 OpenAI TTS 接口，可一键部署到 Cloudflare Workers，适用于配音、朗读与转录。",
+        "en": "VoiceCraft is a free web + API speech platform combining Microsoft Edge Text-to-Speech with SiliconFlow Speech-to-Text. It provides 20+ Chinese neural voices, multilingual UI, and controls for speed, pitch, and speaking style, with downloadable audio and editable transcripts. The HTTP endpoints follow the OpenAI TTS API shape, simplifying integration into apps, bots, and automation workflows. Built for quick serverless rollout on Cloudflare Workers, it fits narration, accessibility reading, short-video/podcast dubbing, and meeting transcription at low operational cost.",
+        "tags_zh": [
+          "Cloudflare Workers",
+          "Microsoft Edge TTS",
+          "OpenAI接口兼容",
+          "语音转写STT"
+        ],
+        "tags_en": [
+          "Cloudflare Workers",
+          "Microsoft Edge TTS",
+          "OpenAI-compatible TTS API",
+          "Speech-to-Text"
         ]
       },
       "pushed_at": "2025-09-03",
@@ -2836,7 +3300,7 @@
         "name": "spec-kit",
         "owner": "github",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "stars": 72758,
+        "stars": 72759,
         "language": "Python",
         "url": "https://github.com/github/spec-kit",
         "homepage": "https://github.github.com/spec-kit/",
@@ -2852,10 +3316,18 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Spec Kit 提供 Specify CLI 与 /speckit 指令，将需求场景写成可执行规格，驱动 AI 代理生成代码、测试与文档。适用于从零启动或重构项目：先定义项目原则与可验收结果，再自动落地实现，减少随意“vibe coding”，提升交付质量与一致性。",
+        "en": "Spec Kit is an open-source toolkit for Spec-Driven Development, centered on the Specify CLI and /speckit assistant commands. It turns product scenarios and desired outcomes into executable specs that can drive AI agents to generate implementations, tests, and supporting docs. The workflow starts by defining a project “constitution” (quality, testing, UX, performance rules), then iteratively specifies what/why before coding. It’s well-suited for bootstrapping new apps or stabilizing refactors with predictable, repeatable delivery.",
+        "tags_zh": [
+          "规格驱动开发",
+          "AI 代理编程",
+          "可执行规格生成"
+        ],
+        "tags_en": [
+          "Spec-Driven Development",
+          "AI Agents",
+          "Executable Specifications"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -2874,10 +3346,17 @@
         "updated_at": "2025-06-14"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于FastAPI+React的HTTP请求管理与自动化调度平台，支持Fiddler Raw/cURL导入、请求CRUD、定时/周期并发执行、重试与代理轮换，并提供执行记录统计与实时任务监控，适合接口测试、爬虫任务与批量API运维自动化。",
+        "en": "RequestManager is an HTTP request management and automation platform built with FastAPI and React (TypeScript). It imports requests from Fiddler Raw dumps or cURL commands, provides full CRUD with tags/categories, and runs them as scheduled jobs with periodic triggers, multi-thread concurrency, and configurable retry policies. The system includes proxy pool management with automatic rotation, detailed execution history and statistics, plus real-time task monitoring and control. It fits API testing, batch API operations, and crawler-style request orchestration workflows.",
+        "tags_zh": [
+          "FastAPI异步后端",
+          "HTTP请求自动化调度",
+          "代理轮换与重试"
+        ],
+        "tags_en": [
+          "FastAPI",
+          "HTTP Task Scheduling",
+          "Proxy Rotation"
         ]
       },
       "pushed_at": "2025-06-14",
@@ -2897,10 +3376,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "mise 是一体化开发环境前端：管理上百种工具版本（替代 asdf），按目录注入环境变量并加载 .env（类 direnv），并提供 make 风格任务运行。通过 shell 激活获得真实可执行路径而非 shim，适合多语言项目在本地与 CI 中统一版本、变量与构建流程。",
+        "en": "mise is an all-in-one front-end for developer environments. It manages versions of hundreds of tools across languages (asdf-like), provides directory-scoped environment variables and .env loading (direnv-style), and includes a task runner similar to make for build/test workflows. After shell activation, it exposes real executable paths instead of shims, improving reliability and debuggability. It’s ideal for polyglot teams needing consistent toolchains, env configuration, and repeatable tasks across local machines and CI.",
+        "tags_zh": [
+          "多语言工具版本管理",
+          "目录级环境变量",
+          "任务运行器",
+          "Rust 命令行工具"
+        ],
+        "tags_en": [
+          "Polyglot tool version manager",
+          "Directory-scoped environments",
+          "Task runner",
+          "Rust CLI"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -2919,10 +3408,18 @@
         "updated_at": "2025-12-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库提供“电商退货地址截图”生成器，用于模拟顺丰/京东等平台退货页，借助规范地址信息生成可截图的寄件凭证，以获取退货渠道的运费优惠并支持叠加券。项目以纯前端实现（HTML+JS），提供在线与本地静态部署，集成剪贴板读写、信息清空等交互，单模板适配多快递/电商平台场景。",
+        "en": "This repo is a front-end “return-address screenshot” simulator for SF Express and other e-commerce/shipping platforms. It helps users generate a realistic return-page layout from standardized address details, enabling screenshot-based proof commonly used in return-shipping workflows and discount channels. Built with HTML + JavaScript (no backend), it supports online hosting or local static serving, and includes clipboard import/export plus one-click reset. A single template is designed to fit multiple platforms such as JD, STO, and ZTO.",
+        "tags_zh": [
+          "前端模板生成",
+          "剪贴板交互",
+          "电商退货物流"
+        ],
+        "tags_en": [
+          "Front-end Template Generator",
+          "Clipboard API",
+          "E-commerce Returns Logistics"
+        ]
       },
       "pushed_at": "2025-12-09",
       "updated_at": "2026-02-28"
@@ -2941,10 +3438,20 @@
         "updated_at": "2025-08-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Sketch2Motion 将照片/涂鸦转换为“手绘生成”动画视频：先把图像提取为线稿并矢量化为 SVG，再用 Manim 按路径分段绘制渲染为高质量 MP4，并用末帧前置制造自然停顿。提供 Gradio 网页端可调时长、子路径延迟、缩放与多种绘制曲线，适用于教学演示、产品讲解与创意短视频制作。",
+        "en": "Sketch2Motion turns a photo, doodle, or sketch into a polished “drawing” animation. It converts the input image to a sketch, vectorizes it into SVG paths, then renders a high-quality MP4 with Manim by animating subpaths in sequence. The app also prepends the last frame to create a brief intro pause for smoother playback. A Gradio web UI exposes key controls—duration, subpath delay ratio, scale, and multiple drawing styles—making it practical for explainers, educational visuals, and quick motion content.",
+        "tags_zh": [
+          "Manim 动画渲染",
+          "SVG 路径绘制",
+          "Gradio WebUI",
+          "图像矢量化"
+        ],
+        "tags_en": [
+          "Manim Rendering",
+          "SVG Path Animation",
+          "Gradio Web UI",
+          "Image-to-Vector"
+        ]
       },
       "pushed_at": "2025-08-09",
       "updated_at": "2026-02-28"
@@ -2963,10 +3470,20 @@
         "updated_at": "2025-12-01"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 Go + Next.js/React 的端到端 WebRTC P2P 快传工具，通过 WebSocket 仅做信令协商，文件/文本/桌面共享数据经 DataChannel 直连传输，不落服务器，兼顾隐私与吞吐。支持多文件并发、ACK 可靠分片、断线恢复与自定义 STUN/TURN，提供响应式 UI 与 Docker/单文件多平台部署。",
+        "en": "A Go + Next.js/React end-to-end WebRTC P2P transfer tool. It uses WebSocket only for signaling, while files, text, and screen sharing stream directly over WebRTC DataChannels so payloads never pass through or persist on the server. It features multi-file concurrent transfer, ACK-based reliable chunking, connection recovery, and customizable STUN/TURN for NAT traversal, plus responsive UI and easy Docker or single-binary cross-platform deployment.",
+        "tags_zh": [
+          "WebRTC DataChannel",
+          "P2P端到端传输",
+          "Go全栈部署",
+          "屏幕共享"
+        ],
+        "tags_en": [
+          "WebRTC DataChannel",
+          "End-to-End P2P Transfer",
+          "Go Full-Stack Deployment",
+          "Screen Sharing"
+        ]
       },
       "pushed_at": "2025-12-01",
       "updated_at": "2026-02-28"
@@ -2988,10 +3505,19 @@
         "updated_at": "2025-11-08"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "寸止是基于MCP的跨平台工具，拦截AI对话过早收尾并弹窗续聊；支持按项目记忆规范偏好、Markdown交互，并集成ACE语义代码搜索，提升Claude等助手持续解题与代码理解能力。",
+        "en": "Cunzhi is a cross-platform MCP tool that prevents assistants from ending conversations too early by triggering a continuation popup at the right moment. It adds project-scoped memory for coding conventions and personal preferences, provides Markdown-friendly interaction and a dedicated settings UI, and helps generate ready-to-use prompts for clients like Claude Desktop. It also integrates ACE-powered semantic code search, enabling deeper repository understanding and longer, more effective problem-solving sessions across macOS, Windows, and Linux.",
+        "tags_zh": [
+          "MCP工具生态",
+          "Tauri桌面应用",
+          "对话拦截续聊",
+          "语义代码搜索"
+        ],
+        "tags_en": [
+          "Model Context Protocol",
+          "Tauri",
+          "Conversation Continuation",
+          "Semantic Code Search"
         ]
       },
       "pushed_at": "2025-11-08",
@@ -3003,7 +3529,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 9539,
+        "stars": 9543,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -3015,10 +3541,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于MCP的“小红书”自动化服务，提供登录/状态检查、图文与视频发布、搜索与推荐流获取、帖子详情（含互动与评论）、自动评论及用户主页抓取。支持HTTP API与MCP工具调用，并提供Docker镜像便于部署，适合LLM代理进行内容运营、批量发布与数据采集。",
+        "en": "xiaohongshu-mcp is an MCP server that lets LLM agents operate Xiaohongshu (RED) via tool calls. It supports login and session checks, publishing image posts (URL or local paths) and local video uploads, keyword search, home-feed recommendations, and rich note retrieval including engagement metrics and nested comments. It can also auto-post comments and fetch user profile pages. The project exposes HTTP APIs alongside MCP, ships Docker images for deployment, and targets automated content operations and lightweight data-collection workflows.",
+        "tags_zh": [
+          "Model Context Protocol(MCP)",
+          "小红书自动化",
+          "内容发布/评论机器人",
+          "Docker化部署"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Xiaohongshu Automation",
+          "Social Media Publishing Bot",
+          "Dockerized Service"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -3037,10 +3573,19 @@
         "updated_at": "2026-01-10"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "以 Claude Code 为底座提供本地路由代理，按任务类型在多模型供应商间分流与切换；支持请求/响应 Transformer 定制与插件扩展，提供 /model 动态换模与 ccr model CLI 管理，并可集成 GitHub Actions 在 CI 中触发自动化编码与审查任务。",
+        "en": "Claude Code Router turns Claude Code into a customizable routing layer for AI coding infrastructure. It proxies requests and routes them to different models/providers based on task needs (background work, deep thinking, long context), with support for OpenRouter, DeepSeek, Ollama, Gemini, Volcengine, and SiliconFlow. It also provides request/response transformers and a plugin system to adapt payloads across providers. Models can be switched on the fly via the /model command, managed via CLI, and automated in CI with GitHub Actions.",
+        "tags_zh": [
+          "Claude Code 路由代理",
+          "多供应商大模型网关",
+          "请求/响应 Transformer",
+          "CLI 与 GitHub Actions 集成"
+        ],
+        "tags_en": [
+          "Claude Code Routing Proxy",
+          "Multi-provider LLM Gateway",
+          "Request/Response Transformers",
+          "CLI & GitHub Actions Integration"
         ]
       },
       "pushed_at": "2026-01-10",
@@ -3076,10 +3621,17 @@
         "updated_at": "2025-08-21"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "面向AI代理的MCP任务管理器，将自然语言需求转为可追踪的开发任务树，支持依赖关系、持久化进度、反思与风格模板，适配Claude Code等客户端，实现跨会话的代理式开发流程。",
+        "en": "Shrimp Task Manager is an MCP (Model Context Protocol) server for agentic software development. It turns natural-language goals into structured development tasks with decomposition, dependency tracking, and iterative refinement. By persisting task state across sessions, it preserves context under token limits and enables “developer-like” agent behavior. Built to integrate with MCP-compatible clients such as Claude Code, it emphasizes reflection and consistent writing/coding style via templates, providing guided workflows for planning, execution, and verification.",
+        "tags_zh": [
+          "Model Context Protocol（MCP）",
+          "AI代理式开发流程",
+          "任务拆解与依赖跟踪"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Agentic Development Workflow",
+          "Task Decomposition & Dependency Tracking"
         ]
       },
       "pushed_at": "2025-08-21",
@@ -3102,10 +3654,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于 Playwright 的闲鱼多任务监控与抓取工具，结合多模态 AI 以自然语言生成任务并对商品图文做深度推荐判定。提供完整 Web 后台用于任务/账号/Prompt/日志与结果管理，支持区域/价格/发布时间等高级筛选、Cron 定时、代理与账号轮换重试，并通过 ntfy/企微/Telegram/Webhook 等实现即时通知，适合高频捡漏与精准选品。",
+        "en": "An AI-assisted Xianyu monitoring and scraping tool built on Playwright, enabling multi-task real-time or scheduled tracking. Users can create tasks with natural language and leverage multimodal LLMs to analyze listings (text + images) and decide whether to notify. It ships with a full web admin UI for tasks, accounts, prompts, logs, and result browsing, plus advanced filters (region, price, recency), cron scheduling, account/proxy rotation with retries, and rich notification channels (ntfy, WeCom, Bark, Telegram, webhooks).",
+        "tags_zh": [
+          "Playwright 自动化爬取",
+          "多模态大模型筛选",
+          "闲鱼商品监控",
+          "任务调度与通知集成"
+        ],
+        "tags_en": [
+          "Playwright Automation",
+          "Multimodal LLM Filtering",
+          "Marketplace Monitoring",
+          "Cron Scheduling & Notifications"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -3125,10 +3686,17 @@
         "updated_at": "2025-08-05"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la ddCat-main/ai-goofish && find ddCat-main/ai-goofish -maxdepth 3 -name AGENTS.md -print && rg -n \"TODO|FIXME|BUG\" -S ddCat-main/ai-goofish | head"
+        "zh": "面向闲鱼二手市场的商品监控平台：按关键词/价格自动爬取，Playwright渲染增强稳定性；接入大语言模型对商品做智能评估与推荐理由生成，结果入库并邮件实时推送；FastAPI+Web界面统一管理任务、代理池与Cookie池，配套日志与统计便于运维。",
+        "en": "An AI-driven Xianyu (Goofish) product monitoring system that continuously crawls listings by user-defined keywords and price ranges. It uses Playwright for JavaScript-rendered pages, plus proxy and cookie pools to improve robustness. A large language model analyzes each item, produces recommendation decisions and explanations, and stores structured results in SQLite. FastAPI provides REST APIs and a built-in web console for task management, settings, logs, and filtering. Notifications (e.g., email) deliver relevant deals in near real time.",
+        "tags_zh": [
+          "Playwright爬虫",
+          "FastAPI监控平台",
+          "大语言模型筛选"
+        ],
+        "tags_en": [
+          "Playwright Crawling",
+          "FastAPI Monitoring Console",
+          "LLM-based Filtering"
         ]
       },
       "pushed_at": "2025-08-05",
@@ -3148,10 +3716,19 @@
         "updated_at": "2026-02-08"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于Cloudflare Workers与Hono构建的微信风格文件传输助手Web/PWA，支持SSE实时聊天、跨设备同步与10MB文件上传，D1+R2存储，JWT鉴权与离线缓存，零依赖前端便于快速部署。",
+        "en": "A WeChat-style File Transfer Assistant rebuilt as a modern Web/PWA on Cloudflare Workers with the Hono framework. It delivers real-time chat and multi-device sync via SSE, plus drag-and-drop and clipboard uploads for files up to 10MB. Messages are persisted in Cloudflare D1 (SQLite) and files in R2 object storage for scalable, globally distributed access. Security is handled with password protection and JWT sessions, while PWA offline caching enables app-like usage and fast edge responses.",
+        "tags_zh": [
+          "Cloudflare Workers",
+          "Hono 框架",
+          "SSE 实时同步",
+          "D1/R2 存储"
+        ],
+        "tags_en": [
+          "Cloudflare Workers",
+          "Hono Framework",
+          "SSE Realtime Sync",
+          "D1 & R2 Storage"
         ]
       },
       "pushed_at": "2026-02-08",
@@ -3163,7 +3740,7 @@
         "name": "AstrBot",
         "owner": "AstrBotDevs",
         "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "stars": 18301,
+        "stars": 18303,
         "language": "Python",
         "url": "https://github.com/AstrBotDevs/AstrBot",
         "homepage": "https://astrbot.app",
@@ -3188,10 +3765,19 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "AstrBot 是面向多平台即时通讯的 Agent 聊天机器人基础设施，统一接入主流 IM、LLM 与工具链，通过插件市场扩展技能与工作流编排，支持可靠、可扩展的会话 AI 部署。提供 Docker/发行版交付，适合个人自动化、社群运营、企业客服与团队协作，作为 OpenClaw 的开源替代方案。",
+        "en": "AstrBot is an open-source, all-in-one agentic chatbot infrastructure for instant messaging. It unifies integrations across mainstream IM platforms, multiple LLM providers, and tool-based AI capabilities, enabling scalable conversational workflows. With a plugin marketplace and extensible architecture, developers can rapidly add skills, automations, and custom agents. Shipping with Docker-friendly deployment and production-minded components, AstrBot fits personal automation, community operations, customer support, and team assistants—positioning itself as a practical open alternative to OpenClaw.",
+        "tags_zh": [
+          "多平台IM接入",
+          "插件化Agent框架",
+          "LLM编排",
+          "Python生态"
+        ],
+        "tags_en": [
+          "Multi-IM Integration",
+          "Plugin-based Agent Framework",
+          "LLM Orchestration",
+          "Python 3.10+"
         ]
       },
       "pushed_at": "2026-02-28",
@@ -3232,10 +3818,20 @@
         "updated_at": "2026-02-26"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "ZCF 是基于 npx 的零配置 CLI，一键为 Claude Code 与 Codex 完成安装、工作流注入、API/CCR 路由与 MCP 生态接入。提供中英双语交互与可预设的提供商/密钥参数，支持交互式与脚本化初始化及仅工作流更新，适合快速搭建稳定的 AI 编程环境与团队统一配置。",
+        "en": "ZCF (Zero-Config Code Flow) is an npm-powered CLI that bootstraps Claude Code and Codex with a single command. It automates installation, workflow provisioning, provider/key presets, API/CCR routing, and MCP integration, minimizing manual setup and copy-paste configuration. The tool offers a bilingual interactive menu plus non-interactive flags for scripting and CI usage, and supports updating workflows independently. It targets developers and teams who want a fast, reproducible, and stable AI coding environment across multiple providers.",
+        "tags_zh": [
+          "Node.js CLI",
+          "Claude Code/Codex 初始化",
+          "零配置工作流自动化",
+          "API 路由(CCR)/MCP 集成"
+        ],
+        "tags_en": [
+          "Node.js CLI",
+          "Claude Code & Codex Bootstrap",
+          "Zero-Config Workflow Automation",
+          "API Routing (CCR) & MCP Integration"
+        ]
       },
       "pushed_at": "2026-02-26",
       "updated_at": "2026-02-28"
@@ -3259,10 +3855,20 @@
         "updated_at": "2025-07-01"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Twocast 可将主题/链接/文档/榜单页一键生成3–9分钟双人对话播客，产出大纲、脚本与可下载音频。融合OpenRouter LLM 与 FishAudio/Minimax/Gemini TTS，多语言多音色，借助Textract+FFmpeg完成解析与合成，适用于资讯速读与跨语内容再创作。",
+        "en": "Twocast generates short, two-person conversational podcasts (3–9 minutes) from a topic, URL, documents (PDF/DOC/TXT), or curated list pages. It outputs a complete package—outline, script, and downloadable audio—making it practical for news digestion, education recaps, and bilingual content repurposing. The pipeline combines LLM drafting via OpenRouter with multilingual TTS providers (Fish Audio, Minimax, Google Gemini), plus Textract-based text extraction and FFmpeg processing for audio assembly. Local and Docker deployments are supported with Postgres/Drizzle.",
+        "tags_zh": [
+          "对话式播客生成",
+          "多语言TTS",
+          "LLM内容编排",
+          "Next.js全栈"
+        ],
+        "tags_en": [
+          "Conversational Podcast Generation",
+          "Multilingual TTS",
+          "LLM Orchestration",
+          "Next.js Full-Stack"
+        ]
       },
       "pushed_at": "2025-07-01",
       "updated_at": "2026-02-28"
@@ -3288,10 +3894,20 @@
         "updated_at": "2026-01-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "NarratoAI 基于大模型把影视/短剧内容自动生成解说文案，并驱动剪辑、配音与字幕一键流水线。支持多模型供应商管理（LiteLLM）、视频理解（Qwen2‑VL）、语音克隆（IndexTTS2）与混剪，面向短视频内容生产提效。",
+        "en": "NarratoAI is an end-to-end AI workflow for movie/short-drama narration and automated video editing. It uses LLMs to draft commentary scripts, then drives a one-click pipeline covering clip selection/editing, voiceover (TTS), and subtitle generation. The project also adds practical creator features such as multi-provider model routing via LiteLLM, video understanding with Qwen2-VL, and voice cloning through IndexTTS2, enabling fast production of narrated recaps and remix-style cuts for short-form video channels.",
+        "tags_zh": [
+          "LLM影视解说生成",
+          "自动化视频剪辑",
+          "语音克隆TTS",
+          "多模型编排(LiteLLM)"
+        ],
+        "tags_en": [
+          "LLM Video Narration",
+          "Automated Video Editing",
+          "Voice Cloning TTS",
+          "Multi-provider LLM Orchestration"
+        ]
       },
       "pushed_at": "2026-01-09",
       "updated_at": "2026-02-28"
@@ -3310,10 +3926,19 @@
         "updated_at": "2025-06-05"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "基于React+Vite的AI交互式小说生成器，按风格开局并以分支选项驱动剧情。引入关键词分段解析替代严格JSON，提升LLM输出容错；结合结构大纲迭代与用户偏好分析，在会话内保留历史与走向，适合沉浸式互动阅读与内容原型验证。",
+        "en": "An AI-powered interactive novel generator built with React/Vite, where users pick a genre and steer the plot through branching choices. To reduce LLM formatting failures, it parses responses via robust keyword markers instead of strict JSON. The app maintains in-session reading history and introduces “structure thinking” (outline planning and periodic recalibration) plus lightweight user preference analysis to adapt future scenes and options. Ideal for interactive fiction prototyping, narrative UX demos, and experimenting with OpenAI-compatible chat completion endpoints.",
+        "tags_zh": [
+          "交互式叙事",
+          "LLM提示词解析",
+          "React+Vite前端",
+          "剧情分支生成"
+        ],
+        "tags_en": [
+          "Interactive Fiction",
+          "LLM Output Parsing",
+          "React/Vite",
+          "Branching Narrative Generation"
         ]
       },
       "pushed_at": "2025-06-05",
@@ -3325,7 +3950,7 @@
         "name": "TrendRadar",
         "owner": "sansan0",
         "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "stars": 47559,
+        "stars": 47560,
         "language": "Python",
         "url": "https://github.com/sansan0/TrendRadar",
         "homepage": "https://sansan0.github.io/TrendRadar/",
@@ -3350,10 +3975,20 @@
         "updated_at": "2026-02-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "可自托管的 AI 舆情趋势监控器，聚合多平台热榜与 RSS，按关键词筛选降噪。内置 AI 翻译与摘要简报，支持 MCP 对话式情感洞察与趋势分析。Docker 快速部署，微信/飞书/Telegram 等多渠道推送，数据自持。",
+        "en": "A self-hosted AI-driven public opinion and trend monitoring system that aggregates multi-platform hot lists and RSS feeds, then filters noise with precise keyword rules. It generates translated, LLM-based digests and smart alerts, pushing insights to multiple channels (WeChat, Feishu, DingTalk, Telegram, email, Slack, etc.). With MCP integration, it enables conversational analysis, sentiment insights, and trend forecasting. Deploy fast via Docker or GitHub Pages while keeping full data ownership locally or in your own cloud.",
+        "tags_zh": [
+          "舆情监控",
+          "RSS聚合",
+          "MCP接入",
+          "多渠道告警"
+        ],
+        "tags_en": [
+          "Public Opinion Monitoring",
+          "RSS Aggregation",
+          "Model Context Protocol",
+          "Multi-channel Alerts"
+        ]
       },
       "pushed_at": "2026-02-09",
       "updated_at": "2026-02-28"
@@ -3372,10 +4007,18 @@
         "updated_at": "2025-08-07"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库仅包含一句“bye~”的极简README，暂无源码与项目结构信息。更像用于账号/流程测试、仓库初始化或占位展示的空项目，可作为创建新仓库时的最小模板，后续再逐步补齐代码、CI、版本发布与文档规范。",
+        "en": "This repository is essentially empty: the README contains only a short “bye~” message and there is no visible source code, documentation structure, or build configuration. In practice, it looks like a placeholder repo used for account verification, workflow testing, repository initialization, or a minimal public marker. It can serve as a bootstrap starting point where you later add actual code, CI pipelines, release automation, and standard project documentation.",
+        "tags_zh": [
+          "占位仓库",
+          "仓库初始化",
+          "流程测试"
+        ],
+        "tags_en": [
+          "Placeholder Repository",
+          "Repository Bootstrap",
+          "Workflow Testing"
+        ]
       },
       "pushed_at": "2025-08-07",
       "updated_at": "2026-02-28"
@@ -3394,10 +4037,20 @@
         "updated_at": "2026-02-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "IOE基于Django的一站式零售库存系统，集商品/库存/盘点/收银销售/会员积分与报表分析于一体，支持多支付、低库存预警、审计权限与Docker部署，适用于门店与小仓库数字化管理。",
+        "en": "IOE is a Django-based, one-stop inventory management system tailored for retail stores and small warehouses. It covers product cataloging, real-time stock tracking, inbound/outbound adjustments, and structured stocktaking with review and discrepancy reports. Built-in POS-style sales flows support multiple payment methods, discounts, and returns. Membership features include tiers, points, balance top-ups, and purchase history. Analytics dashboards provide sales trends, inventory health, and profit insights, with role-based access control, audit logs, and Docker-ready deployment.",
+        "tags_zh": [
+          "Django",
+          "零售库存管理",
+          "收银POS",
+          "Docker部署"
+        ],
+        "tags_en": [
+          "Django",
+          "Retail Inventory",
+          "POS & Membership",
+          "Docker Deployment"
+        ]
       },
       "pushed_at": "2026-02-09",
       "updated_at": "2026-02-28"
@@ -3416,10 +4069,20 @@
         "updated_at": "2025-04-17"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向Windows的免安装C盘清理工具，提供一键扫描/清理临时文件、缓存、更新残留、日志等，并支持大文件定位。通过模拟预览、路径安全校验与自动备份/恢复机制降低误删风险，适用于C盘空间紧张、系统维护与日常垃圾治理场景。Python实现，MIT开源，支持7/8/10/11。",
+        "en": "An open-source, portable Windows C drive cleaner that scans and removes temp files, caches, update leftovers, logs, and more, plus a large-file finder to quickly locate space hogs. Unlike risky cleaners, it emphasizes safety with a dry-run preview mode, protected-path checks, and automatic backup/restore before deletion. Built in Python under the MIT license, it targets routine maintenance and low-disk-space troubleshooting on Windows 7/8/10/11.",
+        "tags_zh": [
+          "Windows系统清理",
+          "Python桌面工具",
+          "安全删除与备份恢复",
+          "大文件扫描"
+        ],
+        "tags_en": [
+          "Windows Disk Cleanup",
+          "Python Desktop Utility",
+          "Safe Deletion & Backup/Restore",
+          "Large File Scanner"
+        ]
       },
       "pushed_at": "2025-04-17",
       "updated_at": "2026-02-28"
@@ -3444,10 +4107,20 @@
         "updated_at": "2025-08-12"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "LibreTV 是轻量级在线视频搜索与播放平台，聚合多源并通过服务端 HLS 代理实现跨端顺畅播放；兼容苹果CMS V10接口，免注册且可用环境变量密码保护，一键部署到 Vercel/Netlify/Cloudflare/Render 或 Docker，适合快速自建私有影视站与流媒体代理技术学习。",
+        "en": "LibreTV is a lightweight video search-and-watch platform that aggregates multiple third-party sources and delivers smoother playback via a server-side HLS proxy. It requires no registration, supports optional password protection through an environment variable, and can be deployed in minutes on Vercel, Netlify, Cloudflare Pages/Functions, Render, or Docker. The project is compatible with Apple CMS V10 APIs, making it easy to plug in custom content providers. Ideal for quickly running a private streaming portal and learning serverless streaming proxy patterns.",
+        "tags_zh": [
+          "Serverless 部署",
+          "HLS 代理",
+          "苹果CMS V10 API",
+          "在线视频聚合搜索"
+        ],
+        "tags_en": [
+          "Serverless Video Platform",
+          "HLS Proxy",
+          "Apple CMS V10 API",
+          "Video Aggregation Search"
+        ]
       },
       "pushed_at": "2025-08-12",
       "updated_at": "2026-02-28"
@@ -3458,7 +4131,7 @@
         "name": "weekly",
         "owner": "ruanyf",
         "description": "科技爱好者周刊，每周五发布",
-        "stars": 84854,
+        "stars": 84855,
         "language": "N/A",
         "url": "https://github.com/ruanyf/weekly",
         "homepage": "",
@@ -3466,10 +4139,18 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向开发者的中文科技周刊，每周五精选文章、工具与资源，提供可检索的 Markdown 长期归档；通过 GitHub Issues 投稿与讨论形成开放编辑流程，并附长期免费的“谁在招人”招聘帖，适合技术学习与趋势跟踪。",
+        "en": "Ruanyf/weekly is a long-running Chinese tech digest published every Friday. Each issue curates high-signal links across software engineering, AI, products, security, and the wider tech industry, with brief commentary and a stable Markdown archive for search and reuse. Submissions and discussions are crowdsourced via GitHub Issues, effectively turning the repo into an open editorial workflow. It also hosts a popular “Who’s hiring” thread as a free job board for developers and interns. Ideal for staying current and discovering tools.",
+        "tags_zh": [
+          "技术周刊",
+          "内容精选聚合",
+          "GitHub Issues 投稿协作"
+        ],
+        "tags_en": [
+          "Tech Newsletter",
+          "Curated Link Digest",
+          "GitHub Issues Workflow"
+        ]
       },
       "pushed_at": "2026-02-27",
       "updated_at": "2026-02-28"
@@ -3494,10 +4175,19 @@
         "updated_at": "2026-02-27"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls"
+        "zh": "Folo 是面向资讯订阅的 AI 阅读器，聚合 RSS/网站/社媒内容，自动摘要、翻译与要点提取，支持跨端同步与离线阅读，帮助用户高效消化信息流并构建个人知识库，提供收藏、标签与搜索。",
+        "en": "Folo is an AI-powered reader built for information subscription. It aggregates content from RSS feeds, websites, and social sources, then uses AI to generate concise summaries, extract key points, and assist with translation for faster comprehension. With cross-device syncing across mobile and desktop, it fits daily reading workflows from quick scans to deep dives. Offline access, saving, tagging, and search help turn noisy streams into a personal, searchable knowledge base for ongoing learning and research.",
+        "tags_zh": [
+          "AI阅读器",
+          "RSS聚合",
+          "跨平台客户端",
+          "内容摘要"
+        ],
+        "tags_en": [
+          "AI Reader",
+          "RSS Aggregation",
+          "Cross-platform App",
+          "Content Summarization"
         ]
       },
       "pushed_at": "2026-02-27",
@@ -3517,10 +4207,19 @@
         "updated_at": "2025-09-08"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "LLMAI-writer 是面向小说写作的 AI 工作台，覆盖从大纲、人物到章节生成与润色的全流程。内置提示词模板与上下文感知生成，支持章节拖拽排序与自动编号。兼容 GPT/Claude/Gemini 及 DeepSeek、SiliconFlow、Ollama 本地模型，并提供知识库导入与向量检索、人物关系图与统计分析，适合长篇连载与团队规划。",
+        "en": "LLMAI-writer is an AI-assisted novel writing workstation that supports the full pipeline: outline planning, character design, chapter drafting, analysis, and polishing. It provides prompt templates, context-aware chapter generation across neighboring chapters, drag-and-drop structure management, and automatic numbering. The tool integrates multiple LLM providers (OpenAI GPT, Anthropic Claude, Google Gemini) plus DeepSeek/ModelScope, SiliconFlow, and local Ollama models via OpenAI-compatible APIs with streaming output. It also includes a RAG-style knowledge base with embeddings and vector search, character relationship visualization, and writing statistics for long-form projects.",
+        "tags_zh": [
+          "多模型LLM编排",
+          "AI小说创作工作流",
+          "向量检索知识库",
+          "人物关系可视化"
+        ],
+        "tags_en": [
+          "Multi-LLM Orchestration",
+          "AI Novel Writing Workflow",
+          "RAG Vector Knowledge Base",
+          "Character Relationship Graph"
         ]
       },
       "pushed_at": "2025-09-08",
@@ -3540,10 +4239,20 @@
         "updated_at": "2026-01-18"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "MTranServer是无需显卡的离线翻译服务端，首次自动拉取模型后平均50ms响应。支持Windows/Mac/Linux桌面一键启动与Docker/npm部署，适合内网与隐私场景的无限免费翻译，并提供DeepL/沉浸式等插件兼容API。",
+        "en": "MTranServer is an ultra-lightweight offline machine translation server designed for fast, private, self-hosted deployment without a GPU. After the first run auto-downloads and loads language-pair models, typical requests respond in about 50 ms. It offers one-click desktop apps for Windows/macOS/Linux, plus npm and Docker Compose deployments. The service targets local and intranet use cases where data privacy matters and costs must be controlled, and it exposes compatible endpoints for DeepL, DeepLX, Immersive Translate, and other translation plugins.",
+        "tags_zh": [
+          "离线机器翻译",
+          "CPU推理",
+          "私有化部署",
+          "DeepL接口兼容"
+        ],
+        "tags_en": [
+          "Offline Machine Translation",
+          "CPU Inference",
+          "Self-hosted Deployment",
+          "DeepL-compatible API"
+        ]
       },
       "pushed_at": "2026-01-18",
       "updated_at": "2026-02-28"
@@ -3568,10 +4277,20 @@
         "updated_at": "2026-01-30"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于JDK21+Selenium的全平台自动投简历工具，覆盖Boss直聘/前程无忧/猎聘/智联。提供Web GUI配置、自动下载Chromedriver与长Cookie登录；支持AI评估岗位匹配度并生成个性化招呼语（Boss）、投递过滤与企业黑名单、企业微信实时推送，显著提升批量投递效率与命中率。",
+        "en": "Get Jobs is a Java 21 (Gradle) automation assistant for submitting resumes across major Chinese job platforms (Boss Zhipin, 51job, Liepin, Zhilian). Built on Selenium with auto ChromeDriver handling and long-lived cookie sessions, it reduces repetitive manual steps. A web-based GUI centralizes configuration and execution. Key capabilities include AI-based JD matching and personalized greeting generation (Boss), smart filters for inactive HR/headhunters/salary targets, auto-updated company blacklists, and real-time WeCom webhook notifications for delivery status.",
+        "tags_zh": [
+          "Selenium浏览器自动化",
+          "多平台投简历",
+          "AI岗位匹配与招呼语",
+          "Java JDK21/Gradle"
+        ],
+        "tags_en": [
+          "Selenium Web Automation",
+          "Multi-platform Resume Submission",
+          "AI JD Matching & Outreach Copy",
+          "Java 21 / Gradle"
+        ]
       },
       "pushed_at": "2026-01-30",
       "updated_at": "2026-02-28"
@@ -3594,10 +4313,19 @@
         "updated_at": "2025-04-23"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "Gemini Token Manager 提供多令牌池与轮询负载均衡，内置 Google GenAI/OpenAI 代理与 SSE 流式转发，支持批量导入/检测/导出密钥与请求日志审计；提供 REST 接口与管理 UI，Docker 部署并持久化数据，环境变量可配置。",
+        "en": "Gemini Token Manager is a Node.js service that manages a pool of Gemini API tokens and distributes traffic via load balancing. It offers a RESTful API and an admin UI, supports Docker deployment with persistent storage, and auto-initializes data files. The enhanced proxy layer can forward Google GenAI and OpenAI API requests, including SSE streaming responses, with detailed request/response logging and better error handling. It also includes bulk key operations such as import, delete, validation, and selective export.",
+        "tags_zh": [
+          "Gemini API 令牌池",
+          "API 代理负载均衡",
+          "Node.js/PM2 集群",
+          "Docker 持久化部署"
+        ],
+        "tags_en": [
+          "Gemini API Token Pool",
+          "API Gateway Load Balancing",
+          "Node.js PM2 Cluster",
+          "Dockerized Persistent Service"
         ]
       },
       "pushed_at": "2025-04-23",
@@ -3625,10 +4353,19 @@
         "updated_at": "2025-05-11"
       },
       "summary": {
-        "command": [
-          "bash",
-          "-lc",
-          "ls -la"
+        "zh": "RedNote-MCP 是面向小红书（XHS）的 MCP Server，基于 Playwright 自动化登录并持久化 Cookie，向 Cursor 等 MCP 客户端提供笔记关键词搜索与按 URL 抓取内容能力。适用于让 AI 助手安全接入小红书进行检索、摘要与内容分析，支持命令行初始化与 stdio 通信，便于本地部署集成。",
+        "en": "RedNote-MCP is a Model Context Protocol (MCP) server for accessing RedNote (XiaoHongShu/XHS). It uses Playwright to automate interactive login and persists cookies for authenticated access. The server exposes tools for keyword-based note search and fetching note content by URL, designed to integrate with MCP clients like Cursor over stdio. It’s suited for letting AI assistants retrieve, summarize, and analyze XHS content via a local, scriptable CLI workflow.",
+        "tags_zh": [
+          "Model Context Protocol(MCP)",
+          "Playwright 自动化登录",
+          "小红书/XHS 内容检索",
+          "Cursor 集成"
+        ],
+        "tags_en": [
+          "Model Context Protocol (MCP)",
+          "Playwright Browser Automation",
+          "XiaoHongShu/XHS Content Retrieval",
+          "Cursor Integration"
         ]
       },
       "pushed_at": "2025-05-11",
@@ -3648,10 +4385,20 @@
         "updated_at": "2026-02-22"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 ACL4SSR 二次定制的 Clash/ClashVerge 分流规则与脚本，整合去广告、GFWList 与规则碎片，可直接粘贴到 ClashVerge 全局扩展或指定订阅脚本。并补充 IPv6 规则与分组，便于按场景精细路由、统一管理与持续维护。",
+        "en": "A personalized fork of ACL4SSR providing curated rule sets and a ClashVerge Script for Clash-based clients. It bundles ad-blocking rules, GFWList routing, and reusable rule fragments, and can be pasted directly into ClashVerge global extensions or per-subscription scripts. The project also adds IPv6-specific rules and dedicated policy groups, enabling finer traffic steering across common scenarios while keeping configuration maintainable and easy to iterate for daily proxy usage.",
+        "tags_zh": [
+          "Clash 分流规则",
+          "ClashVerge Script",
+          "去广告规则",
+          "IPv6 规则集"
+        ],
+        "tags_en": [
+          "Clash Rule-Based Routing",
+          "ClashVerge Script",
+          "AdBlocking Ruleset",
+          "IPv6 Policy Groups"
+        ]
       },
       "pushed_at": "2026-02-22",
       "updated_at": "2026-02-28"
@@ -3673,10 +4420,20 @@
         "updated_at": "2025-12-25"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "面向京东账号的自动化工具集，涵盖模拟登录与Cookies管理、个人订单信息爬取与持久化导出，以及订单自动五星图文评价。适用于个人订单数据备份、消费分析与操作提效，模块化脚本设计便于按需组合与二次开发。",
+        "en": "A modular automation toolkit for JD.com accounts, providing simulated login and cookie/session management, personal order crawling with persistence/export, and automated order reviews that post five-star ratings with text and images. It targets personal data backup, order analytics, and workflow efficiency. Components are separated into focused scripts (login manager, data exporter, auto evaluator) so users can integrate only what they need and extend it for custom pipelines or automation tasks.",
+        "tags_zh": [
+          "京东订单爬取",
+          "模拟登录",
+          "Cookies管理",
+          "自动化评价"
+        ],
+        "tags_en": [
+          "JD.com order scraping",
+          "Automated login",
+          "Cookie/session management",
+          "Automated review posting"
+        ]
       },
       "pushed_at": "2025-12-25",
       "updated_at": "2026-02-28"
@@ -3695,10 +4452,20 @@
         "updated_at": "2025-04-03"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Python 实现的 Cursor 账号自动注册与管理服务，集成 tempmail 临时邮箱与 Cloudflare Catch-all 转发，驱动无头 Chrome 完成注册流程；基于 FastAPI 提供账号创建、随机取号、列表查询与健康检查，并内置可视化 UI/Swagger 文档；使用 SQLite（aiosqlite）持久化账号数据，便于本地部署与调试。",
+        "en": "A Python-based service for automated Cursor account registration and lifecycle management. It integrates tempmail.plus disposable mailboxes with Cloudflare catch-all forwarding to receive verification emails, then drives a headless Chrome workflow to complete sign-up. Built on FastAPI, it exposes endpoints to create accounts, list all accounts, fetch a random account, and perform health checks, plus an optional built-in UI and OpenAPI docs (Swagger/ReDoc). Account data is persisted via SQLite using aiosqlite for easy local development and debugging.",
+        "tags_zh": [
+          "FastAPI",
+          "无头浏览器自动化",
+          "临时邮箱/Cloudflare 转发",
+          "SQLite 异步持久化"
+        ],
+        "tags_en": [
+          "FastAPI",
+          "Headless Browser Automation",
+          "Disposable Email + Cloudflare Catch-all",
+          "SQLite (aiosqlite)"
+        ]
       },
       "pushed_at": "2025-04-03",
       "updated_at": "2026-02-28"
@@ -3728,10 +4495,20 @@
         "updated_at": "2026-02-10"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Deep Research 以多LLM编排+联网检索在约2分钟生成深度研究报告，支持Thinking/Task分工、分阶段再研究、知识库与知识图谱。基于Next.js PWA，可部署Vercel/Cloudflare，数据本地存储，并提供SSE流式API与MCP服务器接入。",
+        "en": "Deep Research is a privacy-first deep research app that orchestrates multiple LLMs and web search to produce detailed reports in minutes. It separates “Thinking” and “Task” models to balance depth and speed, supports iterative re-research from any stage, and adds local knowledge base ingestion plus one-click knowledge graph generation. Built as a Next.js PWA, it deploys easily to Vercel or Cloudflare. It also exposes SSE streaming APIs and an MCP server, enabling integration with external tools and agent workflows.",
+        "tags_zh": [
+          "多LLM编排",
+          "深度研究自动化",
+          "SSE流式API",
+          "MCP服务器"
+        ],
+        "tags_en": [
+          "Multi-LLM Orchestration",
+          "Deep Research Automation",
+          "SSE Streaming API",
+          "Model Context Protocol (MCP)"
+        ]
       },
       "pushed_at": "2026-02-10",
       "updated_at": "2026-02-28"
@@ -3750,10 +4527,20 @@
         "updated_at": "2025-03-22"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 Next.js 14 与 TypeScript 的 FAL.AI Web 界面，面向文生图等 AI 服务提供可视化调用与实时处理。内置 API Key 管理、Server Proxy 安全转发与限流，结合 RSC/流式响应与图片优化，适合个人创作、团队快速验证与在 Vercel 上部署 AI 工具前端。",
+        "en": "A modern Next.js 14 + TypeScript web UI for interacting with FAL.AI services (e.g., image generation) through a clean, responsive interface. It focuses on secure API key handling, a server-side proxy to prevent credential exposure, and built-in rate limiting. Performance is enhanced with React Server Components, streaming responses for long-running AI jobs, lazy loading, and optimized image delivery. Ideal for creators and teams who want a deployable front-end to quickly prototype and operate FAL.AI-powered workflows on Vercel.",
+        "tags_zh": [
+          "Next.js 14（App Router/RSC）",
+          "FAL.AI 集成",
+          "Server Proxy 安全凭证",
+          "流式 AI 推理 UI"
+        ],
+        "tags_en": [
+          "Next.js 14 (App Router/RSC)",
+          "FAL.AI Integration",
+          "Server Proxy Credential Security",
+          "Streaming AI Inference UI"
+        ]
       },
       "pushed_at": "2025-03-22",
       "updated_at": "2026-02-28"
@@ -3772,10 +4559,18 @@
         "updated_at": "2025-11-27"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "DiffRhythm 是首个开源潜空间扩散模型，可端到端在约285秒生成全长歌曲；支持文本风格提示、纯音乐、续写与编辑，v1.2提升音质与配器并缓解重复遗漏，适用于音乐创作、产品原型与音乐AIGC研究。",
+        "en": "DiffRhythm is the first open-sourced diffusion-based music model able to generate full-length songs end-to-end, delivering a complete track in about 285 seconds via latent diffusion. It supports text-based style prompts without audio references, instrumental-only generation, and structured song continuation/editing. Version 1.2 improves arrangement richness, audio quality, and reduces repetition/omission artifacts. The project targets rapid music creation workflows, product prototyping, and research on controllable, structure-aware generative music systems.",
+        "tags_zh": [
+          "潜空间扩散",
+          "全长歌曲生成",
+          "文本到音乐"
+        ],
+        "tags_en": [
+          "Latent Diffusion",
+          "Full-length Song Generation",
+          "Text-to-Music"
+        ]
       },
       "pushed_at": "2025-11-27",
       "updated_at": "2026-02-28"
@@ -3803,10 +4598,20 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Wasp是面向AI时代的“电池齐全”全栈框架，用声明式.wasp规范串联React、Node.js与Prisma，内置认证、RPC、任务队列、邮件、端到端类型安全与一键部署，显著减少样板并支持任意平台部署，适合快速交付生产级Web应用。",
+        "en": "Wasp (Web Application Specification) is a batteries-included, Rails-like full-stack framework for building JS/TS web apps with React, Node.js, and Prisma. You describe the app via a declarative .wasp spec and implement only business logic in React/Node, while Wasp generates and connects auth, RPC, background jobs, email sending, end-to-end type safety, and smart caching/invalidation. It optimizes for fast production delivery with minimal boilerplate, single-command deployment, and no provider lock-in, giving AI agents clearer structure and guardrails.",
+        "tags_zh": [
+          "声明式DSL",
+          "React+Node.js+Prisma全栈",
+          "一键部署",
+          "端到端类型安全"
+        ],
+        "tags_en": [
+          "Declarative DSL",
+          "React/Node/Prisma Full-stack",
+          "Single-command Deployment",
+          "End-to-end Type Safety"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
@@ -3825,10 +4630,20 @@
         "updated_at": "2025-09-14"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "Tuboshu 是基于 Electron 的网页转桌面应用工具，可将常用网站一键封装为独立客户端。支持多开与账户隔离、全局快捷键快速呼出/隐藏，并提供窗口尺寸、图标、快捷键与 JS 注入等深度定制。可打包为跨平台可执行文件，配置本地存储，适合多站点工作台、运营多账号与开发调试容器场景。",
+        "en": "Tuboshu is an Electron-based tool that turns any website into a standalone desktop app with one click. It supports multi-instance launching with account isolation, global hotkeys for instant show/hide, and deep customization including window sizing, icons, shortcuts, and JavaScript injection. Apps can be packaged as executables for Windows, macOS, and Linux, with privacy-friendly local-only configuration storage. Ideal for multi-site workspaces, multi-account operations, and lightweight web container setups.",
+        "tags_zh": [
+          "Electron桌面应用",
+          "网页封装(WebView)",
+          "多开账号隔离",
+          "JS注入定制"
+        ],
+        "tags_en": [
+          "Electron Desktop",
+          "Web App Wrapping",
+          "Multi-Instance Isolation",
+          "JavaScript Injection"
+        ]
       },
       "pushed_at": "2025-09-14",
       "updated_at": "2026-02-28"
@@ -3847,10 +4662,18 @@
         "updated_at": "2024-04-17"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "《Flutter实战·第二版》书稿与在线电子书，系统讲解Flutter从入门到进阶与实战：组件布局、事件动画、自定义组件、网络文件、国际化及框架原理，并以简版GitHub App串联流程，提供大量示例与配套源码。",
+        "en": "Manuscript and online e-book for “Flutter in Action (2nd Edition)”, updated regularly and written to take developers from fundamentals to advanced practice. It covers Flutter/Dart UI construction with core widgets and layout, event handling and gestures, animations, custom components, file and network I/O, internationalization, and deeper Flutter framework internals. A simplified GitHub client app serves as a capstone to connect topics into a realistic end-to-end development flow. Rich examples and illustrations are included, with companion code planned after the draft is finalized.",
+        "tags_zh": [
+          "Flutter 开发教程",
+          "Dart 组件与布局",
+          "Flutter 框架原理"
+        ],
+        "tags_en": [
+          "Flutter Development",
+          "Dart Widgets & Layout",
+          "Flutter Framework Internals"
+        ]
       },
       "pushed_at": "2024-04-17",
       "updated_at": "2026-02-28"
@@ -3869,10 +4692,20 @@
         "updated_at": "2025-05-04"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "LuminaBrush 是面向文生图扩散模型的交互式“打光绘制”工具，用户用涂鸦即可控制光照效果。框架采用两阶段：先将任意图像转为“均匀光”中间表示，再在其上生成可控照明，降低学习难度并稳定行为。数据流程通过随机法线合成重光与海量配对数据训练；均匀光阶段还能独立用于图像去光照/提亮。",
+        "en": "LuminaBrush is an interactive illumination-drawing tool for text-to-image diffusion workflows, enabling users to steer lighting with simple scribbles. It uses a two-stage design: first normalizing an input image into a “uniformly-lit” representation, then synthesizing user-guided illumination effects on top of it. This decomposition simplifies learning and improves stability versus a single-stage lighting model. Training leverages relighting via synthesized random normals and large-scale paired data mined from in-the-wild images. The uniform-lit stage can also serve as a standalone delighting/lighting-normalization utility.",
+        "tags_zh": [
+          "扩散模型可控编辑",
+          "交互式光照重绘",
+          "两阶段均匀光表示",
+          "Flux 基座"
+        ],
+        "tags_en": [
+          "Controllable Diffusion Editing",
+          "Interactive Relighting",
+          "Two-Stage Uniform-Lit Representation",
+          "Flux Backbone"
+        ]
       },
       "pushed_at": "2025-05-04",
       "updated_at": "2026-02-28"
@@ -3898,10 +4731,20 @@
         "updated_at": "2026-01-06"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "基于 Vue3+Vite+Pinia+Naive UI 的修仙题材放置游戏《我的放置仙途》，提供角色、奇遇、探索、背包、成就、灵宠/装备养成、炼丹、抽奖与 GM/数据管理等完整闭环。适用于前端放置游戏原型、数值与系统设计验证，并支持 NPM 与 Docker-Compose 快速部署。",
+        "en": "A Vue 3 idle cultivation game template built with Vite, Pinia, and Naive UI. It delivers a full gameplay loop: character progression, encounters, exploration, inventory, achievements, pets and gear with upgrade paths, alchemy, gacha, plus GM tools and data management. Ideal for prototyping idle games and validating system/economy design, with both NPM and Docker-Compose deployment options.",
+        "tags_zh": [
+          "Vue3",
+          "放置游戏",
+          "Pinia 状态管理",
+          "GM/数据管理"
+        ],
+        "tags_en": [
+          "Vue 3",
+          "Idle Game",
+          "Pinia",
+          "GM Tools & Data Management"
+        ]
       },
       "pushed_at": "2026-01-06",
       "updated_at": "2026-02-28"
@@ -3912,7 +4755,7 @@
         "name": "chinese-independent-developer",
         "owner": "1c7",
         "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-        "stars": 46900,
+        "stars": 46901,
         "language": "N/A",
         "url": "https://github.com/1c7/chinese-independent-developer",
         "homepage": "",
@@ -3924,10 +4767,18 @@
         "updated_at": "2026-02-28"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库以清单形式聚合中国独立开发者的 Web 与 App 产品，按“开发中/已上线/停更”标注状态，并拆分主版面、程序员版面与游戏版面便于检索。适合灵感获取、竞品调研与项目曝光；通过 PR/Issue 机制社区共建，持续更新可用产品索引。",
+        "en": "This repository curates a living directory of products built by Chinese independent developers, focusing on ready-to-use websites and apps (not dev tools or forum-style sites). Entries are labeled by lifecycle status—building, launched, or unmaintained—and organized into main, programmer, and game editions for quick discovery. It helps makers find inspiration, run market/competitor research, and gain lightweight exposure. Contributions are crowdsourced via pull requests and issues. Each item links to the creator and product page for fast scanning.",
+        "tags_zh": [
+          "独立开发者",
+          "产品目录",
+          "社区共建"
+        ],
+        "tags_en": [
+          "Indie Developers",
+          "Product Directory",
+          "Open Collaboration"
+        ]
       },
       "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
