@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 02:11 UTC",
+  "last_updated": "2026-02-28 11:38 UTC",
   "repos": {
     "LifeArchiveProject/WeChatDataAnalysis": {
       "metadata": {
@@ -148,7 +148,7 @@
         "name": "prompt-optimizer",
         "owner": "linshenkx",
         "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "stars": 22313,
+        "stars": 22372,
         "language": "TypeScript",
         "url": "https://github.com/linshenkx/prompt-optimizer",
         "homepage": "https://prompt.always200.com",
@@ -219,8 +219,8 @@
         "name": "cc-switch",
         "owner": "farion1231",
         "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.",
-        "stars": 21313,
-        "language": "Rust",
+        "stars": 21625,
+        "language": "TypeScript",
         "url": "https://github.com/farion1231/cc-switch",
         "homepage": "https://github.com/farion1231/cc-switch",
         "topics": [
@@ -241,7 +241,7 @@
           "typescript",
           "wsl-support"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "cc-switch 是一款跨平台桌面工具，集成 Claude Code、Codex 和 Gemini CLI 的 AI 编程助手功能，支持多模型切换与统一管理。基于 Tauri 2 构建，提供轻量、安全、高效的本地运行环境，适用于开发者提升编码效率。",
@@ -307,7 +307,7 @@
         "name": "RedInk",
         "owner": "HisMax",
         "description": "红墨 - 基于🍌Nano Banana Pro🍌 的一站式小红书图文生成器 《一句话一张图片生成小红书图文》 Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, \"One Sentence, One Image: Generate Xiaohongshu Text and Images.\"",
-        "stars": 4918,
+        "stars": 4923,
         "language": "Python",
         "url": "https://github.com/HisMax/RedInk",
         "homepage": "https://redink.top",
@@ -757,13 +757,13 @@
         "full_name": "lingfengQAQ/webnovel-writer",
         "name": "webnovel-writer",
         "owner": "lingfengQAQ",
-        "description": "AI驱动的长篇网文辅助创作工具 - 基于Claude Code，支持200万字连载管理，内置防幻觉机制和5维质量审查",
-        "stars": 265,
+        "description": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+        "stars": 314,
         "language": "Python",
         "url": "https://github.com/lingfengQAQ/webnovel-writer",
         "homepage": "",
         "topics": [],
-        "updated_at": "2026-02-26"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "基于Claude Code的AI网文创作辅助系统，专为长篇连载设计，支持200万字级内容管理。通过双Agent架构与RAG检索解决AI‘遗忘’与‘幻觉’问题，内置防幻觉三定律、六维质量审查及Strand Weave节奏控制，确保剧情连贯、角色一致与追读体验。",
@@ -859,7 +859,7 @@
         "name": "ui-ux-pro-max-skill",
         "owner": "nextlevelbuilder",
         "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
-        "stars": 35341,
+        "stars": 35511,
         "language": "Python",
         "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
         "homepage": "https://www.uupm.cc/",
@@ -1503,7 +1503,7 @@
         "name": "Mole",
         "owner": "tw93",
         "description": "🐹 Deep clean and optimize your Mac.",
-        "stars": 37327,
+        "stars": 37384,
         "language": "Shell",
         "url": "https://github.com/tw93/Mole",
         "homepage": "https://x.com/HiTw93/status/2025424790467871149",
@@ -1617,7 +1617,7 @@
         "name": "spec-kit",
         "owner": "github",
         "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-        "stars": 72647,
+        "stars": 72757,
         "language": "Python",
         "url": "https://github.com/github/spec-kit",
         "homepage": "https://github.github.com/spec-kit/",
@@ -1730,7 +1730,7 @@
         "name": "zcf",
         "owner": "UfoMiao",
         "description": "Zero-Config Code Flow for Claude code & Codex",
-        "stars": 5541,
+        "stars": 5542,
         "language": "TypeScript",
         "url": "https://github.com/UfoMiao/zcf",
         "homepage": "http://zcf.ufomiao.com/",
@@ -2015,7 +2015,7 @@
         "name": "BettaFish",
         "owner": "666ghj",
         "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "stars": 35819,
+        "stars": 35889,
         "language": "Python",
         "url": "https://github.com/666ghj/BettaFish",
         "homepage": "https://deepwiki.com/666ghj/BettaFish",
@@ -2881,7 +2881,7 @@
         "name": "file-transfer-go",
         "owner": "MatrixSeven",
         "description": "Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。",
-        "stars": 4677,
+        "stars": 4681,
         "language": "TypeScript",
         "url": "https://github.com/MatrixSeven/file-transfer-go",
         "homepage": "https://transfer.52python.cn",
@@ -3107,7 +3107,7 @@
         "name": "claude-code-router",
         "owner": "musistudio",
         "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
-        "stars": 28565,
+        "stars": 28612,
         "language": "TypeScript",
         "url": "https://github.com/musistudio/claude-code-router",
         "homepage": "https://musistudio.github.io/claude-code-router/",
@@ -3172,7 +3172,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 9460,
+        "stars": 9538,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -3181,7 +3181,7 @@
           "mcp-server",
           "xiaohongshu-mcp"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "小红书 MCP 工具，支持登录、发布图文/视频内容、搜索、获取推荐列表、查看帖子详情与评论、发表评论及获取用户主页信息。提供本地文件上传、自动格式转换等功能，适用于内容运营与自动化发布场景。",
@@ -3508,7 +3508,7 @@
         "name": "TrendRadar",
         "owner": "sansan0",
         "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
-        "stars": 47489,
+        "stars": 47556,
         "language": "Python",
         "url": "https://github.com/sansan0/TrendRadar",
         "homepage": "https://sansan0.github.io/TrendRadar/",
@@ -3656,7 +3656,7 @@
         "name": "cloudflare_temp_email",
         "owner": "dreamhunter2333",
         "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-        "stars": 6219,
+        "stars": 6231,
         "language": "Vue",
         "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
         "homepage": "https://mail.awsl.uk",
@@ -4431,7 +4431,7 @@
         "name": "deep-research",
         "owner": "u14app",
         "description": "Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.",
-        "stars": 4469,
+        "stars": 4478,
         "language": "JavaScript",
         "url": "https://github.com/u14app/deep-research",
         "homepage": "https://research.u14.app",
@@ -4850,7 +4850,7 @@
         "name": "weekly",
         "owner": "ruanyf",
         "description": "科技爱好者周刊，每周五发布",
-        "stars": 84815,
+        "stars": 84851,
         "language": "N/A",
         "url": "https://github.com/ruanyf/weekly",
         "homepage": "",
@@ -5234,7 +5234,7 @@
         "name": "MoneyPrinterTurbo",
         "owner": "harry0703",
         "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-        "stars": 49718,
+        "stars": 49735,
         "language": "Python",
         "url": "https://github.com/harry0703/MoneyPrinterTurbo",
         "homepage": "",
@@ -5480,7 +5480,7 @@
         "name": "bye",
         "owner": "J3n5en",
         "description": "",
-        "stars": 1077,
+        "stars": 1078,
         "language": "N/A",
         "url": "https://github.com/J3n5en/bye",
         "homepage": "",
@@ -10314,7 +10314,7 @@
         "name": "chinese-independent-developer",
         "owner": "1c7",
         "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
-        "stars": 46884,
+        "stars": 46900,
         "language": "N/A",
         "url": "https://github.com/1c7/chinese-independent-developer",
         "homepage": "",
@@ -10323,7 +10323,7 @@
           "indie",
           "indie-developer"
         ],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "该仓库收录中国独立开发者创建的网站和App项目，涵盖AI工具、浏览器扩展、语言学习、招聘聚合等实用产品。项目按状态分类，支持开发者提交PR或Issue加入，旨在促进独立开发者之间的交流与灵感共享。",
@@ -28684,12 +28684,12 @@
         "name": "waoowaoo",
         "owner": "waoowaooAI",
         "description": "首家工业级全流程可控协作式专业AIagent影视生产平台，从短片到漫剧到真人级影视剧一站搞定，采用好莱坞专业制作团队思路，让你拥有虚拟制片场",
-        "stars": 1455,
+        "stars": 3047,
         "language": "TypeScript",
         "url": "https://github.com/waoowaooAI/waoowaoo",
         "homepage": "",
         "topics": [],
-        "updated_at": "2026-02-27"
+        "updated_at": "2026-02-28"
       },
       "summary": {
         "zh": "waoowaoo AI 影视 Studio 是一款工业级全流程可控协作式专业AI agent影视生产平台，支持从小说文本自动生成分镜、角色、场景并合成完整视频，具备AI剧本分析、角色场景生成、分镜视频制作、AI配音及多语言界面等功能，采用好莱坞专业制作思路，提供虚拟制片场体验。",
@@ -28752,6 +28752,28 @@
         ]
       },
       "pushed_at": "2026-02-27",
+      "updated_at": "2026-02-28"
+    },
+    "iblogc/GithubStarsIndex": {
+      "metadata": {
+        "full_name": "iblogc/GithubStarsIndex",
+        "name": "GithubStarsIndex",
+        "owner": "iblogc",
+        "description": "自动抓取 GitHub Stars，生成 AI 摘要，便于检索。",
+        "stars": 36,
+        "language": "Jinja",
+        "url": "https://github.com/iblogc/GithubStarsIndex",
+        "homepage": "https://iblogc.github.io/GithubStarsIndex/",
+        "topics": [],
+        "updated_at": "2026-02-28"
+      },
+      "summary": {
+        "zh": "生成失败",
+        "en": "Generation failed",
+        "tags_zh": [],
+        "tags_en": []
+      },
+      "pushed_at": "2026-02-28",
       "updated_at": "2026-02-28"
     }
   }
