@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09 05:08 UTC",
+  "last_updated": "2026-03-09 05:11 UTC",
   "repos": {
     "iblogc/GithubStarsIndex": {
       "metadata": {
@@ -323,7 +323,7 @@
         "name": "superpowers",
         "owner": "obra",
         "description": "An agentic skills framework & software development methodology that works.",
-        "stars": 74137,
+        "stars": 74138,
         "language": "Shell",
         "url": "https://github.com/obra/superpowers",
         "homepage": "",
@@ -734,7 +734,7 @@
         "name": "oh-my-claudecode",
         "owner": "Yeachan-Heo",
         "description": "Teams-first Multi-agent orchestration for Claude Code",
-        "stars": 8945,
+        "stars": 8949,
         "language": "TypeScript",
         "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
         "homepage": "https://yeachan-heo.github.io/oh-my-claudecode-website",
@@ -976,7 +976,7 @@
         "name": "baoyu-skills",
         "owner": "JimLiu",
         "description": "",
-        "stars": 7820,
+        "stars": 7822,
         "language": "TypeScript",
         "url": "https://github.com/JimLiu/baoyu-skills",
         "homepage": "",
@@ -1192,7 +1192,7 @@
         "name": "daily_stock_analysis",
         "owner": "ZhuLinsen",
         "description": "LLM驱动的 A/H/美股智能分析器，多数据源行情 + 实时新闻 + Gemini 决策仪表盘 + 多渠道推送，零成本，纯白嫖，定时运行",
-        "stars": 17628,
+        "stars": 17629,
         "language": "Python",
         "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
         "homepage": "",
@@ -1872,7 +1872,7 @@
         "name": "prompt-optimizer",
         "owner": "linshenkx",
         "description": "一款提示词优化器，助力于编写高质量的提示词",
-        "stars": 23522,
+        "stars": 23523,
         "language": "TypeScript",
         "url": "https://github.com/linshenkx/prompt-optimizer",
         "homepage": "https://prompt.always200.com",
@@ -1911,7 +1911,7 @@
         "name": "CLIProxyAPI",
         "owner": "router-for-me",
         "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API",
-        "stars": 14523,
+        "stars": 14525,
         "language": "Go",
         "url": "https://github.com/router-for-me/CLIProxyAPI",
         "homepage": "",
@@ -2407,7 +2407,7 @@
         "name": "claude-code-hub",
         "owner": "ding113",
         "description": "一个现代化的 Claude Code & Codex API 代理服务，提供智能负载均衡、用户管理和使用统计功能。",
-        "stars": 1676,
+        "stars": 1677,
         "language": "TypeScript",
         "url": "https://github.com/ding113/claude-code-hub",
         "homepage": "https://claude-code-hub.app",
@@ -3072,7 +3072,7 @@
         "name": "BettaFish",
         "owner": "666ghj",
         "description": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
-        "stars": 36862,
+        "stars": 36864,
         "language": "Python",
         "url": "https://github.com/666ghj/BettaFish",
         "homepage": "https://deepwiki.com/666ghj/BettaFish",
@@ -3547,7 +3547,7 @@
         "name": "xiaohongshu-mcp",
         "owner": "xpzouying",
         "description": "MCP for xiaohongshu.com",
-        "stars": 10862,
+        "stars": 10865,
         "language": "Go",
         "url": "https://github.com/xpzouying/xiaohongshu-mcp",
         "homepage": "https://www.haha.ai/xiaohongshu-mcp",
@@ -3764,7 +3764,7 @@
         "name": "AstrBot",
         "owner": "AstrBotDevs",
         "description": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-        "stars": 19941,
+        "stars": 19942,
         "language": "Python",
         "url": "https://github.com/AstrBotDevs/AstrBot",
         "homepage": "https://astrbot.app",
@@ -4841,10 +4841,20 @@
         "updated_at": "2026-03-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库是 OpenClaw 的深度汉化发行版，提供全中文 CLI 与 Dashboard，接入 Claude/ChatGPT 兼容模型，并支持 WhatsApp、Telegram、Discord 等多平台交互。项目保持每小时同步上游更新，附带 Docker、安装排错与运维文档，显著降低中文用户部署个人 AI 助手门槛。",
+        "en": "This repository is a Chinese-localized distribution of OpenClaw, an open-source personal AI assistant platform. It delivers a fully translated CLI and dashboard, supports OpenAI-compatible LLM access such as Claude and ChatGPT, and integrates with WhatsApp, Telegram, and Discord for conversational interaction. A notable strength is its hourly upstream sync, keeping the localization closely aligned with official updates. The repo also includes Docker deployment guides, setup walkthroughs, and troubleshooting documentation, making self-hosted AI assistant deployment much more accessible for Chinese-speaking users.",
+        "tags_zh": [
+          "个人AI助手",
+          "OpenClaw汉化",
+          "多平台消息集成",
+          "OpenAI兼容模型接入"
+        ],
+        "tags_en": [
+          "Personal AI Assistant",
+          "OpenClaw Localization",
+          "Messaging Platform Integration",
+          "OpenAI-Compatible LLMs"
+        ]
       },
       "pushed_at": "2026-03-09",
       "updated_at": "2026-03-09"
@@ -4855,7 +4865,7 @@
         "name": "awesome-openclaw-usecases",
         "owner": "hesamsheikh",
         "description": "A community collection of OpenClaw use cases for making life easier.",
-        "stars": 21499,
+        "stars": 21501,
         "language": "N/A",
         "url": "https://github.com/hesamsheikh/awesome-openclaw-usecases",
         "homepage": "",
@@ -4872,10 +4882,20 @@
         "updated_at": "2026-03-04"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库聚焦 OpenClaw 的真实落地场景，汇集社媒摘要、内容生产、多代理协作、DevOps 与个人效率等实践案例。其价值在于降低 AI Agent 采用门槛，帮助用户从“会不会用”转向“能解决什么问题”，并强调技能、插件与外部依赖的安全审查。",
+        "en": "This repository is a curated collection of real-world OpenClaw use cases, covering social media digests, content production, multi-agent workflows, DevOps automation, and personal productivity. Its core value is not teaching isolated skills, but showing how OpenClaw can solve concrete everyday problems and accelerate adoption of AI agents. A notable strength is its practical, scenario-driven organization, paired with explicit security warnings around community-built skills, plugins, permissions, and third-party dependencies.",
+        "tags_zh": [
+          "OpenClaw",
+          "AI Agent 用例库",
+          "多代理工作流",
+          "自动化编排"
+        ],
+        "tags_en": [
+          "OpenClaw",
+          "AI Agent Use Cases",
+          "Multi-Agent Workflows",
+          "Automation Orchestration"
+        ]
       },
       "pushed_at": "2026-03-04",
       "updated_at": "2026-03-09"
@@ -4886,7 +4906,7 @@
         "name": "airi",
         "owner": "moeru-ai",
         "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-        "stars": 31401,
+        "stars": 31404,
         "language": "TypeScript",
         "url": "https://github.com/moeru-ai/airi",
         "homepage": "https://airi.moeru.ai/docs/",
@@ -4906,10 +4926,20 @@
         "updated_at": "2026-03-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "AIRI 是面向个人部署的 AI 虚拟陪伴框架，目标复现 Neuro-sama 式数字角色体验。项目支持实时语音对话、角色人格承载与跨平台运行，并可接入 Minecraft、Factorio 等游戏场景，适用于虚拟主播、桌面伴侣与交互式智能体开发。",
+        "en": "AIRI is a self-hosted AI companion framework designed to recreate a Neuro-sama-like virtual character experience under the user's own control. It combines persona-driven interaction, realtime voice chat, and cross-platform delivery across web, macOS, and Windows. A notable strength is its ability to operate inside game environments such as Minecraft and Factorio, making it suitable for virtual streamers, interactive digital companions, embodied AI experiments, and multimodal agent applications that blend conversation, presence, and gameplay.",
+        "tags_zh": [
+          "自托管AI伴侣",
+          "实时语音交互",
+          "游戏智能体",
+          "虚拟角色框架"
+        ],
+        "tags_en": [
+          "Self-Hosted AI Companion",
+          "Realtime Voice Interface",
+          "Game Agent",
+          "Virtual Character Framework"
+        ]
       },
       "pushed_at": "2026-03-09",
       "updated_at": "2026-03-09"
@@ -4928,10 +4958,20 @@
         "updated_at": "2026-03-07"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "该仓库是面向 Claude Code 的实验性插件，以 llmdoc 与 SubAgent RAG 组合缓解 AI 编码代理的“上下文地板”问题。它通过文档优先检索、任务调查代理和自动文档维护，降低主代理 token 消耗，缩短理解代码库的准备时间，适用于大型代码库、生产级协作开发与持续演进场景。",
+        "en": "TokenRoll cc-plugin is an experimental Claude Code plugin designed to address the “context floor” problem in AI coding workflows. It combines an LLM-oriented documentation structure, llmdoc, with SubAgent RAG to help agents understand large codebases faster and with fewer main-agent tokens. The plugin enforces documentation-first investigation, decomposed task analysis, and post-task doc maintenance, making it especially useful for production repositories, long-lived engineering teams, and codebases where context acquisition speed and relevance directly impact development efficiency.",
+        "tags_zh": [
+          "Claude Code 插件",
+          "llmdoc 文档体系",
+          "SubAgent RAG",
+          "代码库上下文优化"
+        ],
+        "tags_en": [
+          "Claude Code Plugin",
+          "llmdoc",
+          "SubAgent RAG",
+          "Codebase Context Optimization"
+        ]
       },
       "pushed_at": "2026-03-07",
       "updated_at": "2026-03-09"
@@ -4971,10 +5011,20 @@
         "updated_at": "2026-03-08"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "OpenPencil 是面向 UI/原型设计的开源 AI 原生矢量工具，将提示词、画布编辑与代码生成整合为统一工作流。其并发 Agent Teams 可拆解复杂页面并行生成，内置 MCP Server 支持终端自动化读写设计文件，适合设计协作、快速原型与设计到前端代码落地。",
+        "en": "OpenPencil is an open-source, AI-native vector design tool for UI and prototyping that unifies prompting, live-canvas editing, and code generation in one workflow. Its standout capability is concurrent Agent Teams, which decompose complex layouts into parallel design tasks for faster generation. With a built-in MCP server, it also enables terminal-driven automation for reading and modifying design files. The project is well suited for rapid prototyping, design collaboration, and turning interface concepts into frontend-ready code.",
+        "tags_zh": [
+          "AI原生设计",
+          "多智能体编排",
+          "MCP设计自动化",
+          "设计即代码"
+        ],
+        "tags_en": [
+          "AI-native Design",
+          "Multi-Agent Orchestration",
+          "MCP Design Automation",
+          "Design-as-Code"
+        ]
       },
       "pushed_at": "2026-03-08",
       "updated_at": "2026-03-09"
@@ -4996,10 +5046,20 @@
         "updated_at": "2026-03-07"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "TavilyProxyManager 是面向 Tavily API 的透明反向代理与管理中台，通过 Master Key 聚合多个 Tavily Key 额度，支持智能选路、限流/鉴权失败自动切换，并内置 Web UI 查看 Key 状态、用量趋势与请求日志。项目以 Go 单文件部署，兼容 MCP 接入 Claude、VS Code 等 AI 工具，适合统一出口、额度池化和运维可视化场景。",
+        "en": "TavilyProxyManager is a transparent reverse proxy and control plane for the Tavily API. It aggregates multiple Tavily API keys behind a single Master Key, enabling centralized access, quota pooling, and simplified client integration. The system includes smart key selection, automatic failover on authentication or rate-limit errors, detailed request logging, usage analytics, and a built-in web dashboard for operations. Built as a single Go binary with an embedded Vue-based UI, it also exposes an MCP endpoint, making it practical for Claude, VS Code, and other AI tooling workflows.",
+        "tags_zh": [
+          "Tavily API 反向代理",
+          "API Key 池化",
+          "MCP 集成",
+          "Go 管理面板"
+        ],
+        "tags_en": [
+          "Tavily API Reverse Proxy",
+          "API Key Pooling",
+          "MCP Integration",
+          "Go Admin Dashboard"
+        ]
       },
       "pushed_at": "2026-03-07",
       "updated_at": "2026-03-09"
@@ -5010,7 +5070,7 @@
         "name": "PUAClaw",
         "owner": "puaclaw",
         "description": "claw 们终将接管世界，PUAClaw is All You Need",
-        "stars": 1226,
+        "stars": 1227,
         "language": "N/A",
         "url": "https://github.com/puaclaw/PUAClaw",
         "homepage": "",
@@ -5018,10 +5078,20 @@
         "updated_at": "2026-03-03"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "PUAClaw 是一个以戏谑学术风格整理 LLM 提示词说服/操控技巧的知识库，围绕 PPE-T 分类、龙虾评级、模板与兼容性矩阵，系统梳理 16 大类 96 子技术，适合用于提示工程观察、案例分析与安全研究讨论。",
+        "en": "PUAClaw is a satirical yet well-structured knowledge base for analyzing persuasive and manipulative prompting techniques used with LLMs. Framed like a mock academic standard, it defines a PPE-T taxonomy, lobster-based ratings, prompt templates, and cross-agent compatibility matrices. The repository organizes 16 major categories and 96 sub-techniques, making it useful for prompt engineering analysis, incident retrospectives such as the Windsurf case, and broader AI safety or prompt behavior research discussions.",
+        "tags_zh": [
+          "提示词操控分类",
+          "LLM 安全研究",
+          "PPE-T 框架",
+          "Windsurf 事件"
+        ],
+        "tags_en": [
+          "Prompt Manipulation Taxonomy",
+          "LLM Safety Research",
+          "PPE-T Framework",
+          "Windsurf Case"
+        ]
       },
       "pushed_at": "2026-03-03",
       "updated_at": "2026-03-09"
@@ -5040,10 +5110,20 @@
         "updated_at": "2026-03-09"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "jshookmcp 是面向 AI 辅助 JavaScript 与安全分析的 MCP 服务器，内置 244 个工具，覆盖浏览器自动化、CDP 调试、网络抓包、JS Hook、WASM、AST 与加密分析等场景。其亮点在于插件/工作流可扩展、复合任务编排与 LLM 驱动代码理解，适合逆向、漏洞研究与自动化分析。",
+        "en": "jshookmcp is an MCP server for AI-assisted JavaScript analysis and security research, bundling 244 tools across browser automation, CDP debugging, network capture, JavaScript hooking, WASM tooling, AST transforms, and crypto analysis. Its main strengths are runtime extensibility through plugins and workflows, high-level composite orchestration, and LLM-powered code understanding. It is especially suitable for reverse engineering, web application analysis, vulnerability research, and automated investigation pipelines that need both low-level runtime insight and repeatable multi-step workflows.",
+        "tags_zh": [
+          "MCP服务器",
+          "JavaScript Hook",
+          "安全逆向",
+          "浏览器调试自动化"
+        ],
+        "tags_en": [
+          "MCP Server",
+          "JavaScript Hooking",
+          "Security Research",
+          "Browser Debug Automation"
+        ]
       },
       "pushed_at": "2026-03-09",
       "updated_at": "2026-03-09"
@@ -5054,7 +5134,7 @@
         "name": "waoowaoo",
         "owner": "saturndec",
         "description": "首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.",
-        "stars": 8831,
+        "stars": 8832,
         "language": "TypeScript",
         "url": "https://github.com/saturndec/waoowaoo",
         "homepage": "https://www.waoowaoo.com/",
@@ -5071,10 +5151,18 @@
         "updated_at": "2026-03-08"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "waoowaoo 是面向短剧、漫画视频与真人影视的 AI 制作平台，打通小说解析、角色场景生成、分镜合成与多角色配音全流程。基于 Next.js、Prisma、BullMQ 等构建，强调可控创作、工业化流程与本地 Docker 快速部署。",
+        "en": "waoowaoo is an AI film and video production platform for short dramas, comic-style videos, and live-action workflows. It connects the full pipeline from story parsing and character/scene generation to storyboard video composition and multi-character voice synthesis. Built with Next.js, Prisma, Redis, and BullMQ, it highlights controllable creation, production-oriented orchestration, multilingual usability, and fast self-hosted deployment through Docker.",
+        "tags_zh": [
+          "AI影视生产",
+          "可控视频生成",
+          "Next.js 全栈"
+        ],
+        "tags_en": [
+          "AI Film Production",
+          "Controllable Video Generation",
+          "Next.js Full-stack"
+        ]
       },
       "pushed_at": "2026-03-08",
       "updated_at": "2026-03-09"
@@ -5093,10 +5181,20 @@
         "updated_at": "2026-03-08"
       },
       "summary": {
-        "zh": "生成失败",
-        "en": "Generation failed",
-        "tags_zh": [],
-        "tags_en": []
+        "zh": "这是一个面向 Windows 的 Rust 桌面工具，用可视化方式编辑 Codex CLI 的 config.toml。它支持导入现有配置、合并保存并保留未知项，避免误删 mcp_servers 等内容；同时提供三态布尔、数组与 TOML 片段输入、模板说明和中文字体适配，适合降低命令行配置门槛。",
+        "en": "A Rust-based Windows desktop GUI for editing Codex CLI’s config.toml without hand-writing TOML. It is designed for users who want safer configuration changes, especially when existing files contain custom sections such as mcp_servers. The tool supports importing current settings, merge-save to preserve unknown fields, tri-state booleans, array and raw TOML fragment input, template-driven field descriptions, and quick filling for examples or enum values. It also attempts automatic Chinese font loading on Windows, helping reduce configuration errors in localized daily Codex CLI usage.",
+        "tags_zh": [
+          "Rust桌面GUI",
+          "Codex CLI 配置",
+          "TOML可视化编辑",
+          "合并保存"
+        ],
+        "tags_en": [
+          "Rust Desktop GUI",
+          "Codex CLI Config",
+          "TOML Visual Editor",
+          "Merge-safe Editing"
+        ]
       },
       "pushed_at": "2026-03-08",
       "updated_at": "2026-03-09"
