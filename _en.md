@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-03-09 05:08 UTC · Total: 144
+> Updated: 2026-03-09 05:11 UTC · Total: 144
 
 ---
 
@@ -157,8 +157,8 @@
 > [!info]
 > ⭐ 9 · Rust · 2026-03-08  
 > [GitHub](https://github.com/LTctfer/config_GUI)  
-> 
-> Generation failed
+> `#Rust Desktop GUI` `#Codex CLI Config` `#TOML Visual Editor` `#Merge-safe Editing` 
+> A Rust-based Windows desktop GUI for editing Codex CLI’s config.toml without hand-writing TOML. It is designed for users who want safer configuration changes, especially when existing files contain custom sections such as mcp_servers. The tool supports importing current settings, merge-save to preserve unknown fields, tri-state booleans, array and raw TOML fragment input, template-driven field descriptions, and quick filling for examples or enum values. It also attempts automatic Chinese font loading on Windows, helping reduce configuration errors in localized daily Codex CLI usage.
 > <sub>对codex的config做一个简单的可视化</sub>
 
 ---
@@ -167,8 +167,8 @@
 > [!info]
 > ⭐ 392 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/vmoranv/jshookmcp)  
-> 
-> Generation failed
+> `#MCP Server` `#JavaScript Hooking` `#Security Research` `#Browser Debug Automation` 
+> jshookmcp is an MCP server for AI-assisted JavaScript analysis and security research, bundling 244 tools across browser automation, CDP debugging, network capture, JavaScript hooking, WASM tooling, AST transforms, and crypto analysis. Its main strengths are runtime extensibility through plugins and workflows, high-level composite orchestration, and LLM-powered code understanding. It is especially suitable for reverse engineering, web application analysis, vulnerability research, and automated investigation pipelines that need both low-level runtime insight and repeatable multi-step workflows.
 > <sub>js hook toolkit that all you need</sub>
 
 ---
@@ -177,18 +177,18 @@
 > [!info]
 > ⭐ 427 · N/A · 2026-03-07  
 > [GitHub](https://github.com/TokenRollAI/cc-plugin)  
-> 
-> Generation failed
+> `#Claude Code Plugin` `#llmdoc` `#SubAgent RAG` `#Codebase Context Optimization` 
+> TokenRoll cc-plugin is an experimental Claude Code plugin designed to address the “context floor” problem in AI coding workflows. It combines an LLM-oriented documentation structure, llmdoc, with SubAgent RAG to help agents understand large codebases faster and with fewer main-agent tokens. The plugin enforces documentation-first investigation, decomposed task analysis, and post-task doc maintenance, making it especially useful for production repositories, long-lived engineering teams, and codebases where context acquisition speed and relevance directly impact development efficiency.
 > <sub>(WIP) toeknroll cc-plugin</sub>
 
 ---
 ## hesamsheikh/awesome-openclaw-usecases
 
 > [!info]
-> ⭐ 21,499 · N/A · 2026-03-04  
+> ⭐ 21,501 · N/A · 2026-03-04  
 > [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases)  
-> `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
-> Generation failed
+> `#OpenClaw` `#AI Agent Use Cases` `#Multi-Agent Workflows` `#Automation Orchestration` `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
+> This repository is a curated collection of real-world OpenClaw use cases, covering social media digests, content production, multi-agent workflows, DevOps automation, and personal productivity. Its core value is not teaching isolated skills, but showing how OpenClaw can solve concrete everyday problems and accelerate adoption of AI agents. A notable strength is its practical, scenario-driven organization, paired with explicit security warnings around community-built skills, plugins, permissions, and third-party dependencies.
 > <sub>A community collection of OpenClaw use cases for making life easier.</sub>
 
 ---
@@ -197,8 +197,8 @@
 > [!info]
 > ⭐ 448 · TypeScript · 2026-03-08  
 > [GitHub](https://github.com/ZSeven-W/openpencil) · [Website](https://op.zseven.tech)  
-> `#agent` `#agent-team` `#ai` `#claude` `#claude-code` `#codex` `#fimga` `#flutter` `#html` `#mcp` `#opencode` `#openpencil` `#pencil` `#react` `#react-native` `#svelte` `#ui` `#vibecoding` `#vibedesign` `#vue` 
-> Generation failed
+> `#AI-native Design` `#Multi-Agent Orchestration` `#MCP Design Automation` `#Design-as-Code` `#agent` `#agent-team` `#ai` `#claude` `#claude-code` `#codex` `#fimga` `#flutter` `#html` `#mcp` `#opencode` `#openpencil` `#pencil` `#react` `#react-native` `#svelte` `#ui` `#vibecoding` `#vibedesign` `#vue` 
+> OpenPencil is an open-source, AI-native vector design tool for UI and prototyping that unifies prompting, live-canvas editing, and code generation in one workflow. Its standout capability is concurrent Agent Teams, which decompose complex layouts into parallel design tasks for faster generation. With a built-in MCP server, it also enables terminal-driven automation for reading and modifying design files. The project is well suited for rapid prototyping, design collaboration, and turning interface concepts into frontend-ready code.
 > <sub>The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</sub>
 
 ---
@@ -207,28 +207,28 @@
 > [!info]
 > ⭐ 2,615 · JavaScript · 2026-03-09  
 > [GitHub](https://github.com/1186258278/OpenClawChineseTranslation) · [Website](https://openclaw.qt.cool)  
-> `#ai-agent` `#ai-assistant` `#chatbot` `#chinese` `#claude-ai` `#clawd` `#clawdbot` `#discord` `#llm` `#lobster` `#localization` `#moltbot` `#nodejs` `#open-source` `#openclaw` `#telegram` `#tool-calling` `#whatsapp` `#zh-cn` 
-> Generation failed
+> `#Personal AI Assistant` `#OpenClaw Localization` `#Messaging Platform Integration` `#OpenAI-Compatible LLMs` `#ai-agent` `#ai-assistant` `#chatbot` `#chinese` `#claude-ai` `#clawd` `#clawdbot` `#discord` `#llm` `#lobster` `#localization` `#moltbot` `#nodejs` `#open-source` `#openclaw` `#telegram` `#tool-calling` `#whatsapp` `#zh-cn` 
+> This repository is a Chinese-localized distribution of OpenClaw, an open-source personal AI assistant platform. It delivers a fully translated CLI and dashboard, supports OpenAI-compatible LLM access such as Claude and ChatGPT, and integrates with WhatsApp, Telegram, and Discord for conversational interaction. A notable strength is its hourly upstream sync, keeping the localization closely aligned with official updates. The repo also includes Docker deployment guides, setup walkthroughs, and troubleshooting documentation, making self-hosted AI assistant deployment much more accessible for Chinese-speaking users.
 > <sub>🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 | Claude/ChatGPT LLM 接入 | WhatsApp/Telegram/Discord 多平台 | 每小时自动同步 | CLI + Dashboard 全中文 | 全流程搭建教程，以及排错指南！</sub>
 
 ---
 ## moeru-ai/airi
 
 > [!info]
-> ⭐ 31,401 · TypeScript · 2026-03-09  
+> ⭐ 31,404 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/moeru-ai/airi) · [Website](https://airi.moeru.ai/docs/)  
-> `#ai-companion` `#ai-vtuber` `#clawdbot` `#digital-life` `#grok-companion` `#live2d` `#moltbot` `#neuro-sama` `#neurosama` `#vrm` `#vtuber` 
-> Generation failed
+> `#Self-Hosted AI Companion` `#Realtime Voice Interface` `#Game Agent` `#Virtual Character Framework` `#ai-companion` `#ai-vtuber` `#clawdbot` `#digital-life` `#grok-companion` `#live2d` `#moltbot` `#neuro-sama` `#neurosama` `#vrm` `#vtuber` 
+> AIRI is a self-hosted AI companion framework designed to recreate a Neuro-sama-like virtual character experience under the user's own control. It combines persona-driven interaction, realtime voice chat, and cross-platform delivery across web, macOS, and Windows. A notable strength is its ability to operate inside game environments such as Minecraft and Factorio, making it suitable for virtual streamers, interactive digital companions, embodied AI experiments, and multimodal agent applications that blend conversation, presence, and gameplay.
 > <sub>💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.</sub>
 
 ---
 ## puaclaw/PUAClaw
 
 > [!info]
-> ⭐ 1,226 · N/A · 2026-03-03  
+> ⭐ 1,227 · N/A · 2026-03-03  
 > [GitHub](https://github.com/puaclaw/PUAClaw)  
-> 
-> Generation failed
+> `#Prompt Manipulation Taxonomy` `#LLM Safety Research` `#PPE-T Framework` `#Windsurf Case` 
+> PUAClaw is a satirical yet well-structured knowledge base for analyzing persuasive and manipulative prompting techniques used with LLMs. Framed like a mock academic standard, it defines a PPE-T taxonomy, lobster-based ratings, prompt templates, and cross-agent compatibility matrices. The repository organizes 16 major categories and 96 sub-techniques, making it useful for prompt engineering analysis, incident retrospectives such as the Windsurf case, and broader AI safety or prompt behavior research discussions.
 > <sub>claw 们终将接管世界，PUAClaw is All You Need</sub>
 
 ---
@@ -237,8 +237,8 @@
 > [!info]
 > ⭐ 253 · Go · 2026-03-07  
 > [GitHub](https://github.com/xuncv/TavilyProxyManager)  
-> `#proxy` `#tavily` 
-> Generation failed
+> `#Tavily API Reverse Proxy` `#API Key Pooling` `#MCP Integration` `#Go Admin Dashboard` `#proxy` `#tavily` 
+> TavilyProxyManager is a transparent reverse proxy and control plane for the Tavily API. It aggregates multiple Tavily API keys behind a single Master Key, enabling centralized access, quota pooling, and simplified client integration. The system includes smart key selection, automatic failover on authentication or rate-limit errors, detailed request logging, usage analytics, and a built-in web dashboard for operations. Built as a single Go binary with an embedded Vue-based UI, it also exposes an MCP endpoint, making it practical for Claude, VS Code, and other AI tooling workflows.
 > <sub>一个透明的 Tavily API 反向代理：将多个 Tavily API Key（额度/credits）汇聚在一个 Master Key 之后，并提供内置 Web UI 用于管理 Key、用量与请求日志。</sub>
 
 ---
@@ -255,10 +255,10 @@
 ## saturndec/waoowaoo
 
 > [!info]
-> ⭐ 8,831 · TypeScript · 2026-03-08  
+> ⭐ 8,832 · TypeScript · 2026-03-08  
 > [GitHub](https://github.com/saturndec/waoowaoo) · [Website](https://www.waoowaoo.com/)  
-> `#ai-agent` `#ai-agents` `#automation` `#film-production` `#generative-ai` `#short-drama` `#storyboard` `#video-generation` 
-> Generation failed
+> `#AI Film Production` `#Controllable Video Generation` `#Next.js Full-stack` `#ai-agent` `#ai-agents` `#automation` `#film-production` `#generative-ai` `#short-drama` `#storyboard` `#video-generation` 
+> waoowaoo is an AI film and video production platform for short dramas, comic-style videos, and live-action workflows. It connects the full pipeline from story parsing and character/scene generation to storyboard video composition and multi-character voice synthesis. Built with Next.js, Prisma, Redis, and BullMQ, it highlights controllable creation, production-oriented orchestration, multilingual usability, and fast self-hosted deployment through Docker.
 > <sub>首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.</sub>
 
 ---
@@ -324,7 +324,7 @@
 ## obra/superpowers
 
 > [!info]
-> ⭐ 74,137 · Shell · 2026-03-09  
+> ⭐ 74,138 · Shell · 2026-03-09  
 > [GitHub](https://github.com/obra/superpowers)  
 > `#Agentic Workflow` `#Subagent-driven Development` `#Red-Green TDD` `#Git Worktrees` 
 > Superpowers is an agentic skills framework and end-to-end development methodology for coding agents. Instead of jumping straight into code, it elicits a clear spec through conversation, presents a digestible design for approval, then generates a concrete implementation plan with exact files and verification steps. Execution follows subagent-driven development with per-task reviews, uses Git worktrees for isolation, and enforces true red/green TDD plus YAGNI and DRY. It installs as plugins or instructions across Claude Code, Cursor, Codex, and OpenCode.
@@ -474,7 +474,7 @@
 ## Yeachan-Heo/oh-my-claudecode
 
 > [!info]
-> ⭐ 8,945 · TypeScript · 2026-03-09  
+> ⭐ 8,949 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode) · [Website](https://yeachan-heo.github.io/oh-my-claudecode-website)  
 > `#Multi-agent Orchestration` `#Claude Code Plugin` `#tmux Parallel CLI Workers` `#agentic-coding` `#ai-agents` `#automation` `#claude` `#claude-code` `#multi-agent-systems` `#oh-my-opencode` `#opencode` `#parallel-execution` `#vibe-coding` 
 > oh-my-claudecode is a teams-first multi-agent orchestration layer for Claude Code with near-zero setup and a “just use commands” workflow. Its canonical Team mode runs a staged pipeline (plan → PRD → exec → verify → fix loop) to converge on validated code changes. From v4.4.0+, it can spawn real Codex, Gemini, and Claude CLI workers inside tmux split panes for parallel review, security analysis, UI/UX work, and implementation. Ideal for accelerating collaborative debugging, refactors, and delivery.
@@ -494,7 +494,7 @@
 ## JimLiu/baoyu-skills
 
 > [!info]
-> ⭐ 7,820 · TypeScript · 2026-03-09  
+> ⭐ 7,822 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/JimLiu/baoyu-skills)  
 > `#Claude Code Plugins` `#Content Automation` `#RedNote Infographic Generator` `#Multimodal Toolchain` `#agent-skills` `#claude-skills` `#codex-skills` `#openclaw-skills` 
 > baoyu-skills is an installable skill set for Claude Code, delivered as marketplace plugins in a Node.js environment (npx/bun). It streamlines content production with generators for RedNote (Xiaohongshu) infographic series, cover images, comics, and slide decks, plus publishing helpers for X and WeChat. It also bundles AI generation backends and practical utilities such as URL-to-Markdown conversion, image compression, and Markdown formatting. A style × layout system enables fast, consistent visual outputs.
@@ -563,7 +563,7 @@
 ## ZhuLinsen/daily_stock_analysis
 
 > [!info]
-> ⭐ 17,628 · Python · 2026-03-08  
+> ⭐ 17,629 · Python · 2026-03-08  
 > [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis)  
 > `#LLM-driven Equity Research` `#LiteLLM Model Routing` `#GitHub Actions Scheduling` `#agent` `#ai` `#aigc` `#gemini` `#llm` `#quant` `#quantitative-trading` `#rag` `#stock` 
 > An LLM-driven stock analyzer for A-shares, Hong Kong stocks, and US equities. It aggregates multi-source quotes and real-time financial news to produce a decision dashboard with actionable entry/exit levels, stop-loss/targets, and a rule-based checklist. The system includes an interactive “ask-a-strategy” agent (multiple built-in trading methods) plus automated backtesting to validate signal quality. It runs on schedules via GitHub Actions (no server needed) and pushes reports to WeCom, Feishu, Telegram, email, and more.
@@ -732,7 +732,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 23,522 · TypeScript · 2026-03-02  
+> ⭐ 23,523 · TypeScript · 2026-03-02  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#Prompt Engineering` `#Multi-LLM Integration` `#Client-side Privacy` `#Model Context Protocol (MCP)` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer is a prompt engineering assistant for refining system and user prompts through iterative rewriting and side-by-side evaluation. It provides variable templating, multi-turn conversation tests, and tool/function-calling playgrounds to harden prompts for production formats. The app integrates multiple LLM and image models (OpenAI, Gemini, DeepSeek, Zhipu, SiliconFlow, etc.) and supports T2I and I2I workflows. Built as a client-side app with optional access password, it ships as web, desktop, Chrome extension, Docker, and MCP server integrations. Real-time diff testing helps quantify improvements and choose the best prompt version.
@@ -752,7 +752,7 @@
 ## router-for-me/CLIProxyAPI
 
 > [!info]
-> ⭐ 14,523 · Go · 2026-03-09  
+> ⭐ 14,525 · Go · 2026-03-09  
 > [GitHub](https://github.com/router-for-me/CLIProxyAPI)  
 > `#OpenAI-Compatible API Gateway` `#OAuth Multi-Account Load Balancing` `#CLI LLM Proxy` `#antigravity` `#claude-code` `#cluade` `#codex` `#gemini` `#openai` `#qwen3-coder` 
 > CLIProxyAPI turns Gemini CLI, Claude Code, OpenAI Codex (GPT), Qwen Code and iFlow into OpenAI/Gemini/Claude/Codex-compatible API endpoints. It supports OAuth-based login, multi-account round-robin load balancing, streaming and non-streaming responses, tool/function calling, and multimodal inputs (text + images). Designed for CLI and coding clients (SDKs, IDE extensions, Amp), it enables seamless use of multiple providers through one stable gateway, with model mapping and smart fallback routing when models are unavailable.
@@ -892,7 +892,7 @@
 ## ding113/claude-code-hub
 
 > [!info]
-> ⭐ 1,676 · TypeScript · 2026-03-09  
+> ⭐ 1,677 · TypeScript · 2026-03-09  
 > [GitHub](https://github.com/ding113/claude-code-hub) · [Website](https://claude-code-hub.app)  
 > `#OpenAI-compatible Proxy` `#Intelligent Load Balancing` `#Usage Analytics & Auditing` `#Multi-provider Routing` `#claude-api` `#claude-code` 
 > Claude Code Hub is a modern team-oriented API proxy for Claude, Codex, Gemini and other OpenAI-compatible providers. It offers unified endpoints, intelligent routing with weights/priority groups, circuit breaking and failover, plus multi-dimensional rate limits and concurrency control powered by Redis atomic scripts. The platform adds user management, pricing and usage analytics dashboards, session caching with decision-chain auditability, and auto-generated OpenAPI 3.1 docs with Swagger/Scalar UIs. Built on Next.js 15, Hono, PostgreSQL and Redis, it ships as a Docker-ready deployment.
@@ -1091,7 +1091,7 @@
 ## 666ghj/BettaFish
 
 > [!info]
-> ⭐ 36,862 · Python · 2026-03-05  
+> ⭐ 36,864 · Python · 2026-03-05  
 > [GitHub](https://github.com/666ghj/BettaFish) · [Website](https://deepwiki.com/666ghj/BettaFish)  
 > `#Multi-Agent Systems` `#Social Listening` `#Web Crawling` `#Multimodal Analytics` `#agent-framework` `#data-analysis` `#deep-research` `#deep-search` `#llms` `#multi-agent-system` `#nlp` `#public-opinion-analysis` `#python3` `#sentiment-analysis` 
 > BettaFish (WeiYu) is a from-scratch, framework-free Python multi-agent social listening assistant. It continuously crawls 30+ major platforms (Weibo, Xiaohongshu, Douyin, etc.) down to massive comment threads, then runs a composite analytics pipeline that combines specialized agents, fine-tuned/statistical models, and multimodal parsers for short videos and structured search cards. An “agent forum” debate mechanism reduces single-model bias and improves decision support. Designed for rapid extension, you can swap tools and prompts to target finance or brand risk.
@@ -1231,7 +1231,7 @@
 ## xpzouying/xiaohongshu-mcp
 
 > [!info]
-> ⭐ 10,862 · Go · 2026-03-08  
+> ⭐ 10,865 · Go · 2026-03-08  
 > [GitHub](https://github.com/xpzouying/xiaohongshu-mcp) · [Website](https://www.haha.ai/xiaohongshu-mcp)  
 > `#Model Context Protocol (MCP)` `#Xiaohongshu Automation` `#Social Media Publishing Bot` `#Dockerized Service` `#mcp` `#mcp-server` `#xiaohongshu-mcp` 
 > xiaohongshu-mcp is an MCP server that lets LLM agents operate Xiaohongshu (RED) via tool calls. It supports login and session checks, publishing image posts (URL or local paths) and local video uploads, keyword search, home-feed recommendations, and rich note retrieval including engagement metrics and nested comments. It can also auto-post comments and fetch user profile pages. The project exposes HTTP APIs alongside MCP, ships Docker images for deployment, and targets automated content operations and lightweight data-collection workflows.
@@ -1340,7 +1340,7 @@
 ## AstrBotDevs/AstrBot
 
 > [!info]
-> ⭐ 19,941 · Python · 2026-03-09  
+> ⭐ 19,942 · Python · 2026-03-09  
 > [GitHub](https://github.com/AstrBotDevs/AstrBot) · [Website](https://astrbot.app)  
 > `#Multi-IM Integration` `#Plugin-based Agent Framework` `#LLM Orchestration` `#Python 3.10+` `#agent` `#ai` `#chatbot` `#chatgpt` `#discord` `#docker` `#gemini` `#gpt` `#llama` `#llm` `#mcp` `#openai` `#python` `#qq` `#qqbot` `#telegram` 
 > AstrBot is an open-source, all-in-one agentic chatbot infrastructure for instant messaging. It unifies integrations across mainstream IM platforms, multiple LLM providers, and tool-based AI capabilities, enabling scalable conversational workflows. With a plugin marketplace and extensible architecture, developers can rapidly add skills, automations, and custom agents. Shipping with Docker-friendly deployment and production-minded components, AstrBot fits personal automation, community operations, customer support, and team assistants—positioning itself as a practical open alternative to OpenClaw.
