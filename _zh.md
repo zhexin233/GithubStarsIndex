@@ -1,10 +1,11 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-05-27 20:32 UTC · Total: 196
+> Updated: 2026-05-28 20:40 UTC · Total: 197
 
 ---
 
 ## 📑 Index
+- [[#mattpocock/skills|mattpocock/skills]]
 - [[#SamurAIGPT/llm-wiki-agent|SamurAIGPT/llm-wiki-agent]]
 - [[#jokooooooo/syber-gpt-image-2|jokooooooo/syber-gpt-image-2]]
 - [[#RoseKhlifa/Image-Studio|RoseKhlifa/Image-Studio]]
@@ -204,10 +205,20 @@
 
 ---
 
+## mattpocock/skills
+
+> [!info]
+> ⭐ 110,040 · Shell · 2026-05-28T20:35:11Z  
+> [GitHub](https://github.com/mattpocock/skills)  
+> 
+> 生成失败
+> <sub>Skills for Real Engineers. Straight from my .claude directory.</sub>
+
+---
 ## SamurAIGPT/llm-wiki-agent
 
 > [!info]
-> ⭐ 2,758 · Python · 2026-05-27T16:00:01Z  
+> ⭐ 2,763 · Python · 2026-05-28T18:25:47Z  
 > [GitHub](https://github.com/SamurAIGPT/llm-wiki-agent)  
 > `#claude-code` `#codex` `#gemini` `#knowledge-base` `#knowledge-graph` `#llm` `#markdown` `#obsidian` `#personal-knowledge-management` `#rag` `#wiki` 
 > 生成失败
@@ -227,7 +238,7 @@
 ## RoseKhlifa/Image-Studio
 
 > [!info]
-> ⭐ 135 · TypeScript · 2026-05-27T13:25:25Z  
+> ⭐ 141 · TypeScript · 2026-05-28T15:59:10Z  
 > [GitHub](https://github.com/RoseKhlifa/Image-Studio)  
 > 
 > 生成失败
@@ -237,7 +248,7 @@
 ## konbakuyomu/smartsearch
 
 > [!info]
-> ⭐ 369 · Python · 2026-05-27T17:57:12Z  
+> ⭐ 390 · Python · 2026-05-28T19:16:41Z  
 > [GitHub](https://github.com/konbakuyomu/smartsearch)  
 > 
 > 生成失败
@@ -246,7 +257,7 @@
 ## hugohe3/ppt-master
 
 > [!info]
-> ⭐ 21,749 · Python · 2026-05-27T20:16:54Z  
+> ⭐ 22,112 · Python · 2026-05-28T20:15:28Z  
 > [GitHub](https://github.com/hugohe3/ppt-master) · [Website](https://hugohe3.github.io/ppt-master/)  
 > `#ai-agent` `#aippt` `#office` `#powerpoint` `#powerpoint-generation` `#ppt` `#pptx` `#presentation` `#slide` `#slides` 
 > 生成失败
@@ -256,7 +267,7 @@
 ## liangdabiao/hyperframes-fix
 
 > [!info]
-> ⭐ 110 · N/A · 2026-05-27T03:55:16Z  
+> ⭐ 113 · N/A · 2026-05-28T14:30:07Z  
 > [GitHub](https://github.com/liangdabiao/hyperframes-fix) · [Website](https://linux.do/t/topic/2122909)  
 > 
 > 生成失败
@@ -275,7 +286,7 @@
 ## liangdabiao/ecom-details-image
 
 > [!info]
-> ⭐ 290 · Python · 2026-05-27T17:30:55Z  
+> ⭐ 297 · Python · 2026-05-28T15:42:37Z  
 > [GitHub](https://github.com/liangdabiao/ecom-details-image)  
 > 
 > 生成失败
@@ -285,7 +296,7 @@
 ## yuqie6/ProductFlow
 
 > [!info]
-> ⭐ 173 · Python · 2026-05-27T11:06:39Z  
+> ⭐ 174 · Python · 2026-05-28T15:37:21Z  
 > [GitHub](https://github.com/yuqie6/ProductFlow) · [Website](https://draw.devbin.de)  
 > `#ai` `#ecommerce` `#fastapi` `#gpt-image-2` `#productflow` `#react` `#self-hosted` 
 > 生成失败
@@ -295,7 +306,7 @@
 ## claw-codes/wx4py
 
 > [!info]
-> ⭐ 578 · Python · 2026-05-27T17:35:39Z  
+> ⭐ 583 · Python · 2026-05-28T14:40:41Z  
 > [GitHub](https://github.com/claw-codes/wx4py) · [Website](https://wx4py.biglongxia.com/)  
 > `#automation` `#openclaw-skills` `#python` `#rpa` `#skills` `#wechat` `#weixin` 
 > 生成失败
@@ -305,7 +316,7 @@
 ## buluslan/gpt-image2-ecommerce
 
 > [!info]
-> ⭐ 103 · Shell · 2026-05-26T17:22:35Z  
+> ⭐ 106 · Shell · 2026-05-28T06:37:07Z  
 > [GitHub](https://github.com/buluslan/gpt-image2-ecommerce)  
 > `#advertising` `#ai-art` `#claude-code` `#e-commerce` `#ecommerce` `#gpt-image-2` `#image-generation` `#product-photography` `#prompt-templates` `#social-media` 
 > 生成失败
@@ -315,7 +326,7 @@
 ## CookSleep/gpt_image_playground
 
 > [!info]
-> ⭐ 1,861 · TypeScript · 2026-05-27T17:50:38Z  
+> ⭐ 1,926 · TypeScript · 2026-05-28T18:45:02Z  
 > [GitHub](https://github.com/CookSleep/gpt_image_playground) · [Website](https://gpt-image-playground.cooksleep.dev)  
 > `#gpt-image` `#image-editing` `#image-generation` `#openai` `#react` `#tailwindcss` `#typescript` `#vite` 
 > 生成失败
@@ -325,7 +336,7 @@
 ## zhizhuodemao/js-reverse-mcp
 
 > [!info]
-> ⭐ 1,509 · TypeScript · 2026-05-27T16:37:38Z  
+> ⭐ 1,531 · TypeScript · 2026-05-28T19:55:48Z  
 > [GitHub](https://github.com/zhizhuodemao/js-reverse-mcp)  
 > 
 > 生成失败
@@ -335,7 +346,7 @@
 ## Mouseww/anything-analyzer
 
 > [!info]
-> ⭐ 2,696 · TypeScript · 2026-05-27T16:10:19Z  
+> ⭐ 2,708 · TypeScript · 2026-05-28T18:30:02Z  
 > [GitHub](https://github.com/Mouseww/anything-analyzer)  
 > `#2api` `#ai-tools` `#analysis-cli` `#api-analysis` `#automation-tools` `#blackbox-testing` `#network-analysis` `#protocol-analysis` `#reverse-engineering` `#traffic-analysis` 
 > 生成失败
@@ -345,7 +356,7 @@
 ## classfang/ssh-mcp-server
 
 > [!info]
-> ⭐ 485 · TypeScript · 2026-05-27T16:31:53Z  
+> ⭐ 492 · TypeScript · 2026-05-28T12:28:16Z  
 > [GitHub](https://github.com/classfang/ssh-mcp-server)  
 > 
 > 生成失败
@@ -355,7 +366,7 @@
 ## slopus/happy
 
 > [!info]
-> ⭐ 21,267 · TypeScript · 2026-05-27T20:24:30Z  
+> ⭐ 21,308 · TypeScript · 2026-05-28T20:28:06Z  
 > [GitHub](https://github.com/slopus/happy) · [Website](https://happy.engineering)  
 > `#AI智能体` `#端到端加密` `#跨平台` `#远程协作` `#claude-code` `#claude-desktop` `#claude-mobile` `#codex` `#codex-cli` `#hacktoberfest` 
 > Happy Coder 是一款移动端和网页端客户端，支持 Claude Code 和 Codex，具备端到端加密、实时语音交互及全功能远程控制。用户可通过手机或网页随时监控 AI 编码进度，实现设备间无缝切换，保障代码安全。
@@ -365,7 +376,7 @@
 ## Kiowx/c_cleaner_plus
 
 > [!info]
-> ⭐ 973 · Python · 2026-05-27T18:07:16Z  
+> ⭐ 985 · Python · 2026-05-28T19:05:25Z  
 > [GitHub](https://github.com/Kiowx/c_cleaner_plus) · [Website](https://cus.cc.cd)  
 > 
 > 生成失败
@@ -375,7 +386,7 @@
 ## mvanhorn/last30days-skill
 
 > [!info]
-> ⭐ 26,658 · Python · 2026-05-27T20:02:44Z  
+> ⭐ 26,740 · Python · 2026-05-28T20:03:12Z  
 > [GitHub](https://github.com/mvanhorn/last30days-skill)  
 > `#ai-prompts` `#ai-skill` `#bluesky` `#claude` `#claude-code` `#clawhub` `#deep-research` `#hackernews` `#instagram` `#openclaw` `#polymarket` `#recency` `#reddit` `#research` `#social-media` `#tiktok` `#trends` `#twitter` `#web-search` `#youtube` 
 > 生成失败
@@ -385,7 +396,7 @@
 ## EKKOLearnAI/hermes-web-ui
 
 > [!info]
-> ⭐ 6,272 · TypeScript · 2026-05-27T19:56:01Z  
+> ⭐ 6,429 · TypeScript · 2026-05-28T20:01:53Z  
 > [GitHub](https://github.com/EKKOLearnAI/hermes-web-ui) · [Website](https://ekkolearnai.com)  
 > `#agent` `#ai-agent` `#chat-ui` `#dashboard` `#hermes` `#hermes-agent` `#hermes-web-ui` `#llm` `#multi-model` `#multi-platform` `#self-hosted` `#typescript` `#vue3` `#web-ui` 
 > 生成失败
@@ -395,7 +406,7 @@
 ## wzj177/shop-tryon-skill
 
 > [!info]
-> ⭐ 69 · Python · 2026-05-26T01:43:23Z  
+> ⭐ 70 · Python · 2026-05-28T15:09:32Z  
 > [GitHub](https://github.com/wzj177/shop-tryon-skill)  
 > 
 > 生成失败
@@ -415,7 +426,7 @@
 ## worldwonderer/oh-story-claudecode
 
 > [!info]
-> ⭐ 1,592 · JavaScript · 2026-05-27T17:08:22Z  
+> ⭐ 1,646 · JavaScript · 2026-05-28T18:39:16Z  
 > [GitHub](https://github.com/worldwonderer/oh-story-claudecode)  
 > `#ai-agent` `#ai-writing` `#chinese-novel` `#claude-code` `#claude-skills` `#creative-writing` `#gpt-image` `#novel-writing` `#openclaw` `#skill` `#web-novel` `#writing-assistant` 
 > 生成失败
@@ -425,7 +436,7 @@
 ## yuaotian/antigravity-proxy
 
 > [!info]
-> ⭐ 3,054 · C++ · 2026-05-27T12:47:52Z  
+> ⭐ 3,072 · C++ · 2026-05-28T16:36:21Z  
 > [GitHub](https://github.com/yuaotian/antigravity-proxy)  
 > `#antigravity` `#dll-injection` `#force-proxy-network-hook` `#http-proxy` `#minhook` `#no-tun` `#proxy` `#socks5` `#transparent-proxy` `#windows-proxy` 
 > 生成失败
@@ -435,7 +446,7 @@
 ## OpenCoworkAI/open-codesign
 
 > [!info]
-> ⭐ 6,474 · TypeScript · 2026-05-27T19:34:19Z  
+> ⭐ 6,507 · TypeScript · 2026-05-28T18:13:47Z  
 > [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [Website](https://opencoworkai.github.io/open-codesign/)  
 > `#ai-design` `#anthropic` `#byok` `#claude` `#claude-code` `#claude-design` `#claude-design-alternative` `#deepseek` `#design-to-code` `#desktop-app` `#electron` `#figma-alternative` `#gemini` `#local-first` `#multi-model` `#ollama` `#openai` `#openrouter` `#typescript` `#ui-generator` 
 > 生成失败
@@ -445,7 +456,7 @@
 ## iFurySt/open-codex-computer-use
 
 > [!info]
-> ⭐ 896 · Swift · 2026-05-27T17:14:07Z  
+> ⭐ 905 · Swift · 2026-05-28T14:55:48Z  
 > [GitHub](https://github.com/iFurySt/open-codex-computer-use)  
 > `#accessibility` `#ai-agent` `#ai-agents` `#claude-code` `#codex` `#codex-computer-use` `#computer-use` `#computer-use-agent` `#cross-platform` `#cua` `#desktop-automation` `#gemini-cli` `#gui-automation` `#macos` `#mcp` `#model-context-protocol` `#open-computer-use` `#open-computer-use-mcp` `#openai-codex` `#opencode` 
 > 生成失败
@@ -455,7 +466,7 @@
 ## liuzhengdongfortest/CodeStable
 
 > [!info]
-> ⭐ 853 · Python · 2026-05-27T13:56:28Z  
+> ⭐ 866 · Python · 2026-05-28T13:25:36Z  
 > [GitHub](https://github.com/liuzhengdongfortest/CodeStable)  
 > 
 > 生成失败
@@ -464,7 +475,7 @@
 ## wbh604/UZI-Skill
 
 > [!info]
-> ⭐ 1,773 · Python · 2026-05-27T18:02:57Z  
+> ⭐ 1,795 · Python · 2026-05-28T18:32:23Z  
 > [GitHub](https://github.com/wbh604/UZI-Skill)  
 > 
 > 生成失败
@@ -474,7 +485,7 @@
 ## 863401402/she-love-me
 
 > [!info]
-> ⭐ 355 · Python · 2026-05-27T09:30:55Z  
+> ⭐ 356 · Python · 2026-05-28T11:49:42Z  
 > [GitHub](https://github.com/863401402/she-love-me)  
 > `#agent` `#she-love-me` `#skill` `#wechat` 
 > 生成失败
@@ -484,7 +495,7 @@
 ## safishamsi/graphify
 
 > [!info]
-> ⭐ 54,913 · Python · 2026-05-27T20:25:07Z  
+> ⭐ 55,577 · Python · 2026-05-28T20:35:36Z  
 > [GitHub](https://github.com/safishamsi/graphify) · [Website](https://graphifylabs.ai/)  
 > `#antigravity` `#claude-code` `#codex` `#gemini` `#graphrag` `#knowledge-graph` `#leiden` `#openclaw` `#rag` `#skills` `#tree-sitter` 
 > 生成失败
@@ -494,7 +505,7 @@
 ## NousResearch/hermes-agent
 
 > [!info]
-> ⭐ 170,100 · Python · 2026-05-27T20:28:11Z  
+> ⭐ 171,479 · Python · 2026-05-28T20:36:52Z  
 > [GitHub](https://github.com/NousResearch/hermes-agent) · [Website](https://hermes-agent.nousresearch.com)  
 > `#ai` `#ai-agent` `#ai-agents` `#anthropic` `#chatgpt` `#claude` `#claude-code` `#clawdbot` `#codex` `#hermes` `#hermes-agent` `#llm` `#moltbot` `#nous-research` `#openai` `#openclaw` 
 > 生成失败
@@ -504,7 +515,7 @@
 ## LingyiChen-AI/comfyui-workflow-skill
 
 > [!info]
-> ⭐ 260 · N/A · 2026-05-27T13:05:07Z  
+> ⭐ 264 · N/A · 2026-05-28T08:23:16Z  
 > [GitHub](https://github.com/LingyiChen-AI/comfyui-workflow-skill)  
 > 
 > 生成失败
@@ -514,7 +525,7 @@
 ## 1sdv/TripStar
 
 > [!info]
-> ⭐ 1,794 · JavaScript · 2026-05-27T15:35:25Z  
+> ⭐ 1,794 · JavaScript · 2026-05-28T13:49:47Z  
 > [GitHub](https://github.com/1sdv/TripStar)  
 > 
 > 生成失败
@@ -524,7 +535,7 @@
 ## FujiwaraChoki/MoneyPrinterV2
 
 > [!info]
-> ⭐ 30,579 · Python · 2026-05-27T13:52:08Z  
+> ⭐ 30,605 · Python · 2026-05-28T19:59:21Z  
 > [GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2)  
 > `#automation` `#cli` `#json` `#money` `#outreach` `#python` `#twitter` `#youtube` 
 > 生成失败
@@ -544,7 +555,7 @@
 ## Shanyin-ai/shanyin-screenwriting-master
 
 > [!info]
-> ⭐ 380 · N/A · 2026-05-27T14:56:12Z  
+> ⭐ 383 · N/A · 2026-05-28T19:18:44Z  
 > [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master)  
 > `#ai-agent` `#claude-ai` `#claude-skills` `#screenwriting` `#skills` 
 > 生成失败
@@ -554,7 +565,7 @@
 ## paperclipai/paperclip
 
 > [!info]
-> ⭐ 67,939 · TypeScript · 2026-05-27T20:28:17Z  
+> ⭐ 68,114 · TypeScript · 2026-05-28T20:37:37Z  
 > [GitHub](https://github.com/paperclipai/paperclip) · [Website](https://paperclip.ing)  
 > 
 > 生成失败
@@ -564,7 +575,7 @@
 ## WJZ-P/gemini-skill
 
 > [!info]
-> ⭐ 821 · JavaScript · 2026-05-27T19:51:37Z  
+> ⭐ 822 · JavaScript · 2026-05-28T01:15:06Z  
 > [GitHub](https://github.com/WJZ-P/gemini-skill)  
 > `#automation` `#browser-automation` `#drawing` `#gemini` `#mcp` `#mcp-client` `#mcp-server` `#openclaw` `#openclaw-agent` `#openclaw-skills` `#openclawskill` 
 > 生成失败
@@ -574,7 +585,7 @@
 ## xiaohuailabs/xiaohu-wechat-format
 
 > [!info]
-> ⭐ 500 · Python · 2026-05-26T15:19:21Z  
+> ⭐ 502 · Python · 2026-05-28T02:12:23Z  
 > [GitHub](https://github.com/xiaohuailabs/xiaohu-wechat-format)  
 > 
 > 生成失败
@@ -584,7 +595,7 @@
 ## ryfineZ/codex-session-patcher
 
 > [!info]
-> ⭐ 1,408 · Python · 2026-05-27T16:03:58Z  
+> ⭐ 1,417 · Python · 2026-05-28T16:37:42Z  
 > [GitHub](https://github.com/ryfineZ/codex-session-patcher)  
 > 
 > 生成失败
@@ -594,7 +605,7 @@
 ## Narcooo/inkos
 
 > [!info]
-> ⭐ 6,628 · TypeScript · 2026-05-27T18:52:57Z  
+> ⭐ 6,668 · TypeScript · 2026-05-28T19:37:20Z  
 > [GitHub](https://github.com/Narcooo/inkos)  
 > `#agent` `#ai` `#ai-agent` `#ai-novel` `#ai-writing` `#chinese-novel` `#cli` `#cli-tool` `#creative-writing-ai` `#novel-ai` `#novel-generation` `#openclaw` 
 > 生成失败
@@ -624,7 +635,7 @@
 ## MiniMax-AI/skills
 
 > [!info]
-> ⭐ 12,148 · C# · 2026-05-27T19:27:15Z  
+> ⭐ 12,174 · C# · 2026-05-28T16:36:58Z  
 > [GitHub](https://github.com/MiniMax-AI/skills)  
 > 
 > 生成失败
@@ -633,7 +644,7 @@
 ## garrytan/gstack
 
 > [!info]
-> ⭐ 103,607 · TypeScript · 2026-05-27T20:28:48Z  
+> ⭐ 104,014 · TypeScript · 2026-05-28T20:16:07Z  
 > [GitHub](https://github.com/garrytan/gstack)  
 > 
 > 生成失败
@@ -643,7 +654,7 @@
 ## modstart-lib/aigcpanel
 
 > [!info]
-> ⭐ 5,036 · TypeScript · 2026-05-27T16:50:11Z  
+> ⭐ 5,044 · TypeScript · 2026-05-28T14:20:36Z  
 > [GitHub](https://github.com/modstart-lib/aigcpanel) · [Website](https://aigcpanel.com)  
 > `#ai` `#aigc` `#cosyvoice` `#fishspeech` `#latentsync` `#musetalk` `#sparktts` `#wav2lip` 
 > 生成失败
@@ -653,7 +664,7 @@
 ## zhouxiaoka/autoclip
 
 > [!info]
-> ⭐ 5,467 · Python · 2026-05-27T15:31:09Z  
+> ⭐ 5,481 · Python · 2026-05-28T14:23:33Z  
 > [GitHub](https://github.com/zhouxiaoka/autoclip) · [Website](https://zhouxiaoka.github.io/autoclip_intro/)  
 > `#ai` `#ai-agents` `#ai-tools` `#ai-video` `#ai-video-editor` `#auto` `#auto-highlight` `#highlight` `#llm` `#video` `#video-editing` `#video-processing` `#videos` 
 > 生成失败
@@ -672,7 +683,7 @@
 ## lili-luo/aicoding-cookbook
 
 > [!info]
-> ⭐ 514 · JavaScript · 2026-05-27T13:44:25Z  
+> ⭐ 522 · JavaScript · 2026-05-28T19:59:59Z  
 > [GitHub](https://github.com/lili-luo/aicoding-cookbook)  
 > 
 > 生成失败
@@ -710,7 +721,7 @@
 ## uluckyXH/OpenMOSS
 
 > [!info]
-> ⭐ 1,272 · Python · 2026-05-26T17:34:02Z  
+> ⭐ 1,274 · Python · 2026-05-28T19:17:53Z  
 > [GitHub](https://github.com/uluckyXH/OpenMOSS)  
 > 
 > 生成失败
@@ -720,7 +731,7 @@
 ## chenyme/grok2api
 
 > [!info]
-> ⭐ 5,024 · Python · 2026-05-27T18:59:31Z  
+> ⭐ 5,034 · Python · 2026-05-28T18:20:18Z  
 > [GitHub](https://github.com/chenyme/grok2api) · [Website](https://grok2api-omega.vercel.app/)  
 > `#grok` `#grok-4-20` `#grok-4-3` `#grok-imagine` 
 > 生成失败
@@ -730,7 +741,7 @@
 ## xstongxue/best-skills
 
 > [!info]
-> ⭐ 1,575 · JavaScript · 2026-05-27T18:07:25Z  
+> ⭐ 1,592 · JavaScript · 2026-05-28T19:52:44Z  
 > [GitHub](https://github.com/xstongxue/best-skills)  
 > `#skills` `#vibe-coding` 
 > 生成失败
@@ -740,7 +751,7 @@
 ## ClawDeckX/ClawDeckX
 
 > [!info]
-> ⭐ 498 · TypeScript · 2026-05-27T15:07:46Z  
+> ⭐ 499 · TypeScript · 2026-05-28T02:47:03Z  
 > [GitHub](https://github.com/ClawDeckX/ClawDeckX)  
 > 
 > 生成失败
@@ -760,7 +771,7 @@
 ## vmoranv/jshookmcp
 
 > [!info]
-> ⭐ 1,544 · TypeScript · 2026-05-27T15:09:30Z  
+> ⭐ 1,552 · TypeScript · 2026-05-28T15:56:40Z  
 > [GitHub](https://github.com/vmoranv/jshookmcp) · [Website](https://vmoranv.github.io/jshookmcp/)  
 > `#browser-automation` `#debugging` `#deobfuscation` `#js-reverse` `#mcp` `#network-analysis` `#reverse-engineering` `#security-analysis` 
 > 生成失败
@@ -780,7 +791,7 @@
 ## hesamsheikh/awesome-openclaw-usecases
 
 > [!info]
-> ⭐ 31,209 · N/A · 2026-05-27T17:13:27Z  
+> ⭐ 31,214 · N/A · 2026-05-28T18:21:26Z  
 > [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases)  
 > `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
 > 生成失败
@@ -790,7 +801,7 @@
 ## ZSeven-W/openpencil
 
 > [!info]
-> ⭐ 3,222 · TypeScript · 2026-05-27T19:31:57Z  
+> ⭐ 3,236 · TypeScript · 2026-05-28T16:47:39Z  
 > [GitHub](https://github.com/ZSeven-W/openpencil) · [Website](https://op.zseven.tech)  
 > `#agent` `#agent-team` `#ai` `#claude` `#claude-code` `#codex` `#fimga` `#flutter` `#html` `#mcp` `#opencode` `#openpencil` `#pencil` `#react` `#react-native` `#svelte` `#ui` `#vibecoding` `#vibedesign` `#vue` 
 > 生成失败
@@ -800,7 +811,7 @@
 ## moeru-ai/airi
 
 > [!info]
-> ⭐ 40,172 · TypeScript · 2026-05-27T20:30:10Z  
+> ⭐ 40,459 · TypeScript · 2026-05-28T20:25:33Z  
 > [GitHub](https://github.com/moeru-ai/airi) · [Website](https://airi.moeru.ai/docs/)  
 > `#ai-companion` `#ai-vtuber` `#airi` `#digital-life` `#grok-companion` `#live2d` `#neuro-sama` `#neurosama` `#openclaw` `#vrm` `#vtuber` 
 > 生成失败
@@ -810,7 +821,7 @@
 ## puaclaw/PUAClaw
 
 > [!info]
-> ⭐ 2,659 · HTML · 2026-05-27T19:24:14Z  
+> ⭐ 2,660 · HTML · 2026-05-28T08:43:16Z  
 > [GitHub](https://github.com/puaclaw/PUAClaw) · [Website](https://puaclaw.org)  
 > `#agent` `#openclaw` 
 > 生成失败
@@ -840,7 +851,7 @@
 ## waooAI/waoowaoo
 
 > [!info]
-> ⭐ 12,422 · TypeScript · 2026-05-27T16:21:20Z  
+> ⭐ 12,440 · TypeScript · 2026-05-28T17:03:41Z  
 > [GitHub](https://github.com/waooAI/waoowaoo) · [Website](https://www.waoowaoo.com/)  
 > `#ai-agent` `#ai-agents` `#automation` `#film-production` `#generative-ai` `#short-drama` `#storyboard` `#video-generation` 
 > 生成失败
@@ -850,7 +861,7 @@
 ## yukkcat/gemini-business2api
 
 > [!info]
-> ⭐ 1,272 · Python · 2026-05-27T19:37:19Z  
+> ⭐ 1,276 · Python · 2026-05-28T17:38:56Z  
 > [GitHub](https://github.com/yukkcat/gemini-business2api) · [Website](https://gemini-business2api.nanohajimi.mom)  
 > `#2api` `#business` `#chatgpt` `#gemini` `#openai` 
 > 生成失败
@@ -880,7 +891,7 @@
 ## WakeUp-Jin/Practical-Guide-to-Context-Engineering
 
 > [!info]
-> ⭐ 665 · N/A · 2026-05-27T04:13:00Z  
+> ⭐ 668 · N/A · 2026-05-28T02:52:54Z  
 > [GitHub](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) · [Website](https://wakeup-jin.github.io/Practical-Guide-to-Context-Engineering/)  
 > `#javascript` `#typescript` 
 > 生成失败
@@ -890,7 +901,7 @@
 ## lackeyjb/playwright-skill
 
 > [!info]
-> ⭐ 2,679 · JavaScript · 2026-05-27T20:17:38Z  
+> ⭐ 2,688 · JavaScript · 2026-05-28T18:46:01Z  
 > [GitHub](https://github.com/lackeyjb/playwright-skill)  
 > `#ai-tools` `#automation` `#browser-automation` `#claude` `#claude-code` `#claude-plugin` `#claude-skills` `#developer-tools` `#e2e-testing` `#model-invoked` `#nodejs` `#playwright` `#web-testing` 
 > 生成失败
@@ -900,7 +911,7 @@
 ## multica-ai/andrej-karpathy-skills
 
 > [!info]
-> ⭐ 158,830 · N/A · 2026-05-27T20:30:07Z  
+> ⭐ 160,359 · N/A · 2026-05-28T20:38:05Z  
 > [GitHub](https://github.com/multica-ai/andrej-karpathy-skills)  
 > 
 > 生成失败
@@ -910,7 +921,7 @@
 ## obra/superpowers
 
 > [!info]
-> ⭐ 209,377 · Shell · 2026-05-27T20:29:53Z  
+> ⭐ 210,951 · Shell · 2026-05-28T20:35:20Z  
 > [GitHub](https://github.com/obra/superpowers)  
 > `#AI智能体` `#提示工程` `#自动化工具` `#软件开发方法论` 
 > Superpowers 是一个面向编码智能体的完整软件开发工作流框架，基于可组合的'技能'和初始指令，确保智能体高效协作。它通过自动触发技能（如需求澄清、设计评审、TDD开发计划生成、子智能体驱动开发），实现从构思到交付的无缝流程，强调 YAGNI、DRY 和测试优先原则，适用于 Claude Code、Cursor、Codex 等主流 AI 编程平台。
@@ -920,7 +931,7 @@
 ## gsd-build/get-shit-done
 
 > [!info]
-> ⭐ 63,733 · JavaScript · 2026-05-27T20:26:59Z  
+> ⭐ 63,753 · JavaScript · 2026-05-28T20:18:40Z  
 > [GitHub](https://github.com/gsd-build/get-shit-done)  
 > `#claude-code` `#context-engineering` `#meta-prompting` `#spec-driven-development` 
 > 生成失败
@@ -940,7 +951,7 @@
 ## qufei1993/skills-hub
 
 > [!info]
-> ⭐ 969 · Rust · 2026-05-27T15:37:45Z  
+> ⭐ 972 · Rust · 2026-05-28T15:08:04Z  
 > [GitHub](https://github.com/qufei1993/skills-hub)  
 > 
 > 生成失败
@@ -960,7 +971,7 @@
 ## zhukunpenglinyutong/desktop-cc-gui
 
 > [!info]
-> ⭐ 2,638 · TypeScript · 2026-05-27T18:38:32Z  
+> ⭐ 2,656 · TypeScript · 2026-05-28T18:51:56Z  
 > [GitHub](https://github.com/zhukunpenglinyutong/desktop-cc-gui) · [Website](https://www.mossx.ai/download)  
 > 
 > 生成失败
@@ -970,7 +981,7 @@
 ## GuanYixuan/pyCapCut
 
 > [!info]
-> ⭐ 512 · Python · 2026-05-26T17:46:00Z  
+> ⭐ 512 · Python · 2026-05-28T09:40:54Z  
 > [GitHub](https://github.com/GuanYixuan/pyCapCut)  
 > `#api` `#automation` `#capcut` `#video-editing` `#video-production` 
 > 生成失败
@@ -980,7 +991,7 @@
 ## virattt/dexter
 
 > [!info]
-> ⭐ 26,576 · TypeScript · 2026-05-27T19:42:16Z  
+> ⭐ 26,614 · TypeScript · 2026-05-28T20:37:35Z  
 > [GitHub](https://github.com/virattt/dexter)  
 > 
 > 生成失败
@@ -990,7 +1001,7 @@
 ## MiniMax-AI/MiniMax-MCP
 
 > [!info]
-> ⭐ 1,490 · Python · 2026-05-27T13:41:38Z  
+> ⭐ 1,491 · Python · 2026-05-28T02:23:39Z  
 > [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [Website](https://www.minimax.io/platform)  
 > `#image-generation` `#image-to-video` `#mcp` `#mcp-server` `#mcp-tools` `#text-to-image` `#text-to-speech` `#text-to-video` `#video-generation` `#voice-cloning` 
 > 生成失败
@@ -1010,7 +1021,7 @@
 ## shanraisshan/claude-code-best-practice
 
 > [!info]
-> ⭐ 55,177 · HTML · 2026-05-27T20:00:11Z  
+> ⭐ 55,311 · HTML · 2026-05-28T20:27:29Z  
 > [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [Website](https://linkedin.com/in/shanraisshan)  
 > `#agentic-ai` `#agentic-coding` `#agentic-engineering` `#agentic-workflow` `#ai` `#ai-agents` `#anthropic` `#best-practices` `#boris` `#claude` `#claude-ai` `#claude-code` `#claude-code-agents` `#claude-code-best-practices` `#claude-code-commands` `#claude-code-skills` `#context-engineering` `#pakistan` `#pakistani-developer` `#vibe-coding` 
 > 生成失败
@@ -1020,7 +1031,7 @@
 ## dreamhunter2333/cloudflare_temp_email
 
 > [!info]
-> ⭐ 9,687 · TypeScript · 2026-05-27T18:30:51Z  
+> ⭐ 9,700 · TypeScript · 2026-05-28T19:15:00Z  
 > [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email) · [Website](https://mail.awsl.uk)  
 > `#Cloudflare Workers` `#临时邮箱` `#邮件服务` `#cloudflare-email` `#cloudflare-pages` `#cloudflare-workers` `#email` `#free` 
 > 基于 Cloudflare Workers 构建的免费临时邮箱服务，支持收发邮件、附件处理、IMAP/SMTP 协议及 Telegram 机器人通知，采用 Rust WASM 实现高性能邮件解析，提供现代化多语言响应式界面，支持邮箱地址密码保护，完全免费且无需服务器部署。
@@ -1030,7 +1041,7 @@
 ## JackyST0/awesome-rsshub-routes
 
 > [!info]
-> ⭐ 565 · HTML · 2026-05-27T10:39:06Z  
+> ⭐ 572 · HTML · 2026-05-28T16:02:47Z  
 > [GitHub](https://github.com/JackyST0/awesome-rsshub-routes) · [Website](https://jackyst0.github.io/awesome-rsshub-routes/)  
 > `#awesome` `#awesome-list` `#rss` `#rss-feeds` `#rsshub` 
 > 生成失败
@@ -1050,7 +1061,7 @@
 ## Yeachan-Heo/oh-my-claudecode
 
 > [!info]
-> ⭐ 35,069 · TypeScript · 2026-05-27T20:18:04Z  
+> ⭐ 35,189 · TypeScript · 2026-05-28T19:57:39Z  
 > [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode) · [Website](https://oh-my-claudecode.dev)  
 > `#agentic-coding` `#ai-agents` `#automation` `#claude` `#claude-code` `#multi-agent-systems` `#oh-my-opencode` `#opencode` `#parallel-execution` `#vibe-coding` 
 > 生成失败
@@ -1060,7 +1071,7 @@
 ## mindfold-ai/Trellis
 
 > [!info]
-> ⭐ 8,526 · TypeScript · 2026-05-27T19:01:46Z  
+> ⭐ 8,592 · TypeScript · 2026-05-28T17:31:02Z  
 > [GitHub](https://github.com/mindfold-ai/Trellis) · [Website](https://docs.trytrellis.app)  
 > `#agentic-coding` `#ai-workflow` `#claudecode` `#codex` `#harness` 
 > 生成失败
@@ -1070,7 +1081,7 @@
 ## JimLiu/baoyu-skills
 
 > [!info]
-> ⭐ 19,681 · TypeScript · 2026-05-27T19:47:09Z  
+> ⭐ 19,783 · TypeScript · 2026-05-28T18:02:03Z  
 > [GitHub](https://github.com/JimLiu/baoyu-skills)  
 > `#agent-skills` `#claude-skills` `#codex-skills` `#openclaw-skills` 
 > 生成失败
@@ -1089,7 +1100,7 @@
 ## GuDaStudio/GrokSearch
 
 > [!info]
-> ⭐ 1,641 · Python · 2026-05-27T17:01:36Z  
+> ⭐ 1,649 · Python · 2026-05-28T18:24:40Z  
 > [GitHub](https://github.com/GuDaStudio/GrokSearch) · [Website](https://code.guda.studio)  
 > 
 > 生成失败
@@ -1099,7 +1110,7 @@
 ## chatfire-AI/huobao-drama
 
 > [!info]
-> ⭐ 12,471 · TypeScript · 2026-05-27T15:32:16Z  
+> ⭐ 12,492 · TypeScript · 2026-05-28T18:33:46Z  
 > [GitHub](https://github.com/chatfire-AI/huobao-drama)  
 > 
 > 生成失败
@@ -1119,7 +1130,7 @@
 ## vuejs-ai/skills
 
 > [!info]
-> ⭐ 2,488 · N/A · 2026-05-27T15:56:33Z  
+> ⭐ 2,494 · N/A · 2026-05-28T10:51:37Z  
 > [GitHub](https://github.com/vuejs-ai/skills)  
 > 
 > 生成失败
@@ -1129,7 +1140,7 @@
 ## brokermr810/QuantDinger
 
 > [!info]
-> ⭐ 6,772 · Python · 2026-05-27T20:29:00Z  
+> ⭐ 6,855 · Python · 2026-05-28T19:50:58Z  
 > [GitHub](https://github.com/brokermr810/QuantDinger) · [Website](https://www.quantdinger.com)  
 > `#agent` `#algotrade` `#alpaca` `#backtesting` `#binance` `#coinbase` `#crypto` `#exchange` `#finance` `#fintech` `#forex` `#mcp-server` `#mt5` `#python` `#quant` `#quantitative-finance` `#saas` `#stocks` `#strategy` `#trade` 
 > 生成失败
@@ -1139,7 +1150,7 @@
 ## ZhuLinsen/daily_stock_analysis
 
 > [!info]
-> ⭐ 39,136 · Python · 2026-05-27T19:22:31Z  
+> ⭐ 39,276 · Python · 2026-05-28T20:26:49Z  
 > [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [Website](https://dsa.zhulinsen.tech)  
 > `#a-stock` `#ai-agent` `#aigc` `#llm` `#quant` `#quantitative-finance` `#quantitative-trading` 
 > 生成失败
@@ -1158,7 +1169,7 @@
 ## YuJunZhiXue/github-skill-forge
 
 > [!info]
-> ⭐ 583 · Python · 2026-05-27T15:59:54Z  
+> ⭐ 588 · Python · 2026-05-28T11:41:10Z  
 > [GitHub](https://github.com/YuJunZhiXue/github-skill-forge)  
 > 
 > 生成失败
@@ -1178,7 +1189,7 @@
 ## liangdabiao/XHS_Business_Idea_Validator
 
 > [!info]
-> ⭐ 191 · Python · 2026-05-21T15:03:55Z  
+> ⭐ 192 · Python · 2026-05-28T13:30:35Z  
 > [GitHub](https://github.com/liangdabiao/XHS_Business_Idea_Validator) · [Website](https://linux.do/t/topic/1409279)  
 > `#agent` `#agentic-ai` 
 > 生成失败
@@ -1208,7 +1219,7 @@
 ## lingfengQAQ/webnovel-writer
 
 > [!info]
-> ⭐ 4,538 · Python · 2026-05-27T19:26:19Z  
+> ⭐ 4,559 · Python · 2026-05-28T18:32:50Z  
 > [GitHub](https://github.com/lingfengQAQ/webnovel-writer)  
 > `#AI智能体` `#叙事连贯性` `#追读力机制` `#长篇创作` 
 > 基于 Claude Code 的长篇网文创作辅助系统，通过双 Agent 架构和六维审查机制解决 AI 写作中的遗忘与幻觉问题，支持 200 万字级连载创作，集成 RAG 检索、创意约束系统和追读力机制，确保叙事连贯性与读者粘性。
@@ -1228,7 +1239,7 @@
 ## Austin-Patrician/eastmoney
 
 > [!info]
-> ⭐ 599 · Python · 2026-05-27T09:11:59Z  
+> ⭐ 599 · Python · 2026-05-28T14:11:03Z  
 > [GitHub](https://github.com/Austin-Patrician/eastmoney) · [Website](http://valpha.adaptext.cn/doc)  
 > 
 > 生成失败
@@ -1248,7 +1259,7 @@
 ## nextlevelbuilder/ui-ux-pro-max-skill
 
 > [!info]
-> ⭐ 83,648 · Python · 2026-05-27T20:27:52Z  
+> ⭐ 84,227 · Python · 2026-05-28T20:36:52Z  
 > [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · [Website](https://www.uupm.cc/)  
 > `#AI智能体` `#设计系统` `#跨平台UI/UX` `#ai-skills` `#antigravity` `#claude` `#claude-code` `#codex` `#command-line` `#copilot` `#cursor-ai` `#html5` `#kiro` `#landing-page` `#mobile-ui` `#qoder` `#react` `#tailwindcss` `#trae` `#ui-design` `#uikit` `#windsurf-ai` 
 > UI UX Pro Max 是一款 AI 技能，专为多平台构建专业 UI/UX 设计而生。其核心功能是通过 AI 驱动的设计系统生成器，快速分析项目需求并输出适配不同框架的完整设计体系，支持 67 种 UI 风格与 100 条推理规则，显著提升跨平台设计效率与一致性。
@@ -1258,7 +1269,7 @@
 ## Fission-AI/OpenSpec
 
 > [!info]
-> ⭐ 51,164 · TypeScript · 2026-05-27T19:48:16Z  
+> ⭐ 51,399 · TypeScript · 2026-05-28T20:05:32Z  
 > [GitHub](https://github.com/Fission-AI/OpenSpec) · [Website](https://openspec.dev/)  
 > `#ai` `#context-engineering` `#engineering` `#planning` `#prd` `#sdd` `#sdlc` `#spec` `#spec-driven-development` `#specification` 
 > 生成失败
@@ -1268,7 +1279,7 @@
 ## qixing-jk/all-api-hub
 
 > [!info]
-> ⭐ 3,762 · TypeScript · 2026-05-27T16:11:36Z  
+> ⭐ 3,777 · TypeScript · 2026-05-28T20:24:57Z  
 > [GitHub](https://github.com/qixing-jk/all-api-hub) · [Website](https://all-api-hub.qixing1217.top/)  
 > `#ai` `#cc-switch` `#chatgpt` `#chatgpt-api` `#cherrystudio` `#claude` `#claude-code` `#cliproxyapi` `#codex` `#new-api` `#newapi` `#one-api` `#openai` `#sub2api` `#voapi` 
 > 生成失败
@@ -1288,7 +1299,7 @@
 ## looplj/axonhub
 
 > [!info]
-> ⭐ 4,016 · Go · 2026-05-27T19:39:59Z  
+> ⭐ 4,028 · Go · 2026-05-28T18:01:32Z  
 > [GitHub](https://github.com/looplj/axonhub) · [Website](https://axonhub.onrender.com/)  
 > `#agent` `#agents` `#ai` `#anthropic` `#anthropic-api` `#api-gateway` `#claude` `#claude-code` `#codex` `#cost-management` `#deepseek` `#gemini-api` `#llm` `#openai` `#opencode` 
 > 生成失败
@@ -1298,7 +1309,7 @@
 ## ikuaitu/vue-fabric-editor
 
 > [!info]
-> ⭐ 7,875 · Vue · 2026-05-27T12:10:38Z  
+> ⭐ 7,876 · Vue · 2026-05-28T02:47:06Z  
 > [GitHub](https://github.com/ikuaitu/vue-fabric-editor) · [Website](https://ikuaitu.github.io/doc/#/)  
 > `#canvas-editor` `#design` `#design-editor` `#editor` `#fabricjs` `#image-editor` `#poster` `#svg-editor` `#vue-fabric` 
 > 生成失败
@@ -1308,7 +1319,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 29,965 · TypeScript · 2026-05-27T17:47:50Z  
+> ⭐ 30,025 · TypeScript · 2026-05-28T18:34:32Z  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#AI智能体` `#提示工程` `#自动化工具` `#ai-prompts` `#ai-tools` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-optimizer` `#prompt-testing` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是一款专注于提升 AI 提示词质量的优化工具，支持多轮迭代优化、双模式提示词处理、实时对比测试及多模型集成（OpenAI/Gemini/DeepSeek等），同时提供文生图、图生图、MCP协议支持等高级功能，适用于角色扮演、知识图谱提取、创意写作等场景。
@@ -1318,7 +1329,7 @@
 ## fengshao1227/ccg-workflow
 
 > [!info]
-> ⭐ 5,368 · Go · 2026-05-27T17:53:02Z  
+> ⭐ 5,374 · Go · 2026-05-28T16:17:34Z  
 > [GitHub](https://github.com/fengshao1227/ccg-workflow) · [Website](https://ccg.fengshao1227.com)  
 > `#agent-teams` `#ai` `#ccg` `#claude-code` `#cli` `#codex` `#gemini` `#llm` `#no-de` `#nodejs` `#opsxspec` `#prompt` `#workflow` 
 > 生成失败
@@ -1328,7 +1339,7 @@
 ## router-for-me/CLIProxyAPI
 
 > [!info]
-> ⭐ 35,076 · Go · 2026-05-27T20:03:24Z  
+> ⭐ 35,253 · Go · 2026-05-28T20:20:57Z  
 > [GitHub](https://github.com/router-for-me/CLIProxyAPI)  
 > `#antigravity` `#claude-code` `#cluade` `#codex` `#gemini` `#openai` 
 > 生成失败
@@ -1338,7 +1349,7 @@
 ## J3n5en/EnsoAI
 
 > [!info]
-> ⭐ 940 · TypeScript · 2026-05-27T15:19:23Z  
+> ⭐ 941 · TypeScript · 2026-05-28T09:34:22Z  
 > [GitHub](https://github.com/J3n5en/EnsoAI) · [Website](https://enso.j3.do)  
 > 
 > 生成失败
@@ -1348,7 +1359,7 @@
 ## stellarlinkco/myclaude
 
 > [!info]
-> ⭐ 2,676 · Go · 2026-05-27T17:39:06Z  
+> ⭐ 2,675 · Go · 2026-05-28T18:28:43Z  
 > [GitHub](https://github.com/stellarlinkco/myclaude)  
 > 
 > 生成失败
@@ -1378,7 +1389,7 @@
 ## KuekHaoYang/KVideo
 
 > [!info]
-> ⭐ 3,545 · TypeScript · 2026-05-27T14:42:23Z  
+> ⭐ 3,548 · TypeScript · 2026-05-28T16:12:22Z  
 > [GitHub](https://github.com/KuekHaoYang/KVideo) · [Website](https://kvideo.pages.dev/)  
 > 
 > 生成失败
@@ -1388,7 +1399,7 @@
 ## suyiiyii/AutoGLM-GUI
 
 > [!info]
-> ⭐ 1,042 · Python · 2026-05-27T19:48:52Z  
+> ⭐ 1,043 · Python · 2026-05-28T12:08:57Z  
 > [GitHub](https://github.com/suyiiyii/AutoGLM-GUI) · [Website](https://autoglm-gui.vercel.app)  
 > 
 > 生成失败
@@ -1398,7 +1409,7 @@
 ## zai-org/Open-AutoGLM
 
 > [!info]
-> ⭐ 25,374 · Python · 2026-05-27T16:25:37Z  
+> ⭐ 25,379 · Python · 2026-05-28T19:52:14Z  
 > [GitHub](https://github.com/zai-org/Open-AutoGLM) · [Website](https://autoglm.z.ai/blog)  
 > `#agent` `#phone-use-agent` 
 > 生成失败
@@ -1408,7 +1419,7 @@
 ## wusimpl/AntigravityQuotaWatcher
 
 > [!info]
-> ⭐ 2,281 · TypeScript · 2026-05-27T12:05:18Z  
+> ⭐ 2,282 · TypeScript · 2026-05-28T09:35:39Z  
 > [GitHub](https://github.com/wusimpl/AntigravityQuotaWatcher)  
 > 
 > 生成失败
@@ -1418,7 +1429,7 @@
 ## GuDaStudio/skills
 
 > [!info]
-> ⭐ 2,012 · PowerShell · 2026-05-24T02:55:08Z  
+> ⭐ 2,013 · PowerShell · 2026-05-28T09:15:41Z  
 > [GitHub](https://github.com/GuDaStudio/skills) · [Website](https://code.guda.studio)  
 > 
 > 生成失败
@@ -1428,7 +1439,7 @@
 ## lmn1919/dompdf.js
 
 > [!info]
-> ⭐ 1,189 · TypeScript · 2026-05-26T04:12:14Z  
+> ⭐ 1,190 · TypeScript · 2026-05-28T02:24:29Z  
 > [GitHub](https://github.com/lmn1919/dompdf.js) · [Website](https://dompdfjs.lisky.com.cn)  
 > `#前端PDF生成` `#矢量PDF` `#网页转PDF` `#frontend` `#html-to-pdf` `#html2pdf` `#pdf` `#pdf-generation` `#vector-pdf` 
 > dompdf.js 是一个前端库，可将 HTML 转换为多页矢量 PDF，支持分页和数千页文档生成。基于 html2canvas 和 jspdf 改造，直接在浏览器中生成可编辑、非图像式的 PDF，具备高质量输出、小文件体积、无需服务端渲染等优势，适用于网页内容导出和打印场景。
@@ -1458,7 +1469,7 @@
 ## Tansuo2021/gemini-3-pro-image-preview
 
 > [!info]
-> ⭐ 410 · JavaScript · 2026-05-27T05:47:43Z  
+> ⭐ 410 · JavaScript · 2026-05-28T09:29:00Z  
 > [GitHub](https://github.com/Tansuo2021/gemini-3-pro-image-preview) · [Website](https://tansuo2021.github.io/gemini-3-pro-image-preview/)  
 > 
 > 生成失败
@@ -1468,7 +1479,7 @@
 ## ding113/claude-code-hub
 
 > [!info]
-> ⭐ 2,930 · TypeScript · 2026-05-27T12:59:29Z  
+> ⭐ 2,936 · TypeScript · 2026-05-28T14:31:07Z  
 > [GitHub](https://github.com/ding113/claude-code-hub) · [Website](https://claude-code-hub.app)  
 > `#claude-api` `#claude-code` 
 > 生成失败
@@ -1488,7 +1499,7 @@
 ## PastKing/tgbot-verify
 
 > [!info]
-> ⭐ 2,885 · Python · 2026-05-27T14:16:17Z  
+> ⭐ 2,890 · Python · 2026-05-28T18:20:19Z  
 > [GitHub](https://github.com/PastKing/tgbot-verify)  
 > 
 > 生成失败
@@ -1498,7 +1509,7 @@
 ## liangdabiao/AI-generated-English-podcast-videos
 
 > [!info]
-> ⭐ 84 · Python · 2026-05-05T02:25:57Z  
+> ⭐ 85 · Python · 2026-05-28T02:18:58Z  
 > [GitHub](https://github.com/liangdabiao/AI-generated-English-podcast-videos) · [Website](https://liangdabiao.com/)  
 > `#ai` 
 > 生成失败
@@ -1508,7 +1519,7 @@
 ## Anionex/banana-slides
 
 > [!info]
-> ⭐ 14,734 · Python · 2026-05-27T17:10:41Z  
+> ⭐ 14,757 · Python · 2026-05-28T17:29:39Z  
 > [GitHub](https://github.com/Anionex/banana-slides) · [Website](http://bananaslides.online)  
 > `#ai-ppt-maker` `#ai-slide-builder` `#ai-slides` `#editable-pptx` `#llm` `#nanobananapro` `#ppt` `#ppt-generator` `#slides` `#text2image` 
 > 生成失败
@@ -1527,7 +1538,7 @@
 ## yeahhe365/AMC-WebUI
 
 > [!info]
-> ⭐ 862 · TypeScript · 2026-05-26T15:04:29Z  
+> ⭐ 862 · TypeScript · 2026-05-28T07:28:48Z  
 > [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [Website](https://all-model-chat.pages.dev/)  
 > `#ai` `#chatbot` `#gemini` `#gemini-api` `#google` `#image-generation` `#local-first` `#pwa` `#react` `#tailwindcss` `#typescript` `#vite` 
 > 生成失败
@@ -1537,7 +1548,7 @@
 ## sirmalloc/ccstatusline
 
 > [!info]
-> ⭐ 9,870 · TypeScript · 2026-05-27T19:24:25Z  
+> ⭐ 9,922 · TypeScript · 2026-05-28T20:26:09Z  
 > [GitHub](https://github.com/sirmalloc/ccstatusline)  
 > `#ai-tools` `#claude-code` `#cli` `#developer-tools` `#git` `#powerline` `#statusbar` `#statusline` `#terminal` `#themeing` 
 > 生成失败
@@ -1547,7 +1558,7 @@
 ## Wei-Shaw/claude-relay-service
 
 > [!info]
-> ⭐ 11,907 · JavaScript · 2026-05-27T18:37:49Z  
+> ⭐ 11,914 · JavaScript · 2026-05-28T18:36:10Z  
 > [GitHub](https://github.com/Wei-Shaw/claude-relay-service) · [Website](https://pincc.ai)  
 > `#claude` `#claude-api` `#claude-code` `#claude-proxy` `#codex-cli` `#crs` `#droid` `#droid-cli` `#droid2api` `#gemini-cli` 
 > 生成失败
@@ -1557,7 +1568,7 @@
 ## daodao97/code-switch
 
 > [!info]
-> ⭐ 816 · Go · 2026-05-27T16:20:24Z  
+> ⭐ 817 · Go · 2026-05-28T03:58:22Z  
 > [GitHub](https://github.com/daodao97/code-switch)  
 > 
 > 生成失败
@@ -1577,7 +1588,7 @@
 ## TheSmallHanCat/flow2api
 
 > [!info]
-> ⭐ 2,432 · Python · 2026-05-27T18:19:08Z  
+> ⭐ 2,441 · Python · 2026-05-28T14:57:31Z  
 > [GitHub](https://github.com/TheSmallHanCat/flow2api)  
 > 
 > 生成失败
@@ -1587,7 +1598,7 @@
 ## HisMax/RedInk
 
 > [!info]
-> ⭐ 5,281 · Python · 2026-05-27T14:26:33Z  
+> ⭐ 5,283 · Python · 2026-05-28T09:34:13Z  
 > [GitHub](https://github.com/HisMax/RedInk) · [Website](https://redink.top)  
 > `#AI智能体` `#小红书图文` `#提示工程` `#自动化工具` `#ai` `#aigc` `#content-generator` `#docker` `#flask` `#gemini` `#nano-banana-pro` `#python` `#social-media` `#text-to-image` `#vue` `#xiaohongshu` 
 > 红墨是基于🍌Nano Banana Pro🍌的一站式小红书图文生成器，支持一句话生成完整图文内容，包含智能大纲、封面页和内容页批量生成。采用Python Flask后端与Vue 3前端，支持Docker一键部署，集成Gemini 3文案与图片生成能力，提供可视化配置界面。
@@ -1597,7 +1608,7 @@
 ## tw93/Mole
 
 > [!info]
-> ⭐ 53,410 · Shell · 2026-05-27T20:27:03Z  
+> ⭐ 53,707 · Shell · 2026-05-28T20:36:30Z  
 > [GitHub](https://github.com/tw93/Mole) · [Website](https://mole.fit)  
 > `#macOS工具` `#磁盘清理` `#系统优化` `#analyzer` `#appcleaner` `#clean` `#cleaner` `#cleaner-cli` `#cleaner-script` `#command-line` `#daisydisk` `#istat` `#mac` `#macos` `#optimize` `#sensei` `#shell` `#uninstall` 
 > Mole 是一款 macOS 深度清理优化工具，集成 CleanMyMac、AppCleaner 等工具功能于一身。支持深度清理缓存日志、智能卸载应用及其残留文件、可视化磁盘分析、实时系统监控，并提供一键优化系统服务。通过 Homebrew 或脚本安装，提供交互式菜单与命令行操作，支持预览清理计划、白名单管理及详细调试日志，兼顾高效性与安全性。
@@ -1607,7 +1618,7 @@
 ## Norsico/Video-Materials-AutoGEN-Workstation
 
 > [!info]
-> ⭐ 1,510 · Python · 2026-05-27T16:45:16Z  
+> ⭐ 1,514 · Python · 2026-05-28T12:44:46Z  
 > [GitHub](https://github.com/Norsico/Video-Materials-AutoGEN-Workstation)  
 > 
 > 生成失败
@@ -1617,7 +1628,7 @@
 ## lanyeeee/bilibili-video-downloader
 
 > [!info]
-> ⭐ 1,412 · Rust · 2026-05-27T16:39:25Z  
+> ⭐ 1,420 · Rust · 2026-05-28T17:55:22Z  
 > [GitHub](https://github.com/lanyeeee/bilibili-video-downloader)  
 > `#bilibili` `#download` `#downloader` `#gui` `#naive-ui` `#rust` `#tauri` `#tauri-app` `#vue` 
 > 生成失败
@@ -1627,7 +1638,7 @@
 ## mcp-router/mcp-router
 
 > [!info]
-> ⭐ 2,029 · TypeScript · 2026-05-27T06:05:56Z  
+> ⭐ 2,029 · TypeScript · 2026-05-28T09:48:16Z  
 > [GitHub](https://github.com/mcp-router/mcp-router) · [Website](https://mcp-router.net)  
 > `#llm` `#llmops` `#mcp` `#mcp-client` `#mcp-manager` `#mcp-router` `#mcp-server` `#mcp-servers` `#mcp-tools` 
 > 生成失败
@@ -1637,7 +1648,7 @@
 ## GuDaStudio/codexmcp
 
 > [!info]
-> ⭐ 1,965 · Python · 2026-05-27T11:29:51Z  
+> ⭐ 1,966 · Python · 2026-05-28T10:15:37Z  
 > [GitHub](https://github.com/GuDaStudio/codexmcp) · [Website](https://code.guda.studio)  
 > `#codex` `#codex-mcp` `#codexmcp` 
 > 生成失败
@@ -1647,7 +1658,7 @@
 ## catlog22/Claude-Code-Workflow
 
 > [!info]
-> ⭐ 2,049 · TypeScript · 2026-05-27T15:25:56Z  
+> ⭐ 2,051 · TypeScript · 2026-05-28T13:53:02Z  
 > [GitHub](https://github.com/catlog22/Claude-Code-Workflow) · [Website](https://ccw-command-explorer.vercel.app/)  
 > `#claude` `#claude-code` `#cli-tools` `#codex` `#context-management` `#gemini-cli` `#json-driven` `#qwen-code` `#task-orchestration` `#workflow-automation` 
 > 生成失败
@@ -1667,7 +1678,7 @@
 ## 666ghj/BettaFish
 
 > [!info]
-> ⭐ 41,083 · Python · 2026-05-27T19:24:28Z  
+> ⭐ 41,090 · Python · 2026-05-28T17:55:47Z  
 > [GitHub](https://github.com/666ghj/BettaFish) · [Website](https://deepwiki.com/666ghj/BettaFish)  
 > `#AI驱动` `#多智能体` `#舆情分析` `#agent-framework` `#data-analysis` `#deep-research` `#deep-search` `#llms` `#multi-agent-system` `#nlp` `#public-opinion-analysis` `#python3` `#sentiment-analysis` 
 > 微舆（BettaFish）是一个从0实现的多Agent舆情分析系统，通过AI驱动的全域社媒监控、复合分析引擎、多模态内容解析及Agent协作机制，打破信息茧房，还原舆情原貌并预测趋势。系统支持公私域数据融合，具备轻量化Python架构与高扩展性，可快速定制至金融等垂直领域。
@@ -1677,7 +1688,7 @@
 ## xiamuceer-j/MuMuAINovel
 
 > [!info]
-> ⭐ 2,500 · Python · 2026-05-27T14:03:29Z  
+> ⭐ 2,511 · Python · 2026-05-28T13:57:30Z  
 > [GitHub](https://github.com/xiamuceer-j/MuMuAINovel) · [Website](https://mumuverse.space:1566/)  
 > 
 > 生成失败
@@ -1687,7 +1698,7 @@
 ## wonderwhy-er/DesktopCommanderMCP
 
 > [!info]
-> ⭐ 6,081 · TypeScript · 2026-05-27T20:29:52Z  
+> ⭐ 6,084 · TypeScript · 2026-05-28T19:57:00Z  
 > [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [Website](https://desktopcommander.app/)  
 > `#agent` `#ai` `#code-analysis` `#code-generation` `#gemini-cli-extension` `#mcp` `#terminal-ai` `#terminal-automation` `#vibe-coding` 
 > 生成失败
@@ -1707,7 +1718,7 @@
 ## farion1231/cc-switch
 
 > [!info]
-> ⭐ 82,693 · Rust · 2026-05-27T20:17:17Z  
+> ⭐ 83,666 · Rust · 2026-05-28T20:26:21Z  
 > [GitHub](https://github.com/farion1231/cc-switch) · [Website](https://ccswitch.io)  
 > `#AI智能体` `#多模型集成` `#桌面应用` `#ai-tools` `#claude-code` `#codex` `#desktop-app` `#hermes` `#hermes-agent` `#mcp` `#minimax` `#omo` `#open-source` `#openclaw` `#openclaw-ui` `#opencode` `#provider-management` `#rust` `#skills` `#skills-management` `#tauri` `#typescript` `#wsl-support` 
 > 跨平台桌面一体化助手工具，支持 Claude Code、Codex 和 Gemini CLI 的统一管理，提供便捷的 AI 编程助手集成与配置，适用于多模型协作开发场景。
@@ -1717,7 +1728,7 @@
 ## github/spec-kit
 
 > [!info]
-> ⭐ 106,447 · Python · 2026-05-27T20:27:59Z  
+> ⭐ 106,767 · Python · 2026-05-28T20:30:13Z  
 > [GitHub](https://github.com/github/spec-kit) · [Website](https://github.github.com/spec-kit/)  
 > `#AI智能体` `#开发效率` `#规格驱动开发` `#ai` `#copilot` `#development` `#engineering` `#prd` `#spec` `#spec-driven` 
 > Spec Kit 是一个开源工具包，专注于规格驱动开发（Spec-Driven Development），通过将规格转化为可执行代码，帮助开发者快速构建高质量软件。它提供 CLI 工具、AI 助手集成和项目治理框架，支持从零开始或现有项目初始化，显著提升开发效率并减少‘ vibe coding’。
@@ -1727,7 +1738,7 @@
 ## harry0703/MoneyPrinterTurbo
 
 > [!info]
-> ⭐ 61,577 · Python · 2026-05-27T20:30:03Z  
+> ⭐ 66,006 · Python · 2026-05-28T20:34:53Z  
 > [GitHub](https://github.com/harry0703/MoneyPrinterTurbo)  
 > `#AI大模型` `#AI智能体` `#短视频生成` `#自动化工具` `#ai` `#automation` `#chatgpt` `#moviepy` `#python` `#shortvideo` `#tiktok` 
 > MoneyPrinterTurbo 是一款基于 AI 大模型的智能短视频生成工具，支持一键生成高清横竖屏视频。用户只需输入主题或关键词，即可自动完成文案生成、素材匹配、语音合成、字幕添加及背景音乐配置，全面覆盖视频创作流程，支持多模型接入与批量处理，适用于内容创作者快速产出高质量短视频。
@@ -1737,7 +1748,7 @@
 ## rustdesk/rustdesk
 
 > [!info]
-> ⭐ 115,045 · Rust · 2026-05-27T19:49:16Z  
+> ⭐ 115,124 · Rust · 2026-05-28T20:26:06Z  
 > [GitHub](https://github.com/rustdesk/rustdesk) · [Website](https://rustdesk.com)  
 > `#android` `#anydesk` `#dart` `#flatpak` `#flutter` `#flutter-apps` `#ios` `#linux` `#macos` `#p2p` `#rdp` `#remote-control` `#remote-desktop` `#rust` `#rust-lang` `#teamviewer` `#vnc` `#wayland` `#windows` 
 > 生成失败
@@ -1747,7 +1758,7 @@
 ## jdx/mise
 
 > [!info]
-> ⭐ 28,711 · Rust · 2026-05-27T20:05:27Z  
+> ⭐ 28,756 · Rust · 2026-05-28T19:45:28Z  
 > [GitHub](https://github.com/jdx/mise) · [Website](https://mise.en.dev)  
 > 
 > 生成失败
@@ -1787,7 +1798,7 @@
 ## MatrixSeven/file-transfer-go
 
 > [!info]
-> ⭐ 4,958 · TypeScript · 2026-05-27T10:22:37Z  
+> ⭐ 4,962 · TypeScript · 2026-05-28T18:25:04Z  
 > [GitHub](https://github.com/MatrixSeven/file-transfer-go) · [Website](https://transfer.52python.cn)  
 > `#P2P直连` `#WebRTC` `#文件传输` 
 > 基于Go/React和WebRTC的端到端P2P文件传输工具，支持文件、文字传输及桌面共享，数据直连不经过服务器，具备端到端加密、响应式设计和Docker一键部署能力。
@@ -1807,7 +1818,7 @@
 ## xpzouying/xiaohongshu-mcp
 
 > [!info]
-> ⭐ 13,845 · Go · 2026-05-27T19:03:08Z  
+> ⭐ 13,852 · Go · 2026-05-28T19:14:10Z  
 > [GitHub](https://github.com/xpzouying/xiaohongshu-mcp) · [Website](https://www.haha.ai/xiaohongshu-mcp)  
 > `#内容发布` `#小红书` `#数据采集` `#社交媒体自动化` `#mcp` `#mcp-server` `#xiaohongshu-mcp` 
 > 小红书 MCP 是一个专为 xiaohongshu.com 设计的自动化工具，支持登录验证、图文/视频内容发布、内容搜索、推荐列表获取、帖子详情抓取、评论互动及用户主页信息提取。采用本地路径优先的图片处理机制，确保上传稳定性，并提供完整的 HTTP API 与 MCP 工具调用支持，适用于内容运营与数据采集场景。
@@ -1817,7 +1828,7 @@
 ## UfoMiao/zcf
 
 > [!info]
-> ⭐ 6,014 · TypeScript · 2026-05-27T13:14:45Z  
+> ⭐ 6,016 · TypeScript · 2026-05-28T01:09:32Z  
 > [GitHub](https://github.com/UfoMiao/zcf) · [Website](http://zcf.ufomiao.com/)  
 > `#AI智能体` `#AI编程助手` `#零配置工具` `#agent` `#ai` `#ai-agent` `#bmad-method` `#ccr` `#claude` `#claude-4` `#claude-ai` `#claude-code` `#cli` `#gpt` `#gpt-5` `#llm` `#llm-code` `#nodejs` `#openai` `#prompt` `#typescript` `#workflow` `#zcf` 
 > ZCF 是一款零配置 Claude Code & Codex 代码流工具，提供一键安装、双语界面、智能代理系统和个性化 AI 助手。支持多种 API 提供商（如 302.AI、GLM、PackyCode 等），内置工作流、MCP 集成，并持续更新维护，适合开发者快速部署 AI 编程环境。
@@ -1837,7 +1848,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 34,440 · TypeScript · 2026-05-27T18:07:36Z  
+> ⭐ 34,476 · TypeScript · 2026-05-28T20:09:13Z  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://musistudio.github.io/claude-code-router/)  
 > `#AI智能体` `#模型路由` `#编码基础设施` 
 > Claude Code Router 是基于 Claude Code 构建的智能编码基础设施，支持多模型路由、动态切换及请求/响应转换，兼容 OpenRouter、DeepSeek、Ollama 等主流 AI 模型提供商，提供 CLI 管理和 GitHub Actions 集成，适用于复杂编码场景下的灵活 AI 工具编排。
@@ -1867,7 +1878,7 @@
 ## Usagi-org/ai-goofish-monitor
 
 > [!info]
-> ⭐ 12,197 · Python · 2026-05-27T19:20:02Z  
+> ⭐ 12,217 · Python · 2026-05-28T16:26:11Z  
 > [GitHub](https://github.com/Usagi-org/ai-goofish-monitor)  
 > `#ai` `#ai-assistant` `#ai-tools` `#automation` `#gemini` `#goofish` `#open-source` `#openai` `#playwright` `#tool` `#xian-yu` `#xianyu` `#xianyu-bot` 
 > 生成失败
@@ -1877,7 +1888,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 58,448 · Python · 2026-05-27T20:10:10Z  
+> ⭐ 58,512 · Python · 2026-05-28T19:14:10Z  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://sansan0.github.io/TrendRadar/)  
 > `#AI智能体` `#多平台聚合` `#智能推送` `#舆情监控` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是一款 AI 驱动的舆情监控工具，支持多平台热点聚合、RSS 订阅与智能关键词筛选，提供 AI 翻译与分析简报推送。集成微信/飞书/钉钉等 8+ 通知渠道，支持 Docker 部署与 MCP 架构，赋能 AI 对话分析、情感洞察与趋势预测，30 秒快速部署。
@@ -1887,7 +1898,7 @@
 ## linyqh/NarratoAI
 
 > [!info]
-> ⭐ 9,498 · Python · 2026-05-27T19:40:36Z  
+> ⭐ 9,551 · Python · 2026-05-28T18:11:57Z  
 > [GitHub](https://github.com/linyqh/NarratoAI) · [Website](https://www.narratoai.cn)  
 > `#aiagent` `#aiops` `#gemini-api` `#llm` `#moviepy` `#python` 
 > 生成失败
@@ -1916,7 +1927,7 @@
 ## AstrBotDevs/AstrBot
 
 > [!info]
-> ⭐ 33,250 · Python · 2026-05-27T19:38:04Z  
+> ⭐ 33,319 · Python · 2026-05-28T19:39:31Z  
 > [GitHub](https://github.com/AstrBotDevs/AstrBot) · [Website](https://astrbot.app)  
 > `#agent` `#ai` `#chatbot` `#chatgpt` `#discord` `#docker` `#gemini` `#gpt` `#llama` `#llm` `#mcp` `#openai` `#python` `#qq` `#qqbot` `#telegram` 
 > 生成失败
@@ -1945,7 +1956,7 @@
 ## zhtyyx/ioe
 
 > [!info]
-> ⭐ 1,443 · HTML · 2026-05-26T18:11:27Z  
+> ⭐ 1,443 · HTML · 2026-05-28T19:48:43Z  
 > [GitHub](https://github.com/zhtyyx/ioe) · [Website](https://ioea.xianist.com/)  
 > 
 > 生成失败
@@ -1955,7 +1966,7 @@
 ## JIEKE66633/One-click-cleaning-of-C-drive
 
 > [!info]
-> ⭐ 816 · Python · 2026-05-27T14:28:51Z  
+> ⭐ 817 · Python · 2026-05-28T12:52:13Z  
 > [GitHub](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive)  
 > 
 > 生成失败
@@ -1975,7 +1986,7 @@
 ## LibreSpark/LibreTV
 
 > [!info]
-> ⭐ 13,606 · JavaScript · 2026-05-27T18:55:26Z  
+> ⭐ 13,611 · JavaScript · 2026-05-28T18:41:28Z  
 > [GitHub](https://github.com/LibreSpark/LibreTV) · [Website](https://libretv.is-an.org)  
 > `#css` `#html` `#movie-web-app` `#movies-and-cinemas` `#tv` 
 > 生成失败
@@ -1985,7 +1996,7 @@
 ## ruanyf/weekly
 
 > [!info]
-> ⭐ 92,207 · N/A · 2026-05-27T19:09:40Z  
+> ⭐ 92,303 · N/A · 2026-05-28T19:59:06Z  
 > [GitHub](https://github.com/ruanyf/weekly)  
 > `#人工智能` `#科技资讯` `#行业洞察` 
 > 《科技爱好者周刊》是阮一峰团队推出的科技内容周刊，每周五发布，聚焦前沿科技趋势、AI应用、创业洞察与行业动态，内容涵盖人工智能、互联网经济、软件开发等领域，兼具深度与可读性，是科技从业者与爱好者的重要资讯来源。
@@ -1995,7 +2006,7 @@
 ## RSSNext/Folo
 
 > [!info]
-> ⭐ 38,367 · TypeScript · 2026-05-27T18:54:13Z  
+> ⭐ 38,377 · TypeScript · 2026-05-28T14:33:33Z  
 > [GitHub](https://github.com/RSSNext/Folo) · [Website](https://app.folo.is)  
 > `#ai` `#reader` `#rss` `#rss-reader` `#rsshub` 
 > 生成失败
@@ -2005,7 +2016,7 @@
 ## xxnuo/MTranServer
 
 > [!info]
-> ⭐ 4,530 · C++ · 2026-05-27T14:34:12Z  
+> ⭐ 4,530 · C++ · 2026-05-28T07:45:26Z  
 > [GitHub](https://github.com/xxnuo/MTranServer)  
 > 
 > 生成失败
@@ -2024,7 +2035,7 @@
 ## loks666/get_jobs
 
 > [!info]
-> ⭐ 7,073 · Java · 2026-05-27T18:32:42Z  
+> ⭐ 7,085 · Java · 2026-05-28T19:43:33Z  
 > [GitHub](https://github.com/loks666/get_jobs) · [Website](https://github.com/loks666/get_jobs)  
 > `#getjobs` `#job` `#resume` `#submit` `#voluntarily` 
 > 生成失败
@@ -2034,7 +2045,7 @@
 ## Goodnameisfordoggy/JD-AutomatedTools
 
 > [!info]
-> ⭐ 146 · Python · 2026-05-27T12:10:10Z  
+> ⭐ 147 · Python · 2026-05-28T12:47:49Z  
 > [GitHub](https://github.com/Goodnameisfordoggy/JD-AutomatedTools)  
 > `#automation-tools` `#python` 
 > 生成失败
@@ -2064,7 +2075,7 @@
 ## u14app/deep-research
 
 > [!info]
-> ⭐ 4,590 · JavaScript · 2026-05-27T11:37:17Z  
+> ⭐ 4,592 · JavaScript · 2026-05-28T15:24:11Z  
 > [GitHub](https://github.com/u14app/deep-research) · [Website](https://research.u14.app)  
 > `#AI智能体` `#多模态AI` `#深度研究` `#anthropic` `#deep-research` `#deep-research-api` `#deepresearch` `#deepseek` `#gemini` `#grok` `#mcp-server` `#ollama` `#openai` 
 > Deep Research 是一个基于 AI 的极速深度研究工具，支持多 LLM 模型（如 Gemini、OpenAI、Anthropic 等）和主流搜索引擎，可在约 2 分钟内生成高质量研究报告。采用 Thinking 与 Task 模型协同工作，支持本地知识库构建、知识图谱可视化、内容编辑与历史记录管理，所有数据均本地处理，保障隐私安全。
@@ -2093,7 +2104,7 @@
 ## wasp-lang/wasp
 
 > [!info]
-> ⭐ 18,364 · TypeScript · 2026-05-27T16:27:01Z  
+> ⭐ 18,365 · TypeScript · 2026-05-28T16:56:35Z  
 > [GitHub](https://github.com/wasp-lang/wasp) · [Website](https://wasp.sh)  
 > `#javascript` `#node` `#open-source` `#prisma` `#react` `#wasp` `#web-app` 
 > 生成失败
@@ -2123,7 +2134,7 @@
 ## ASLP-lab/DiffRhythm
 
 > [!info]
-> ⭐ 2,296 · Python · 2026-05-27T19:36:42Z  
+> ⭐ 2,297 · Python · 2026-05-28T08:57:25Z  
 > [GitHub](https://github.com/ASLP-lab/DiffRhythm)  
 > 
 > 生成失败
@@ -2143,7 +2154,7 @@
 ## 1c7/chinese-independent-developer
 
 > [!info]
-> ⭐ 48,674 · N/A · 2026-05-27T17:34:19Z  
+> ⭐ 48,685 · N/A · 2026-05-28T17:47:08Z  
 > [GitHub](https://github.com/1c7/chinese-independent-developer)  
 > `#AI应用` `#工具产品` `#独立开发` `#china` `#indie` `#indie-developer` 
 > 中国独立开发者项目列表聚合了2026年2月最新上线的创新产品，涵盖AI语音助手、投资理财工具、打字练习平台、音乐生成、简历优化、浏览器插件等多个领域。项目以网站或App形式呈现，强调实用性与用户体验，如智能语音朗读、美股A股基金定投计算、AI音乐创作等，展现了中国独立开发者在AI应用与垂直场景工具上的活跃创新。
