@@ -1,6 +1,6 @@
 # ⭐ GitHub Stars Index
 
-> Updated: 2026-11-17 01:52 UTC · Total: 249
+> Updated: 2026-11-18 00:58 UTC · Total: 249
 
 ---
 
@@ -270,7 +270,7 @@
 ## yetone/kill-ai-slop
 
 > [!info]
-> ⭐ 1,454 · TypeScript · 2026-11-16T17:52:31Z  
+> ⭐ 1,459 · TypeScript · 2026-11-17T22:43:24Z  
 > [GitHub](https://github.com/yetone/kill-ai-slop)  
 > 
 > 生成失败
@@ -280,7 +280,7 @@
 ## weidu12123/vps-switch
 
 > [!info]
-> ⭐ 47 · Rust · 2026-11-13T11:57:11Z  
+> ⭐ 48 · Rust · 2026-11-17T14:28:01Z  
 > [GitHub](https://github.com/weidu12123/vps-switch)  
 > 
 > 生成失败
@@ -290,7 +290,7 @@
 ## ZiChuanLan/pi-purge
 
 > [!info]
-> ⭐ 799 · JavaScript · 2026-11-16T19:17:03Z  
+> ⭐ 804 · JavaScript · 2026-11-18T00:22:28Z  
 > [GitHub](https://github.com/ZiChuanLan/pi-purge)  
 > 
 > 生成失败
@@ -300,7 +300,7 @@
 ## tt-a1i/archify
 
 > [!info]
-> ⭐ 97,179 · JavaScript · 2026-11-17T01:51:23Z  
+> ⭐ 97,487 · JavaScript · 2026-11-18T00:54:52Z  
 > [GitHub](https://github.com/tt-a1i/archify) · [Website](https://archify.si)  
 > `#agent-skills` `#ai-agents` `#architecture-diagram` `#claude-code` `#claude-skills` `#codex` `#coding-agents` `#deepseek-harness` `#developer-tools` `#diagrams` `#diagrams-as-code` `#dsh-plugin` `#flowchart` `#llm` `#mermaid` `#opencode` `#sequence-diagram` `#software-architecture` `#system-design` `#visualization` 
 > 生成失败
@@ -310,7 +310,7 @@
 ## Tiger-zzZ/mini-trellis
 
 > [!info]
-> ⭐ 457 · TypeScript · 2026-11-16T10:46:35Z  
+> ⭐ 465 · TypeScript · 2026-11-17T16:35:13Z  
 > [GitHub](https://github.com/Tiger-zzZ/mini-trellis) · [Website](https://mini-trellis.github.io/)  
 > 
 > 生成失败
@@ -320,7 +320,7 @@
 ## ltaoo/wx_channels_download
 
 > [!info]
-> ⭐ 10,609 · Go · 2026-11-17T01:51:23Z  
+> ⭐ 10,629 · Go · 2026-11-18T00:39:40Z  
 > [GitHub](https://github.com/ltaoo/wx_channels_download) · [Website](https://ltaoo.github.io/wx_channels_download/)  
 > 
 > 生成失败
@@ -330,7 +330,7 @@
 ## GordenSun/GordenPPTSkill
 
 > [!info]
-> ⭐ 4,133 · Python · 2026-11-16T15:41:08Z  
+> ⭐ 4,144 · Python · 2026-11-17T15:07:31Z  
 > [GitHub](https://github.com/GordenSun/GordenPPTSkill)  
 > 
 > 生成失败
@@ -350,7 +350,7 @@
 ## BaYue-SYJ/shuixian-prompts
 
 > [!info]
-> ⭐ 571 · JavaScript · 2026-11-17T01:25:33Z  
+> ⭐ 574 · JavaScript · 2026-11-17T12:56:30Z  
 > [GitHub](https://github.com/BaYue-SYJ/shuixian-prompts) · [Website](https://prompt.qqsrc.com/)  
 > `#ai-drawing` `#ai-painting` `#ai-prompts` `#aigc` `#chatgpt` `#chinese-prompts` `#doubao` `#gemini` `#image-generation` `#jimeng` `#kling` `#midjourney` `#midjourney-prompts` `#nano-banana` `#prompt-engineering` `#prompt-gallery` `#prompt-library` `#prompts` `#stable-diffusion` `#text-to-image` 
 > 生成失败
@@ -380,7 +380,7 @@
 ## lxf746/outlook-auto-register
 
 > [!info]
-> ⭐ 1,195 · Python · 2026-11-16T17:42:45Z  
+> ⭐ 1,197 · Python · 2026-11-17T18:26:51Z  
 > [GitHub](https://github.com/lxf746/outlook-auto-register)  
 > 
 > 生成失败
@@ -390,7 +390,7 @@
 ## assast/outlookEmail
 
 > [!info]
-> ⭐ 1,847 · Python · 2026-11-16T13:52:37Z  
+> ⭐ 1,849 · Python · 2026-11-18T00:40:53Z  
 > [GitHub](https://github.com/assast/outlookEmail)  
 > `#IMAP` `#Microsoft Graph API` `#自动化工具` `#邮件管理` 
 > 这是一款多邮箱统一管理工具，基于 OAuth、Microsoft Graph API 与 IMAP，支持主流邮箱及自定义 IMAP 的邮件读取、管理、转发和 API 调用。项目覆盖 Web、Chrome/Edge 扩展、Windows/macOS 桌面端与 Docker 部署，并整合多家临时邮箱服务，适合账号运营、测试注册和自动化邮件处理。
@@ -400,7 +400,7 @@
 ## Resinat/Resin
 
 > [!info]
-> ⭐ 2,534 · Go · 2026-11-16T11:22:36Z  
+> ⭐ 2,537 · Go · 2026-11-17T15:51:53Z  
 > [GitHub](https://github.com/Resinat/Resin)  
 > `#Go` `#代理池网关` `#网络基础设施` `#proxy` `#proxypool` 
 > Resin 是面向大规模代理节点运营的高性能智能代理池网关，可将多个代理订阅统一聚合为稳定、可观测的访问入口。它通过主动与被动健康检查、延迟分析、P2C 调度和熔断机制精准淘汰故障节点，并以会话粘性保持业务账号与出口 IP 稳定绑定，适用于爬虫、数据采集及多业务代理接入。
@@ -420,7 +420,7 @@
 ## chrichuang218/codex-windows-cn
 
 > [!info]
-> ⭐ 85 · Rust · 2026-11-14T14:46:24Z  
+> ⭐ 86 · Rust · 2026-11-17T12:15:47Z  
 > [GitHub](https://github.com/chrichuang218/codex-windows-cn)  
 > `#GitHub Actions` `#Microsoft Store MSIX` `#桌面应用` `#版本管理` 
 > 面向中文 Windows 用户的 Codex/ChatGPT 桌面应用维护工具。通过官方 Microsoft Store MSIX 完成安装更新，自动识别新旧程序入口，管理本地历史版本，并提供安全切换、版本保留、快捷方式维护、卸载和启动器自更新。无需开发环境，兼顾 SHA256 校验与用户数据保护，适合需要便捷维护多版本客户端的个人用户。
@@ -430,7 +430,7 @@
 ## NanmiCoder/MediaCrawler
 
 > [!info]
-> ⭐ 71,225 · Python · 2026-11-17T01:42:41Z  
+> ⭐ 71,285 · Python · 2026-11-17T23:19:04Z  
 > [GitHub](https://github.com/NanmiCoder/MediaCrawler) · [Website](https://nanmicoder.github.io/MediaCrawler/)  
 > `#数据采集` `#浏览器自动化` `#网页爬虫` 
 > MediaCrawler 是面向小红书、抖音、快手、B站、微博、贴吧、知乎的多平台自媒体爬虫，基于 Playwright 保留登录态并通过浏览器上下文获取签名参数，支持关键词、主页、帖子和评论采集及词云分析。
@@ -450,7 +450,7 @@
 ## laok775/jobflow-for-codex
 
 > [!info]
-> ⭐ 319 · Python · 2026-11-16T23:47:07Z  
+> ⭐ 320 · Python · 2026-11-17T02:52:57Z  
 > [GitHub](https://github.com/laok775/jobflow-for-codex)  
 > `#Codex工作流` `#台账管理` `#求职自动化` 
 > 一套面向 Codex 的本地求职工作流插件，围绕岗位筛选、消息跟进、简历发送、台账维护与日报生成形成可复用流程。支持空台账初始化、稳定 job_id、别名规范化、原子更新与严格校验，适合需要在 Windows 本地借助 Codex 高效管理投递与跟进的求职者。
@@ -460,7 +460,7 @@
 ## Christ9038/Ydisks-Xianyu-Helper
 
 > [!info]
-> ⭐ 2,455 · Go · 2026-11-17T01:45:52Z  
+> ⭐ 2,465 · Go · 2026-11-17T21:51:22Z  
 > [GitHub](https://github.com/Christ9038/Ydisks-Xianyu-Helper)  
 > `#Go+React` `#多账号管理` `#电商自动化` `#自动发货` `#xianyu` `#xianyu-assistant` `#xianyu-auto-reply` `#xianyu-bot` `#xianyu-tool` 
 > Ydisks闲鱼助手是一套面向闲鱼卖家的自托管运营系统，基于 Go 与 React 构建，覆盖多账号管理、在线消息、订单与商品同步、自动发货、批量铺货及 AI 回复。其亮点在于整合 MTOP/WebSocket 链路、自动化规则引擎与多渠道通知，适合数字商品交付和小团队高效运营。
@@ -480,7 +480,7 @@
 ## yaklang/hack-skills
 
 > [!info]
-> ⭐ 2,664 · CSS · 2026-11-16T11:04:01Z  
+> ⭐ 2,667 · CSS · 2026-11-17T15:35:16Z  
 > [GitHub](https://github.com/yaklang/hack-skills)  
 > `#AI智能体` `#渗透测试` `#知识库` `#网络安全` 
 > 面向 AI 智能体的攻防技能知识库，系统沉淀 Web/API、提权、逆向、密码学、区块链与 LLM 安全等 14 个领域的实战方法。项目以标准化技能目录、可搜索静态站点和离线加密包，支持渗透测试、CTF、漏洞赏金与授权研究中的快速检索、安装与组合复用。
@@ -490,7 +490,7 @@
 ## 50kg/image-to-slice
 
 > [!info]
-> ⭐ 626 · JavaScript · 2026-11-16T07:50:45Z  
+> ⭐ 628 · JavaScript · 2026-11-17T23:58:20Z  
 > [GitHub](https://github.com/50kg/image-to-slice)  
 > `#AI智能体` `#Figma` `#HTML/CSS导出` `#设计工具` 
 > Image To Slice 是一款运行于 Figma Desktop 的 AI UI 拆图与还原工具，可将单张界面图拆解为可编辑图层、切图资产与语义化结构。它支持遮挡背景补齐、人工校准，并导出 Figma 图层或 HTML/CSS，适合 AI 生图后的设计复用与前端还原。
@@ -500,7 +500,7 @@
 ## Alisa0808/vox-director
 
 > [!info]
-> ⭐ 2,902 · Python · 2026-11-17T00:54:10Z  
+> ⭐ 2,932 · Python · 2026-11-18T00:52:35Z  
 > [GitHub](https://github.com/Alisa0808/vox-director)  
 > `#AI智能体` `#Atlas Cloud` `#ffmpeg` `#自动化视频生成` `#ai` `#ai-video` `#claude-code` `#claude-skill` `#collage-video` `#dsh-plugin` `#explainer-video` `#ffmpeg` `#generative-ai` `#llm` `#motion-graphics` `#python` `#text-to-video` `#tts` `#video` `#video-generation` `#vox` 
 > Vox Director 是面向智能体的视频生成技能，基于 Atlas Cloud 与 ffmpeg，将单行主题自动转为 Vox 风格纸艺拼贴解说或广告视频。它串联脚本分镜、拼贴关键帧、镜头运动、配音、配乐与字幕，并支持话题直出、口播视频重制和单图扩展，适合内容营销、知识传播与创意短视频生产。
@@ -520,7 +520,7 @@
 ## earendil-works/pi
 
 > [!info]
-> ⭐ 122,368 · TypeScript · 2026-11-17T01:47:44Z  
+> ⭐ 122,560 · TypeScript · 2026-11-18T00:26:31Z  
 > [GitHub](https://github.com/earendil-works/pi)  
 > `#AI智能体` `#命令行工具` `#统一LLM API` `#自动化开发` 
 > Pi 是面向开发与自动化场景的 AI 智能体工具链，集成统一多模型 API、工具调用与状态管理、终端 TUI 和交互式编码 CLI。其亮点在于多厂商模型接入一致化、自扩展智能体运行时，以及适合本地沙箱化部署的工程化架构。
@@ -530,7 +530,7 @@
 ## Sophomoresty/gemini-web2api
 
 > [!info]
-> ⭐ 3,599 · Python · 2026-11-17T01:42:31Z  
+> ⭐ 3,604 · Python · 2026-11-17T22:57:25Z  
 > [GitHub](https://github.com/Sophomoresty/gemini-web2api)  
 > `#AI大模型` `#OpenAI兼容API` `#Python` `#跨平台` 
 > gemini-web2api 将 Google Gemini 网页端封装为 OpenAI 兼容 API，可直接接入 Cherry Studio、ChatBox、OpenAI SDK、Codex CLI 与 Gemini CLI。项目以单文件纯 Python 实现，支持零鉴权或 Bearer Key、SSE 流式输出、函数调用、多模型路由、联网搜索和可调 Thinking 深度，适合低成本本地代理与模型客户端适配。
@@ -540,7 +540,7 @@
 ## CodeDrobe/skills
 
 > [!info]
-> ⭐ 252 · CSS · 2026-11-16T21:06:13Z  
+> ⭐ 251 · CSS · 2026-11-17T02:55:46Z  
 > [GitHub](https://github.com/CodeDrobe/skills) · [Website](https://codedrobe.app)  
 > `#AI智能体` `#Chromium/Electron` `#桌面应用` `#自动化工具` `#agent-skills` `#ai-agents` `#ai-coding` `#chrome-devtools-protocol` `#claude-code` `#codex` `#desktop-customization` `#electron` `#openai-codex` `#theming` 
 > 面向 Codex 与 WorkBuddy 的可安装 Agent Skills，支持以参考图创建、应用、验证、修复并发布可逆主题，依托 @codedrobe/core 与实时 CDP DOM 快照实现真机换肤与恢复。
@@ -550,7 +550,7 @@
 ## Fei-Away/Codex-Dream-Skin
 
 > [!info]
-> ⭐ 15,422 · JavaScript · 2026-11-17T01:20:45Z  
+> ⭐ 15,431 · JavaScript · 2026-11-17T22:22:51Z  
 > [GitHub](https://github.com/Fei-Away/Codex-Dream-Skin) · [Website](https://www.dreamskin.cc)  
 > `#CDP注入` `#换肤工具` `#桌面应用` `#跨平台` 
 > Codex Dream Skin 是面向 Codex 桌面端的外部换肤工具，通过本机回环 CDP 注入为侧栏、输入框等原生界面叠加主题背景，支持 macOS 与 Windows，一键安装、恢复，无需修改官方安装包或签名，兼顾氛围化定制与相对安全性。
@@ -570,7 +570,7 @@
 ## xiaoY233/Chat2API
 
 > [!info]
-> ⭐ 1,745 · TypeScript · 2026-11-17T01:37:15Z  
+> ⭐ 1,746 · TypeScript · 2026-11-17T13:35:48Z  
 > [GitHub](https://github.com/xiaoY233/Chat2API) · [Website](https://chat2api-doc.vercel.app/)  
 > `#AI大模型` `#Electron` `#OpenAI兼容接口` `#跨平台` `#chatgpt-api` `#deepseek-chat` `#free-api` `#glm-5` `#kimi-k2` `#minimax-chat` `#qwen3` 
 > Chat2API 是一款跨平台 AI 接口代理与统一管理工具，通过复用官方网页端能力，将 DeepSeek、GLM、Kimi、Qwen 等模型转换为 OpenAI 兼容接口。其亮点在于多供应商接入、上下文管理、函数调用映射、模型路由与实时监控，适合本地开发、代理聚合和多模型工作流集成。
@@ -580,7 +580,7 @@
 ## BigPizzaV3/CodexPlusPlus
 
 > [!info]
-> ⭐ 33,157 · Rust · 2026-11-17T01:50:39Z  
+> ⭐ 33,193 · Rust · 2026-11-18T00:46:08Z  
 > [GitHub](https://github.com/BigPizzaV3/CodexPlusPlus) · [Website](https://codexpp.cc/)  
 > `#AI智能体` `#Rust` `#Tauri 框架` `#桌面应用` 
 > Codex++ 是面向 Codex/ChatGPT 桌面端的增强型外部启动与管理工具，基于 Rust 与 Tauri，通过 CDP 和本地辅助服务实现供应商切换、协议转换、会话管理和界面增强。它避免修改官方安装文件，兼顾跨平台部署、安全性与可维护性，适合高频 AI 编程与多模型协作场景。
@@ -590,7 +590,7 @@
 ## chenhg5/cc-connect
 
 > [!info]
-> ⭐ 16,404 · Go · 2026-11-17T01:20:36Z  
+> ⭐ 16,416 · Go · 2026-11-17T23:47:28Z  
 > [GitHub](https://github.com/chenhg5/cc-connect)  
 > `#AI智能体` `#Go` `#Node.js` `#自动化工具` 
 > cc-connect 将本地 AI 编程助手接入飞书、Slack、Telegram 等消息平台，让开发者无需公网 IP 也能远程对话、执行命令、查看和修改本地项目。项目同时兼容多种主流 coding agent，覆盖个人开发、团队协作与运维自动化场景，亮点在于多平台桥接、低部署门槛与本地工作流延伸能力。
@@ -600,7 +600,7 @@
 ## isjiamu/gzh-design-skill
 
 > [!info]
-> ⭐ 4,393 · HTML · 2026-11-17T01:22:48Z  
+> ⭐ 4,398 · HTML · 2026-11-17T21:59:27Z  
 > [GitHub](https://github.com/isjiamu/gzh-design-skill) · [Website](https://github.com/AlephMuYe)  
 > `#HTML` `#Markdown` `#公众号排版` `#自动化工具` `#agent-skill` `#ai-agent` `#claude-code` `#codex` `#cursor` `#gongzhonghao` `#html` `#markdown` `#rich-text` `#skill` `#typesetting` `#wechat` `#weixin` 
 > 这是一个面向 AI Agent 的公众号排版技能库，可将 Markdown 一键转换为适配微信编辑器的内联 HTML。项目提供 6 套成熟主题和主题生成器，支持代码块、图片、GIF、目录、章节编号与关键词标记，并通过组件级与成品级双重校验，确保粘贴后样式稳定、不掉格式，适合公众号长文、教程、评测与报告类内容生产。
@@ -610,7 +610,7 @@
 ## browser-act/skills
 
 > [!info]
-> ⭐ 6,365 · Python · 2026-11-17T01:42:23Z  
+> ⭐ 6,373 · Python · 2026-11-17T23:21:22Z  
 > [GitHub](https://github.com/browser-act/skills) · [Website](https://www.browseract.com/?co-from=github)  
 > `#AI智能体` `#浏览器自动化` `#自动化工具` `#跨平台` `#agent-infrastructure` `#ai-agents` `#automation` `#claude-cli` `#claude-code` `#claude-code-skills` `#claude-skills` `#codex` `#codex-cli` `#codex-skill` `#cursor` `#data-extraction` `#no-code` `#openclaw` `#openclaw-cli` `#openclaw-skill` `#openclaw-skills` `#web-data-extraction` `#web-scraping` `#web-scraping-api` 
 > BrowserAct Skills 是面向 AI 智能体的浏览器自动化 CLI，聚焦反爬突破、多人机协同与多会话隔离。它通过指纹伪装、TLS/代理轮换、验证码处理和远程人工接管，帮助智能体完成高阻力网页任务；同时支持并行执行、多账号独立浏览及面向 LLM 的低 token 交互输出，适合自动化采集、网页操作与代理型工作流。
@@ -620,7 +620,7 @@
 ## 3441293738/creatorhub
 
 > [!info]
-> ⭐ 3,552 · Python · 2026-11-17T01:50:51Z  
+> ⭐ 3,636 · Python · 2026-11-18T00:09:08Z  
 > [GitHub](https://github.com/3441293738/creatorhub) · [Website](https://3441293738.github.io/creatorhub/)  
 > `#FastAPI` `#Playwright` `#内容采集` `#自动化工具` `#automation` `#content-monitoring` `#crawler` `#douyin` `#fastapi` `#kuaishou` `#playwright` `#python` `#rednote` `#shipinhao` `#tiktok` `#tiktok-api` `#web-scraping` `#xiaohongshu` 
 > CreatorHub 是面向抖音、小红书、快手的多平台内容监控与搬运系统，基于 FastAPI + Playwright 以真实浏览器拦截接口响应，绕开手写签名难题。它统一管理账号、代理、作品、评论、私信与发布流程，适合内容运营、舆情跟踪和批量采集分发场景。
@@ -630,7 +630,7 @@
 ## datascale-ai/opentalking
 
 > [!info]
-> ⭐ 3,378 · Python · 2026-11-17T01:29:29Z  
+> ⭐ 3,384 · Python · 2026-11-17T10:32:50Z  
 > [GitHub](https://github.com/datascale-ai/opentalking) · [Website](https://www.opentalking.net/)  
 > `#AI数字人` `#FastAPI` `#WebRTC` `#实时对话` 
 > OpenTalking 是面向数字人的工业级开源框架，打通 WebUI、会话状态、LLM、STT/TTS、字幕事件与 WebRTC 音视频播放链路，支持实时对话、视频生成与克隆。其亮点在于模型后端可插拔、支持私有化部署，并兼容本地与远程推理工作流。
@@ -660,7 +660,7 @@
 ## nickrunning/wechat-selkies
 
 > [!info]
-> ⭐ 3,111 · Python · 2026-11-16T23:28:19Z  
+> ⭐ 3,111 · Python · 2026-11-17T08:36:11Z  
 > [GitHub](https://github.com/nickrunning/wechat-selkies) · [Website](https://hub.docker.com/r/nickrunning/wechat-selkies)  
 > `#WebRTC` `#容器化` `#跨平台` `#远程桌面` `#docker` `#qq` `#vnc` `#web` `#wechat` 
 > 该项目将 Linux 版微信、QQ 与 Telegram 封装进 Docker，并借助 Selkies WebRTC 实现浏览器远程访问。它支持本地中文输入法、文件传输、图片复制、数据持久化及 GPU 加速，兼容 AMD64/ARM64，适合云主机、NAS 与远程办公场景下的即时通信与桌面应用接入。
@@ -670,7 +670,7 @@
 ## shy3130/tick-stock-panel
 
 > [!info]
-> ⭐ 7,941 · Python · 2026-11-17T01:32:32Z  
+> ⭐ 8,012 · Python · 2026-11-18T00:47:15Z  
 > [GitHub](https://github.com/shy3130/tick-stock-panel) · [Website](https://tsp.shy313.com)  
 > `#AI大模型` `#A股量化` `#选股回测` `#a-stock` `#ai-agent` `#aigc` `#aigc-detection` `#backtesting` `#daily` `#duckdb` `#fastapi` `#llm` `#polars` `#quant` `#quantitative-trading` `#react` `#screener` `#stock` `#stock-analysis` `#tickflow` `#trade` `#training` `#tsp` 
 > 面向A股个人量化用户的自托管工作台，集选股、监控、回测与复盘于一体，支持Polars毫秒级扫描、LLM策略定制、异动告警和插件化数据源扩展，可用于本地研究与实盘前验证。
@@ -680,7 +680,7 @@
 ## actuallymentor/battery
 
 > [!info]
-> ⭐ 7,198 · Shell · 2026-11-16T17:03:37Z  
+> ⭐ 7,197 · Shell · 2026-11-17T14:32:14Z  
 > [GitHub](https://github.com/actuallymentor/battery)  
 > `#macOS` `#命令行工具` `#桌面应用` `#电池管理` 
 > Battery 是面向 Apple Silicon Mac 的电池充电管理工具，提供 CLI 与托盘 GUI，通过调用 SMC 控制充电开关，将长期插电设备维持在 80% 或自定义区间。它支持重启后持续生效、安装简单，适合办公桌面常驻使用场景，可有效降低高电量久置带来的电池老化风险。
@@ -690,7 +690,7 @@
 ## steipete/CodexBar
 
 > [!info]
-> ⭐ 23,184 · Swift · 2026-11-16T23:52:36Z  
+> ⭐ 23,201 · Swift · 2026-11-18T00:15:23Z  
 > [GitHub](https://github.com/steipete/CodexBar) · [Website](https://codex.bar)  
 > `#AI智能体` `#macOS` `#用量监控` `#自动化工具` `#ai` `#claude-code` `#codex` `#swift` 
 > CodexBar 是面向 macOS 的轻量菜单栏工具，聚合 Codex、Claude、Cursor 等多家 AI 编码服务的额度、重置倒计时、状态与费用信息。它复用本地登录态、Cookie、OAuth 与 API Key，无需单独登录，兼顾隐私、低打扰体验与多提供商统一监控。
@@ -700,7 +700,7 @@
 ## coulsontl/ai-toolbox
 
 > [!info]
-> ⭐ 1,801 · Rust · 2026-11-17T01:20:29Z  
+> ⭐ 1,800 · Rust · 2026-11-18T00:39:42Z  
 > [GitHub](https://github.com/coulsontl/ai-toolbox)  
 > `#AI智能体` `#React` `#Tauri 框架` `#开发者工具` 
 > AI Toolbox 是面向开发者的跨平台桌面应用，集中管理 Claude Code、Codex、OpenCode 等 AI 编程助手配置，并统一处理 MCP、Skills、WSL 同步、备份与托盘切换。基于 Tauri、React 和 SurrealDB，兼顾轻量、本地化与多端部署效率。
@@ -710,7 +710,7 @@
 ## xingkongliang/skills-manager
 
 > [!info]
-> ⭐ 7,549 · Rust · 2026-11-17T01:49:49Z  
+> ⭐ 7,583 · Rust · 2026-11-18T00:57:53Z  
 > [GitHub](https://github.com/xingkongliang/skills-manager) · [Website](https://skillsmanager.dev)  
 > `#AI智能体` `#桌面应用` `#自动化工具` `#跨平台` 
 > Skills Manager 是一款面向 AI 编码助手生态的轻量级桌面应用，用于统一管理、安装、同步与组织跨工具技能。它支持 Cursor、Codex、Copilot、Claude Code 等 15+ 工具，提供中心技能库、预设、全局/项目/链接工作区、批量操作与市场搜索，并通过符号链接或复制实现多工具一键同步，适合个人开发者和团队提升技能复用与协作效率。
@@ -730,7 +730,7 @@
 ## zhaoxuya520/reverse-skill
 
 > [!info]
-> ⭐ 44,776 · PowerShell · 2026-11-17T01:45:40Z  
+> ⭐ 44,835 · PowerShell · 2026-11-17T23:54:55Z  
 > [GitHub](https://github.com/zhaoxuya520/reverse-skill)  
 > `#AI智能体` `#网络安全` `#自动化工具` `#跨平台` 
 > 该仓库面向逆向、渗透测试、安全分析与 CTF 场景，提供面向 AI 代码助手的技能路由包。它通过自动识别操作系统、刷新本地工具索引、加载规则链和按需自举工具链，让 Claude Code、Cursor、Cline 等客户端可直接进入安全任务流。亮点在于 AI 自动路由、跨平台部署、工具编排与经验库持续进化，降低环境配置和任务切换成本。
@@ -760,7 +760,7 @@
 ## yaojingang/GEOFlow
 
 > [!info]
-> ⭐ 4,145 · PHP · 2026-11-17T01:43:59Z  
+> ⭐ 4,153 · PHP · 2026-11-17T14:31:24Z  
 > [GitHub](https://github.com/yaojingang/GEOFlow) · [Website](https://www.geoflow.me)  
 > `#AI智能体` `#PHP` `#RAG 检索增强` `#内容分发` `#ai` `#chrome-extension` `#cms` `#content-automation` `#generative-engine-optimization` `#geo` `#laravel` `#multi-site` `#openai-compatible` `#php` `#postgresql` `#pwa` `#rag` `#seo` 
 > GEOFlow是一套面向生成式引擎优化的开源内容工程平台，打通知识库、RAG切片、AI生成、审核发布与多站点分发，支持WordPress、HTTP API和Agent站点包，适合团队持续运营可追踪的内容资产。
@@ -770,7 +770,7 @@
 ## greensock/gsap-skills
 
 > [!info]
-> ⭐ 18,557 · N/A · 2026-11-17T01:48:19Z  
+> ⭐ 18,642 · N/A · 2026-11-18T00:52:59Z  
 > [GitHub](https://github.com/greensock/gsap-skills)  
 > `#AI智能体` `#GSAP` `#前端动画` 
 > 该仓库提供官方 GSAP AI Skills，以 Agent Skills 规范为 Claude、Cursor、Copilot 等编码代理注入动画开发知识。内容覆盖时间线、ScrollTrigger、Flip、MotionPath 及 React/Vue/Svelte 集成，强调正确 API 用法、性能优化与插件实践，适用于生成高质量网页动画代码。
@@ -780,7 +780,7 @@
 ## DayuanJiang/next-ai-draw-io
 
 > [!info]
-> ⭐ 37,000 · TypeScript · 2026-11-17T01:45:30Z  
+> ⭐ 37,024 · TypeScript · 2026-11-17T18:42:06Z  
 > [GitHub](https://github.com/DayuanJiang/next-ai-draw-io) · [Website](https://next-ai-drawio.jiang.jp/)  
 > `#AI大模型` `#AI智能体` `#Next.js` `#图表生成` `#ai` `#architecture-diagram` `#claude-code` `#deepseek-harness` `#diagram-generator` `#diagrams` `#draw-io` `#drawio` `#dsh-plugin` `#electron` `#flowchart` `#gemini-cli-extension` `#llm` `#mcp` `#mcp-server` `#nextjs` 
 > 这是一个基于 Next.js 的 AI 图表生成与编辑应用，将自然语言交互与 draw.io 深度结合，支持创建、修改和增强架构图、流程图及可视化草图。项目亮点在于多模型接入、实时图形生成、网页与桌面多端部署，以及面向技术设计和知识表达的高效可视化工作流。
@@ -790,7 +790,7 @@
 ## op7418/guizang-social-card-skill
 
 > [!info]
-> ⭐ 8,135 · HTML · 2026-11-17T01:12:58Z  
+> ⭐ 8,151 · HTML · 2026-11-17T22:29:11Z  
 > [GitHub](https://github.com/op7418/guizang-social-card-skill) · [Website](https://github.com/op7418/guizang-social-card-skill)  
 > `#AI智能体` `#HTML/CSS` `#社交媒体设计` `#自动化工具` `#agent-skill` `#ai-agent` `#anthropic` `#claude-code` `#claude-skill` `#codex` `#editorial-design` `#html-template` `#image-generation` `#playwright` `#rednote` `#social-cards` `#swiss-design` `#wechat` `#xiaohongshu` 
 > 该仓库面向 Claude Code、Codex 等智能体，提供社交卡片生成技能，可将文章、截图、照片与产品笔记快速转为小红书组图及公众号 21:9+1:1 封面。其核心亮点是双视觉系统、28 套版式骨架、单文件 HTML 到 PNG 渲染，以及内置图源抓取、版式校验与截图美化工作流。
@@ -800,7 +800,7 @@
 ## mattpocock/skills
 
 > [!info]
-> ⭐ 325,989 · Shell · 2026-11-17T01:51:33Z  
+> ⭐ 326,754 · Shell · 2026-11-18T00:58:05Z  
 > [GitHub](https://github.com/mattpocock/skills) · [Website](https://aihero.dev/skills)  
 > `#AI智能体` `#工程协作` `#提示工程` `#自动化工具` 
 > 该仓库提供一组面向真实工程场景的 AI 编码代理技能模板，强调小而可组合、跨模型适配与可自定义流程。其核心价值在于通过需求追问、共享术语和任务约束，修复代理误解、冗长输出与流程失控等常见问题，适合团队协作、需求澄清和工程交付提效。
@@ -810,7 +810,7 @@
 ## SamurAIGPT/llm-wiki-agent
 
 > [!info]
-> ⭐ 3,707 · Python · 2026-11-17T01:23:02Z  
+> ⭐ 3,710 · Python · 2026-11-17T22:29:03Z  
 > [GitHub](https://github.com/SamurAIGPT/llm-wiki-agent)  
 > `#AI智能体` `#大语言模型` `#知识图谱` `#知识管理` `#ai-agent` `#ai-tools` `#automation` `#claude-code` `#codex` `#gemini` `#generative-ai` `#knowledge-base` `#knowledge-graph` `#llm` `#markdown` `#muapi` `#note-taking` `#obsidian` `#open-source` `#personal-knowledge-management` `#rag` `#research` `#second-brain` `#wiki` 
 > 该项目把大模型代理变成可持续运转的个人知识库引擎：将 Markdown、PDF、Office 等资料投入后，自动抽取实体与概念，沉淀为可持续演化的互链 Wiki，并生成知识图谱、矛盾标注与综合结论。其亮点是零 API Key、兼容多种 CLI 智能体，并支持跨源持续增量更新。
@@ -830,7 +830,7 @@
 ## RoseKhlifa/Image-Studio
 
 > [!info]
-> ⭐ 496 · Go · 2026-11-16T18:05:53Z  
+> ⭐ 497 · Go · 2026-11-17T09:19:02Z  
 > [GitHub](https://github.com/RoseKhlifa/Image-Studio)  
 > `#AI大模型` `#Wails` `#图像生成` 
 > Image Studio 是面向 OpenAI 兼容上游的开源图像生成与编辑客户端，采用 Wails 结合 Go、React/TS 构建桌面端，并提供 Android 壳层。其核心亮点是以 Responses API 的 SSE 流式保活缓解 Cloudflare 或 Nginx 下长时推理导致的 524/504 断连，同时兼容标准 Images API，且配置与数据均本地保存。
@@ -840,7 +840,7 @@
 ## konbakuyomu/smartsearch
 
 > [!info]
-> ⭐ 951 · Python · 2026-11-15T15:55:35Z  
+> ⭐ 952 · Python · 2026-11-17T04:40:56Z  
 > [GitHub](https://github.com/konbakuyomu/smartsearch)  
 > `#AI智能体` `#Node.js` `#命令行工具` `#深度研究` 
 > smart-search 是面向 AI 智能体与终端用户的 CLI 研究工具，统一封装实时搜索、网页抓取、站点映射、来源发现与离线 Deep Research 规划。它以技能驱动接入 Codex、Claude 等工具，强调可复现命令层、Provider 路由与诊断能力，适合自动化调研、证据收集和结构化研究流程。
@@ -849,7 +849,7 @@
 ## hugohe3/ppt-master
 
 > [!info]
-> ⭐ 77,558 · Python · 2026-11-17T01:52:06Z  
+> ⭐ 77,938 · Python · 2026-11-18T00:58:06Z  
 > [GitHub](https://github.com/hugohe3/ppt-master) · [Website](https://hugohe3.github.io/ppt-master-examples/)  
 > `#AI大模型` `#PPT生成` `#TypeScript` `#办公自动化` `#ai-agent` `#aippt` `#office` `#powerpoint` `#powerpoint-generation` `#ppt` `#pptx` `#presentation` `#slide` `#slides` 
 > PPT Master 是一款将文档自动生成可原生编辑 PPTX 的 AI 办公工具，支持文本、结构与视觉内容协同生成，输出真实形状、动画与语音旁白，而非静态截图。项目可套用自定义 .pptx 模板，适合课程课件、汇报演示、论文解读与内容营销场景，突出可编辑性、模板继承和自动化出片效率。
@@ -878,7 +878,7 @@
 ## liangdabiao/ecom-details-image
 
 > [!info]
-> ⭐ 1,702 · Python · 2026-11-16T17:49:11Z  
+> ⭐ 1,719 · Python · 2026-11-17T19:39:15Z  
 > [GitHub](https://github.com/liangdabiao/ecom-details-image) · [Website](https://ecom.348349.xyz/)  
 > `#AI大模型` `#Python` `#电商视觉` `#自动化工具` `#agent-skill` `#agent-skills` `#skill` `#skills` 
 > 该仓库是面向 Claude Code、Codex 与 OpenClaw 的电商视觉生成 Skill，围绕 GPT-Image-2 API 提供主图、详情页、社媒与直播场景的一站式出图能力。其核心亮点是 Campaign Style Lock 保证多图风格统一，并结合转化驱动力诊断生成更适合营销投放的视觉方案，兼顾 Prompt 产出与 API 直连生成。
@@ -888,7 +888,7 @@
 ## yuqie6/ProductFlow
 
 > [!info]
-> ⭐ 311 · Python · 2026-11-12T03:32:50Z  
+> ⭐ 313 · Python · 2026-11-17T17:14:10Z  
 > [GitHub](https://github.com/yuqie6/ProductFlow) · [Website](https://draw.devbin.de)  
 > `#AI智能体` `#FastAPI` `#React` `#电商工具` `#ai` `#ecommerce` `#fastapi` `#gpt-image-2` `#productflow` `#react` `#self-hosted` 
 > ProductFlow 是面向单人或小团队商家的自托管商品素材工作台，整合商品资料、参考图、AI 文案、海报生成、连续生图会话与画廊管理。基于 FastAPI、React、PostgreSQL、Redis 与 Dramatiq 构建，支持可视化节点工作流、移动端画布交互、运行时模型配置和异步任务恢复，适合电商视觉物料生产与迭代。
@@ -908,7 +908,7 @@
 ## buluslan/gpt-image2-ecommerce
 
 > [!info]
-> ⭐ 450 · Shell · 2026-11-14T11:53:13Z  
+> ⭐ 451 · Shell · 2026-11-17T09:08:48Z  
 > [GitHub](https://github.com/buluslan/gpt-image2-ecommerce)  
 > `#AI智能体` `#Codex CLI` `#GPT-Image-2` `#电商素材生成` `#advertising` `#ai-art` `#claude-code` `#e-commerce` `#ecommerce` `#ecommerce-images` `#gpt-image` `#gpt-image-2` `#gpt-image-2-5` `#image-generation` `#product-photography` `#prompt-templates` `#social-media` 
 > 该项目是基于 Codex CLI 与 GPT-Image-2 的电商素材生成 Skill，面向商品主图、海报、UGC、直播等场景，内置 25 个结构化模板并支持自然语言自动匹配。其亮点在于参考图一致性控制、反 AI 感处理与跨 Agent 调用能力，适合提升电商视觉生产效率。
@@ -918,7 +918,7 @@
 ## CookSleep/gpt_image_playground
 
 > [!info]
-> ⭐ 4,097 · TypeScript · 2026-11-17T01:20:41Z  
+> ⭐ 4,105 · TypeScript · 2026-11-18T00:22:08Z  
 > [GitHub](https://github.com/CookSleep/gpt_image_playground) · [Website](https://gpt-image-playground.cooksleep.dev)  
 > `#AI大模型` `#OpenAI API` `#React` `#图像生成与编辑` `#fal-ai` `#gemini` `#gpt-image` `#grok` `#image-editing` `#image-generation` `#nano-banana` `#openai` `#react` `#seedream` `#tailwindcss` `#typescript` `#vite` `#xai` 
 > 这是一个面向创作与迭代修图场景的 Web 图像工作台，基于 OpenAI gpt-image-2 与兼容接口，集成参考图、遮罩编辑、流式预览、Agent 多轮生成及本地历史管理，兼顾隐私、批量效率与多服务商接入能力，并支持参数追踪、配置切换和导出备份。
@@ -938,7 +938,7 @@
 ## Mouseww/anything-analyzer
 
 > [!info]
-> ⭐ 3,867 · TypeScript · 2026-11-16T17:22:42Z  
+> ⭐ 3,869 · TypeScript · 2026-11-17T13:00:05Z  
 > [GitHub](https://github.com/Mouseww/anything-analyzer)  
 > `#AI智能体` `#Electron` `#协议分析` `#网络安全` `#2api` `#ai-tools` `#analysis-cli` `#api-analysis` `#automation-tools` `#blackbox-testing` `#network-analysis` `#protocol-analysis` `#reverse-engineering` `#traffic-analysis` 
 > Anything Analyzer 是面向协议逆向与安全分析的一体化桌面工具，集成浏览器抓包、MITM 代理、JS Hook 与指纹伪装，将网页、桌面端、脚本、终端和移动端流量汇入统一会话，再用 AI 自动完成接口识别、加密分析、安全审计与报告生成，并可通过 MCP Server 接入 AI Agent 与 IDE。
@@ -948,7 +948,7 @@
 ## classfang/ssh-mcp-server
 
 > [!info]
-> ⭐ 1,054 · JavaScript · 2026-11-16T18:11:27Z  
+> ⭐ 1,055 · JavaScript · 2026-11-17T09:14:01Z  
 > [GitHub](https://github.com/classfang/ssh-mcp-server)  
 > `#AI智能体` `#Node.js` `#SSH` `#运维自动化` 
 > ssh-mcp-server 是连接 AI 助手与远程主机的 SSH 型 MCP 服务，面向运维自动化、远程执行与文件传输场景。项目以 MCP 标准接口封装 SSH，支持密码/密钥认证、堡垒机场景、命令黑白名单和凭据本地隔离，在提升可集成性的同时强化安全控制。
@@ -958,7 +958,7 @@
 ## slopus/happy
 
 > [!info]
-> ⭐ 24,665 · Swift · 2026-11-17T01:32:41Z  
+> ⭐ 24,684 · Swift · 2026-11-17T22:58:08Z  
 > [GitHub](https://github.com/slopus/happy) · [Website](https://happy.engineering/)  
 > `#AI智能体` `#TypeScript` `#跨平台` `#远程开发` `#agent-orchestration` `#ai-agents` `#claude-code` `#claude-desktop` `#codex` `#codex-cli` `#coding-agents` `#grok` `#hacktoberfest` 
 > Happy 是面向 Claude Code 与 Codex 的移动端和 Web 客户端，通过 CLI 包装与远程会话切换，让开发者在手机、网页和桌面间无缝接管 AI 编程任务。其亮点是端到端加密、实时语音、推送通知与开源可审计，适合远程查看、审批和继续执行编码流程。
@@ -968,7 +968,7 @@
 ## Kiowx/c_cleaner_plus
 
 > [!info]
-> ⭐ 2,017 · Python · 2026-11-16T18:00:08Z  
+> ⭐ 2,023 · Python · 2026-11-17T18:48:39Z  
 > [GitHub](https://github.com/Kiowx/c_cleaner_plus) · [Website](https://ccs.cxs.lat)  
 > `#PySide6` `#Python` `#系统工具` `#运维自动化` 
 > C Cleaner Plus 是面向 Windows 的开源全盘清理工具，集垃圾清理、大文件扫描、重复文件查找、残留卸载与定时任务于一体。项目基于 Python、PySide6 与 Fluent UI，提供图形化操作、管理员提权、远程规则包导入及分级风险拦截，适合个人设备维护与重度软件环境清理。
@@ -978,7 +978,7 @@
 ## mvanhorn/last30days-skill
 
 > [!info]
-> ⭐ 68,159 · Python · 2026-11-17T01:51:46Z  
+> ⭐ 69,063 · Python · 2026-11-18T00:57:38Z  
 > [GitHub](https://github.com/mvanhorn/last30days-skill)  
 > `#AI智能体` `#多源搜索` `#研究摘要` `#跨平台检索` `#ai-prompts` `#ai-skill` `#bluesky` `#claude` `#claude-code` `#clawhub` `#deep-research` `#hackernews` `#instagram` `#openclaw` `#polymarket` `#recency` `#reddit` `#research` `#social-media` `#tiktok` `#trends` `#twitter` `#web-search` `#youtube` 
 > 这是一个面向 AI 智能体的跨平台检索技能，可并行抓取 Reddit、X、YouTube、HN、Polymarket 与网页近 30 天内容，并按点赞、热度与市场信号加权。它适合行业研究、人物背调、商业情报和热点追踪，亮点在于多源桥接、零配置接入与基于真实用户反馈的综合摘要。
@@ -988,7 +988,7 @@
 ## EKKOLearnAI/ekko-studio
 
 > [!info]
-> ⭐ 11,783 · TypeScript · 2026-11-16T20:43:37Z  
+> ⭐ 11,788 · TypeScript · 2026-11-17T22:32:33Z  
 > [GitHub](https://github.com/EKKOLearnAI/ekko-studio) · [Website](https://ekkostudio.xyz)  
 > `#agent` `#ai-agent` `#chat-ui` `#coding-agents` `#dashboard` `#ekko-studio` `#hermes` `#hermes-agent` `#hermes-studio` `#hermes-web-ui` `#llm` `#multi-agent` `#multi-model` `#multi-platform` `#self-hosted` `#typescript` `#vue3` `#web-ui` `#workflow-automation` 
 > 生成失败
@@ -1018,7 +1018,7 @@
 ## zenstory-ai/oh-story-claudecode
 
 > [!info]
-> ⭐ 8,669 · Python · 2026-11-17T01:48:03Z  
+> ⭐ 8,706 · Python · 2026-11-18T00:17:24Z  
 > [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [Website](https://zenstory.ai/zh/oh-story)  
 > `#AI智能体` `#提示工程` `#网文写作` `#自动化工具` `#agent-skills` `#ai-agent` `#ai-novel-writing` `#ai-writing` `#antigravity` `#chinese-novel` `#claude-code` `#claude-code-skills` `#claude-skills` `#codex` `#creative-writing` `#fiction-writing` `#novel-writing` `#openclaw` `#opencode` `#skill` `#web-novel` `#webnovel` `#writing-assistant` `#zenstory` 
 > 面向网文与小说创作的全流程 skill 包，覆盖扫榜选题、拆文学习、剧情模块化写作、去 AI 味与封面图生成，并兼容多种 Agent/CLI 环境。强调情绪满足与爽点设计，帮助作者从爆款逆向、上下文分层和人机协同中提升商业化写作效率与成稿质量。
@@ -1028,7 +1028,7 @@
 ## yuaotian/antigravity-proxy
 
 > [!info]
-> ⭐ 4,910 · C++ · 2026-11-17T01:25:24Z  
+> ⭐ 4,946 · C++ · 2026-11-18T00:34:32Z  
 > [GitHub](https://github.com/yuaotian/antigravity-proxy)  
 > `#C++` `#Windows` `#运维自动化` `#透明代理` `#antigravity` `#dll-injection` `#force-proxy-network-hook` `#http-proxy` `#minhook` `#no-tun` `#proxy` `#socks5` `#transparent-proxy` `#windows-proxy` 
 > Antigravity-Proxy 是面向 Windows 的透明代理注入工具，专为 Antigravity 编辑器设计。它通过 DLL 注入、API Hook 与进程流量劫持，将指定进程稳定强制走 SOCKS5/HTTP 代理，无需开启 TUN 或接管全局流量，适合受限网络环境下的编辑器联网、Agent 调用与故障排查场景。
@@ -1038,7 +1038,7 @@
 ## OpenCoworkAI/open-codesign
 
 > [!info]
-> ⭐ 8,233 · TypeScript · 2026-11-17T00:33:26Z  
+> ⭐ 8,236 · TypeScript · 2026-11-17T16:51:40Z  
 > [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [Website](https://opencoworkai.github.io/open-codesign/)  
 > `#Electron` `#原型设计` `#多模型` `#桌面应用` `#ai-design` `#anthropic` `#byok` `#claude` `#claude-code` `#claude-design` `#claude-design-alternative` `#deepseek` `#design-to-code` `#desktop-app` `#electron` `#figma-alternative` `#gemini` `#local-first` `#multi-model` `#ollama` `#openai` `#openrouter` `#typescript` `#ui-generator` 
 > Open CoDesign 是面向本地创作的开源 AI 设计工具，支持一键导入 Claude Code 或 Codex 密钥，基于提示词生成原型、演示文稿与 PDF。其亮点在于多模型接入、BYOK、本地优先与 MIT 开源，适合产品设计、快速提案和个人私有化创作流程。
@@ -1048,7 +1048,7 @@
 ## iFurySt/open-computer-use
 
 > [!info]
-> ⭐ 2,997 · Swift · 2026-11-17T01:20:51Z  
+> ⭐ 3,012 · Swift · 2026-11-18T00:21:11Z  
 > [GitHub](https://github.com/iFurySt/open-computer-use)  
 > `#accessibility` `#ai-agent` `#ai-agents` `#claude-code` `#codex` `#codex-computer-use` `#computer-use` `#computer-use-agent` `#cross-platform` `#cua` `#desktop-automation` `#gemini-cli` `#gui-automation` `#locked-use` `#macos` `#mcp` `#open-computer-use` `#open-computer-use-mcp` `#openai-codex` `#opencode` 
 > 生成失败
@@ -1068,7 +1068,7 @@
 ## wbh604/UZI-Skill
 
 > [!info]
-> ⭐ 7,637 · Python · 2026-11-17T01:46:19Z  
+> ⭐ 7,645 · Python · 2026-11-17T21:04:39Z  
 > [GitHub](https://github.com/wbh604/UZI-Skill)  
 > `#AI智能体` `#Python` `#投资决策` `#量化分析` 
 > UZI-Skill 是面向 A股、港股、美股的 AI 股票分析技能库，可在多种 Agent/CLI 中直接调用。它整合 22 维数据、180 条量化规则、17 种机构分析方法与多位投资风格评审，支持深度分析、快扫、陷阱识别和 DCF 估值，强调可落地的研判流程与跨平台集成能力。
@@ -1078,7 +1078,7 @@
 ## 863401402/she-love-me
 
 > [!info]
-> ⭐ 1,024 · Python · 2026-11-17T00:08:28Z  
+> ⭐ 1,026 · Python · 2026-11-18T00:46:49Z  
 > [GitHub](https://github.com/863401402/she-love-me)  
 > `#AI智能体` `#Python` `#情感关系分析` `#聊天记录分析` `#agent` `#she-love-me` `#skill` `#wechat` 
 > 她不一样是面向微信、QQ聊天记录的本地恋情分析 Agent Skill，可自动解密与导出数据，结合依恋类型、Gottman 与 Sternberg 等心理学框架，生成量化指标、风险预警、趋势图表和关系建议，适用于情感关系复盘、恋爱状态判断与聊天互动洞察。
@@ -1088,7 +1088,7 @@
 ## Graphify-Labs/graphify
 
 > [!info]
-> ⭐ 149,070 · Python · 2026-11-17T01:51:16Z  
+> ⭐ 149,672 · Python · 2026-11-18T00:58:14Z  
 > [GitHub](https://github.com/Graphify-Labs/graphify) · [Website](https://www.graphify.com)  
 > `#AI智能体` `#代码理解` `#开发者工具` `#知识图谱` `#ai-agents` `#antigravity` `#ast` `#claude-code` `#code-analysis` `#code-search` `#codex` `#cursor` `#developer-tools` `#gemini` `#graphify` `#graphrag` `#knowledge-graph` `#leiden` `#llm` `#mcp` `#openclaw` `#rag` `#skills` `#tree-sitter` 
 > Graphify 是面向 Claude Code、Cursor 等 AI 编程助手的知识图谱技能，可将代码、SQL 架构、脚本、文档、论文及多媒体统一映射为可查询图谱，帮助开发者理解项目依赖、数据库与基础设施关系，替代低效 grep。
@@ -1098,7 +1098,7 @@
 ## NousResearch/hermes-agent
 
 > [!info]
-> ⭐ 263,933 · Python · 2026-11-17T01:50:49Z  
+> ⭐ 264,229 · Python · 2026-11-18T00:52:23Z  
 > [GitHub](https://github.com/NousResearch/hermes-agent) · [Website](https://hermes-agent.nousresearch.com)  
 > `#AI智能体` `#大模型` `#自动化工具` `#长期记忆` `#ai` `#ai-agent` `#ai-agents` `#anthropic` `#chatgpt` `#claude` `#claude-code` `#codex` `#hermes` `#hermes-agent` `#llm` `#nous-research` `#openai` 
 > Hermes Agent 是面向个人与团队的自进化 AI 智能体框架，支持多模型切换、跨平台消息接入与云端运行。其核心亮点是内置学习闭环，可从任务经验生成并优化技能，结合记忆检索、用户建模、定时自动化与并行子代理，适用于长期助手、自动运维、研究实验等场景。
@@ -1108,7 +1108,7 @@
 ## LingyiChen-AI/comfyui-workflow-skill
 
 > [!info]
-> ⭐ 452 · N/A · 2026-11-14T17:28:32Z  
+> ⭐ 453 · N/A · 2026-11-17T20:03:07Z  
 > [GitHub](https://github.com/LingyiChen-AI/comfyui-workflow-skill)  
 > `#AI智能体` `#ComfyUI` `#多模态生成` `#工作流自动化` 
 > 该项目将自然语言直接转换为可导入 ComfyUI 的工作流 JSON，面向图像、视频、音频与 3D 生成场景。内置 34 类模板、360+ 节点定义与自动模型下载机制，并可作为 Claude Code、Cursor 等智能体技能，显著降低复杂节点编排与多模型工作流搭建门槛。
@@ -1118,7 +1118,7 @@
 ## 1sdv/TripStar
 
 > [!info]
-> ⭐ 2,557 · Vue · 2026-11-16T10:41:43Z  
+> ⭐ 2,561 · Vue · 2026-11-17T10:12:02Z  
 > [GitHub](https://github.com/1sdv/TripStar)  
 > `#AI智能体` `#FastAPI` `#Vue` `#旅行规划` 
 > TripStar 是面向自由行与多城市出游的 AI 文旅智能体平台，基于 HelloAgents、LLM 与多智能体协作，自动完成景点筛选、路线编排、预算拆解与天气联动。项目结合小红书真实游记、双地图引擎、知识图谱可视化和多语言交互，适合打造一站式个性化旅游攻略系统。
@@ -1128,7 +1128,7 @@
 ## FujiwaraChoki/MoneyPrinterV2
 
 > [!info]
-> ⭐ 32,461 · Python · 2026-11-17T00:47:59Z  
+> ⭐ 32,469 · Python · 2026-11-17T21:41:18Z  
 > [GitHub](https://github.com/FujiwaraChoki/MoneyPrinterV2)  
 > `#Python` `#社交媒体自动化` `#自动化工具` `#营销获客` `#automation` `#cli` `#json` `#money` `#outreach` `#python` `#twitter` `#youtube` 
 > MoneyPrinter V2 是一个基于 Python 3.12 的在线收益自动化框架，围绕 Twitter 机器人、YouTube Shorts 批量生成、联盟营销与本地商家线索挖掘，提供定时调度、脚本化执行和模块化扩展能力，适合内容营销与冷启动获客场景。
@@ -1138,7 +1138,7 @@
 ## WJZ-P/douyin-upload-mcp-skill
 
 > [!info]
-> ⭐ 92 · JavaScript · 2026-11-14T05:57:15Z  
+> ⭐ 93 · JavaScript · 2026-11-17T07:46:54Z  
 > [GitHub](https://github.com/WJZ-P/douyin-upload-mcp-skill)  
 > `#MCP` `#内容发布` `#浏览器自动化` `#自动化工具` `#agent` `#mcp` `#mcp-server` `#openclaw` `#openclaw-skill` `#openclaw-skills` `#skill` 
 > 该仓库提供基于 CDP 的抖音创作者平台自动化发布能力，并通过 MCP/Skill 接口对外暴露，适合集成到 OpenClaw 等智能体工作流。其核心价值在于打通视频与图文一键上传、登录推进、浏览器托管和会话复用，结合独立 Daemon 管理 Chrome 生命周期，兼顾自动化稳定性、可集成性与多 Agent 协同使用场景。
@@ -1148,7 +1148,7 @@
 ## Shanyin-ai/shanyin-screenwriting-master
 
 > [!info]
-> ⭐ 1,510 · N/A · 2026-11-16T16:06:01Z  
+> ⭐ 1,512 · N/A · 2026-11-17T08:49:56Z  
 > [GitHub](https://github.com/Shanyin-ai/shanyin-screenwriting-master)  
 > `#AI智能体` `#影视编剧` `#提示工程` `#ai-agent` `#claude-ai` `#claude-skills` `#screenwriting` `#skills` 
 > 该仓库提供面向 Claude/GPT 的自然语言编剧 Skill，覆盖概念超短片、叙事短片、90分钟长片与多集剧集创作，支持人物设定、结构大纲、场景拆解到标准剧本输出，突出全格式适配、类型化叙事框架与一站式全流程编排能力。
@@ -1158,7 +1158,7 @@
 ## paperclipai/paperclip
 
 > [!info]
-> ⭐ 114,374 · TypeScript · 2026-11-17T01:51:16Z  
+> ⭐ 114,579 · TypeScript · 2026-11-18T00:48:58Z  
 > [GitHub](https://github.com/paperclipai/paperclip) · [Website](https://paperclip.ing)  
 > `#AI智能体` `#Node.js` `#React` `#自动化工具` `#acpx` `#agent-orchestration` `#agent-skills` `#agentic-ai` `#ai-agents` `#ai-engineering` `#ai-governance` `#ai-tools` `#autonomous-agents` `#claude` `#claude-code` `#claude-skills` `#codex` `#hermes` `#llm` `#mcp` `#multi-agent` `#openclaw` `#project-management` `#workflow-automation` 
 > Paperclip 是面向团队的开源 AI 智能体编排平台，以 Node.js 服务端和 React 控制台统一管理多智能体协作。它支持接入不同代理与运行时，围绕业务目标进行任务分工、预算控制、治理审计和成本追踪，适合构建可持续运行的自动化 AI 业务组织。
@@ -1168,7 +1168,7 @@
 ## WJZ-P/gemini-skill
 
 > [!info]
-> ⭐ 834 · JavaScript · 2026-11-13T07:37:29Z  
+> ⭐ 835 · JavaScript · 2026-11-17T22:58:04Z  
 > [GitHub](https://github.com/WJZ-P/gemini-skill)  
 > `#AI智能体` `#AI生图` `#MCP` `#浏览器自动化` `#automation` `#browser-automation` `#drawing` `#gemini` `#mcp` `#mcp-client` `#mcp-server` `#openclaw` `#openclaw-agent` `#openclaw-skills` `#openclawskill` 
 > 该项目通过 CDP 自动操控 Gemini 网页版，向支持 MCP 的智能体提供生图、对话、图片上传提取与会话管理能力，并兼容新版 UI。其亮点是浏览器自动化链路稳定、支持高清下载与自动去水印，同时内置 Atlas Cloud Provider，便于统一接入多模态模型与代理工具生态。
@@ -1178,7 +1178,7 @@
 ## xiaohuailabs/xiaohu-wechat-format
 
 > [!info]
-> ⭐ 712 · Python · 2026-11-16T18:44:24Z  
+> ⭐ 711 · Python · 2026-11-18T00:04:23Z  
 > [GitHub](https://github.com/xiaohuailabs/xiaohu-wechat-format)  
 > `#Markdown` `#Python` `#微信公众号排版` `#自动化工具` 
 > 该仓库面向微信公众号内容生产，提供从 Markdown 排版、主题预览到草稿发布的一体化流程。它将文章转换为微信兼容的内联 HTML，内置 30 套主题与可视化画廊，并结合 AI 自动增强对话、金句和图组等内容结构，适合内容运营、自媒体与知识输出场景。
@@ -1188,7 +1188,7 @@
 ## ryfineZ/codex-session-patcher
 
 > [!info]
-> ⭐ 3,031 · Python · 2026-11-16T13:12:33Z  
+> ⭐ 3,037 · Python · 2026-11-17T16:10:05Z  
 > [GitHub](https://github.com/ryfineZ/codex-session-patcher)  
 > `#AI智能体` `#Python` `#安全测试` `#自动化工具` 
 > 这是一个面向 AI 编码工具的会话修复与安全测试增强工具，支持 Codex CLI、Claude Code、OpenCode。它可批量识别并改写拒绝回复、清除推理内容、备份恢复，并通过配置注入 CTF/渗透测试上下文，配合 Web UI 实现多平台会话管理、差异预览与实时日志。
@@ -1198,7 +1198,7 @@
 ## Narcooo/inkos
 
 > [!info]
-> ⭐ 11,257 · TypeScript · 2026-11-17T01:39:31Z  
+> ⭐ 11,289 · TypeScript · 2026-11-18T00:38:58Z  
 > [GitHub](https://github.com/Narcooo/inkos)  
 > `#AI智能体` `#TypeScript` `#多智能体协作` `#小说创作自动化` `#ai` `#ai-agent` `#ai-game` `#ai-writing` `#chinese-novel` `#creative-writing-ai` `#generative-ai` `#novel-ai` `#novel-generation` `#short-drama` `#storyboard` 
 > InkOS 是面向网文与长短篇创作的自治式小说写作 AI Agent，通过写作、审稿、修订多代理协作与人工审核门控，完成从大纲到正文的生产闭环。项目提供 CLI、TUI、Studio 与 OpenClaw Skill 统一交互层，支持多模型接入、封面生成、数据分析和文风检测，适合小说连载、续写、同人及内容工作流自动化。
@@ -1218,7 +1218,7 @@
 ## doocs/cose
 
 > [!info]
-> ⭐ 778 · JavaScript · 2026-11-14T23:23:27Z  
+> ⭐ 777 · JavaScript · 2026-11-17T10:38:55Z  
 > [GitHub](https://github.com/doocs/cose)  
 > `#Markdown` `#多平台内容分发` `#浏览器插件` `#自动化工具` `#cose` `#doocs` `#extension` `#extension-chrome` `#md` 
 > COSE 是面向 Markdown 创作者的浏览器扩展，与 doocs/md 配合实现“一次编辑，多平台同步发布”。它本地运行，不采集用户数据，支持登录态检测、标签页分组及微信公众号样式保真草稿保存，适合自媒体、技术博客与内容运营场景，显著降低多平台分发成本。
@@ -1228,7 +1228,7 @@
 ## MiniMax-AI/skills
 
 > [!info]
-> ⭐ 13,845 · C# · 2026-11-16T22:41:58Z  
+> ⭐ 13,858 · C# · 2026-11-17T20:55:53Z  
 > [GitHub](https://github.com/MiniMax-AI/skills)  
 > `#AI智能体` `#React/Next.js` `#自动化工具` `#跨平台` 
 > MiniMax Skills 是面向 AI 编码代理的技能仓库，提供前端、全栈、移动端、Shader 与办公文档生成等结构化开发指引。其亮点是将 React/Next.js、Kotlin、Swift、Flutter 等主流栈与 MiniMax 多模态 API、动画设计、工程规范和生产级交付流程结合，帮助开发者快速接入并稳定落地复杂应用。
@@ -1237,7 +1237,7 @@
 ## garrytan/gstack
 
 > [!info]
-> ⭐ 141,819 · TypeScript · 2026-11-17T01:47:57Z  
+> ⭐ 141,922 · TypeScript · 2026-11-18T00:10:25Z  
 > [GitHub](https://github.com/garrytan/gstack)  
 > `#AI智能体` `#Claude Code` `#自动化工具` `#软件交付` 
 > gstack 将 Claude Code 封装为可复用的“虚拟产品研发团队”，提供 23 个角色化命令与 8 个增强工具，覆盖产品评审、架构设计、代码审查、QA、安全审计和发布流程。它面向创始人、技术负责人和独立开发者，帮助个人以低成本建立标准化的软件交付流水线，提升 AI 辅助开发的质量、速度与一致性。
@@ -1247,7 +1247,7 @@
 ## modstart-lib/aigcpanel
 
 > [!info]
-> ⭐ 5,799 · TypeScript · 2026-11-17T00:48:54Z  
+> ⭐ 5,804 · TypeScript · 2026-11-17T07:46:42Z  
 > [GitHub](https://github.com/modstart-lib/aigcpanel) · [Website](https://aigcpanel.com/?utm_source=github)  
 > `#AI数字人` `#Electron` `#Vue3` `#视频语音生成` `#cosyvoice` `#fishspeech` `#funasr` `#indextts` `#latentsync` `#musetalk` `#pixrestore` `#qwen-tts` `#sensenova` `#sparktts` `#voxcpm` `#wav2lip` 
 > AIGCPanel 是面向内容生产与直播场景的一站式 AI 数字人桌面平台，集成视频换口型、语音合成、语音克隆、语音识别、音视频工具箱与模型管理，支持本地模型一键部署、远程 API 接入及可视化工作流，显著降低数字人制作与自动化运营门槛。
@@ -1257,7 +1257,7 @@
 ## zhouxiaoka/autoclip
 
 > [!info]
-> ⭐ 10,601 · Python · 2026-11-17T01:06:09Z  
+> ⭐ 10,680 · Python · 2026-11-18T00:24:10Z  
 > [GitHub](https://github.com/zhouxiaoka/autoclip) · [Website](https://zhouxiaoka.github.io/autoclip_intro/)  
 > `#FastAPI` `#React` `#智能视频剪辑` `#自动化工具` `#ai-agent` `#ai-video-editor` `#content-repurposing` `#desktop-app` `#douyin` `#instagram-reels` `#mcp` `#open-source` `#podcast` `#subtitles` `#tiktok` `#video-clipping` `#video-editing-software` `#xiaohongshu` `#youtube-shorts` 
 > AutoClip 是面向视频二创的 AI 自动化剪辑平台，支持 YouTube、B站与本地视频接入，结合大语言模型做内容理解、精彩片段提取和合集生成。系统采用 FastAPI + React 前后端分离架构，配合 Celery、Redis、WebSocket 实现异步处理、实时进度反馈与便捷部署。
@@ -1324,7 +1324,7 @@
 ## chenyme/grok2api
 
 > [!info]
-> ⭐ 7,902 · Go · 2026-11-16T20:43:09Z  
+> ⭐ 7,905 · Go · 2026-11-17T21:14:30Z  
 > [GitHub](https://github.com/chenyme/grok2api)  
 > `#AI大模型` `#API网关` `#FastAPI` `#OpenAI兼容` `#grok` `#grok-build` `#grok-console` `#grok-imagine` `#grok-video` `#grok-web` 
 > Grok2API 是面向 Grok Web 的兼容网关，基于 FastAPI 将对话、图像与视频能力转换为 OpenAI/Anthropic 风格接口，适合统一接入现有 AI 应用。其亮点是多账号池调度、流式响应、工具透传、用量统计，以及内置后台与 WebUI，兼顾部署效率和运营管理。
@@ -1334,7 +1334,7 @@
 ## xstongxue/best-skills
 
 > [!info]
-> ⭐ 3,186 · Python · 2026-11-16T17:25:59Z  
+> ⭐ 3,187 · Python · 2026-11-17T12:08:03Z  
 > [GitHub](https://github.com/xstongxue/best-skills)  
 > `#AI智能体` `#内容生成` `#提示工程` `#自动化工具` `#skills` `#vibe-coding` 
 > 该仓库汇集面向 Cursor、Claude Code、Codex 等智能体的高质量 Skills，通过关键词与场景描述实现自动触发，覆盖论文写作、公众号内容、PPT、Draw.io/Excalidraw 制图等任务。其核心亮点是将可复用工作流封装为标准 SKILL.md，降低手动提示成本，提升多场景内容生产与知识表达效率。
@@ -1384,7 +1384,7 @@
 ## hesamsheikh/awesome-openclaw-usecases
 
 > [!info]
-> ⭐ 31,639 · N/A · 2026-11-16T22:36:07Z  
+> ⭐ 31,637 · N/A · 2026-11-17T18:08:20Z  
 > [GitHub](https://github.com/hesamsheikh/awesome-openclaw-usecases)  
 > `#AI智能体` `#多代理协作` `#工作流编排` `#自动化工具` `#awesome-list` `#clawdbot` `#moltbot` `#openclaw` `#openclaw-plugin` `#openclaw-setup` `#openclaw-skills` `#usecase` 
 > 该仓库汇集 OpenClaw 真实落地案例，聚焦降低 AI 代理采用门槛，帮助用户快速找到可改善日常、内容生产与运维流程的具体玩法。亮点在于覆盖社媒摘要、自动化创作、多代理协作、视频编辑与 DevOps 编排，并明确提示社区技能的安全审查风险。
@@ -1394,7 +1394,7 @@
 ## ZSeven-W/openpencil
 
 > [!info]
-> ⭐ 7,254 · Rust · 2026-11-17T01:20:34Z  
+> ⭐ 7,264 · Rust · 2026-11-17T23:56:23Z  
 > [GitHub](https://github.com/ZSeven-W/openpencil) · [Website](https://op.zseven.tech)  
 > `#AI智能体` `#Electron` `#TypeScript` `#设计生成` `#agent` `#agent-team` `#ai` `#claude` `#claude-code` `#codex` `#dsh-plugin` `#fimga` `#flutter` `#mcp` `#opencode` `#openpencil` `#pencil` `#react` `#react-native` `#rust` `#skill` `#ui` `#vibecoding` `#vibedesign` 
 > OpenPencil 是面向 UI/产品设计的开源 AI 原生矢量设计工具，支持将自然语言直接生成到实时画布，并用并发 Agent 团队拆解复杂页面协同设计。其以 Design-as-Code 为核心，采用可读可版本化的 .op JSON 格式，支持多模型适配、MCP 接入及 React/Tailwind、HTML/CSS 导出，适合 AI 驱动的界面原型、设计协作与开发交付。
@@ -1404,7 +1404,7 @@
 ## moeru-ai/airi
 
 > [!info]
-> ⭐ 51,480 · TypeScript · 2026-11-17T01:51:44Z  
+> ⭐ 51,517 · TypeScript · 2026-11-17T23:18:44Z  
 > [GitHub](https://github.com/moeru-ai/airi) · [Website](https://airi.moeru.ai/docs/)  
 > `#AI智能体` `#实时语音` `#虚拟陪伴` `#跨平台` `#ai-companion` `#ai-vtuber` `#airi` `#digital-life` `#grok-companion` `#live2d` `#neuro-sama` `#neurosama` `#openclaw` `#vrm` `#vtuber` 
 > AIRI 是面向个人部署的 AI 虚拟伴侣平台，聚焦语音实时对话、角色人格承载与跨世界互动。项目支持 Web、macOS、Windows，并扩展到 Minecraft、Factorio 等游戏场景。其亮点在于自托管、角色化 AI 体验、多端接入与实时语音能力，适合构建 AI 主播、虚拟陪伴和可交互数字角色。
@@ -1444,7 +1444,7 @@
 ## waooAI/waoowaoo
 
 > [!info]
-> ⭐ 14,867 · TypeScript · 2026-11-16T18:26:36Z  
+> ⭐ 14,866 · TypeScript · 2026-11-17T16:38:56Z  
 > [GitHub](https://github.com/waooAI/waoowaoo)  
 > `#AI影视制作` `#AI智能体` `#Next.js` `#可控视频生成` `#ai-agent` `#ai-agents` `#automation` `#film-production` `#generative-ai` `#short-drama` `#storyboard` `#video-generation` 
 > waoowaoo 是面向短剧、漫画视频与真人影视的工业级 AI 影视生产平台，可从小说文本自动完成剧本解析、角色场景生成、分镜编排、配音与视频合成，强调角色一致性、流程可控性与接近好莱坞标准的全流程创作协同。
@@ -1454,7 +1454,7 @@
 ## yukkcat/gemini-business2api
 
 > [!info]
-> ⭐ 1,333 · Python · 2026-11-16T03:41:40Z  
+> ⭐ 1,333 · Python · 2026-11-17T22:57:32Z  
 > [GitHub](https://github.com/yukkcat/gemini-business2api) · [Website](https://gemini-business2api.nanohajimi.mom)  
 > `#AI大模型` `#FastAPI` `#OpenAI兼容接口` `#Vue 3` `#2api` `#business` `#chatgpt` `#gemini` `#openai` 
 > 该项目将 Gemini Business 封装为 OpenAI 兼容 API 网关，面向需要统一接入大模型能力的团队与开发者。其亮点在于多账户负载均衡、后台可视化管理，以及文本、文件、图像、视频等多模态能力整合，支持 Docker 部署并兼容 SQLite/PostgreSQL。
@@ -1484,7 +1484,7 @@
 ## WakeUp-Jin/Practical-Guide-to-Context-Engineering
 
 > [!info]
-> ⭐ 856 · N/A · 2026-11-16T10:25:32Z  
+> ⭐ 857 · N/A · 2026-11-17T02:51:02Z  
 > [GitHub](https://github.com/WakeUp-Jin/Practical-Guide-to-Context-Engineering) · [Website](https://wakeup-jin.github.io/Practical-Guide-to-Context-Engineering/)  
 > `#AI大模型` `#AI智能体` `#上下文工程` `#应用开发指南` `#javascript` `#typescript` 
 > 该仓库围绕大模型应用开发，提出“上下文工程+Harness Engineering”骨架方法，系统梳理上下文构建、RAG、记忆、提示与评估的关系，帮助开发者为 Agent 设计稳定运行空间，提升复杂业务场景中的推理质量、可控性与落地效率。
@@ -1494,7 +1494,7 @@
 ## lackeyjb/playwright-skill
 
 > [!info]
-> ⭐ 3,300 · JavaScript · 2026-11-17T00:54:02Z  
+> ⭐ 3,303 · JavaScript · 2026-11-17T22:21:51Z  
 > [GitHub](https://github.com/lackeyjb/playwright-skill)  
 > `#Claude Code插件` `#Playwright` `#浏览器测试` `#自动化工具` `#agent-skills` `#ai-agents` `#automations` `#coding-agents` `#developer-tool` `#e2e-testing-tools` `#playwright-automation` `#playwright-tests` `#web-automation` `#web-testing-automation` 
 > 该仓库将 Playwright 封装为 Claude Code 可调用技能，使模型按需生成并执行浏览器自动化脚本，适用于网页测试、流程验证与多步骤操作。其亮点在于插件化分发、渐进式能力加载、默认可视化浏览器执行，以及通用执行器与安全临时文件清理机制，降低集成和运行出错成本。
@@ -1504,7 +1504,7 @@
 ## multica-ai/andrej-karpathy-skills
 
 > [!info]
-> ⭐ 233,752 · N/A · 2026-11-17T01:52:14Z  
+> ⭐ 234,009 · N/A · 2026-11-18T00:56:49Z  
 > [GitHub](https://github.com/multica-ai/andrej-karpathy-skills)  
 > `#AI智能体` `#Claude Code` `#开发提效` `#提示工程` 
 > 该仓库提供单文件CLAUDE.md规范，将Karpathy对大模型编码缺陷的观察提炼为四原则，帮助Claude Code先澄清假设、避免过度设计、实施最小改动，并以测试和可验证目标驱动交付，适合代码代理调优与团队开发规范统一。
@@ -1514,7 +1514,7 @@
 ## obra/superpowers
 
 > [!info]
-> ⭐ 318,714 · Shell · 2026-11-17T01:51:53Z  
+> ⭐ 319,332 · Shell · 2026-11-18T00:55:37Z  
 > [GitHub](https://github.com/obra/superpowers)  
 > `#AI智能体` `#提示工程` `#自动化开发` `#ai` `#brainstorming` `#coding` `#obra` `#sdlc` `#skills` `#subagent-driven-development` `#superpowers` 
 > Superpowers 是面向编码智能体的开发方法论与技能框架，围绕需求澄清、分段评审、实现规划和子代理执行构建完整流程。它强调 TDD、YAGNI 与 DRY，可接入 Claude、Codex、Gemini 等多种代理环境，提升自动化研发的稳定性、可控性与持续自治能力。
@@ -1524,7 +1524,7 @@
 ## gsd-build/get-shit-done
 
 > [!info]
-> ⭐ 64,128 · JavaScript · 2026-11-16T22:48:01Z  
+> ⭐ 64,132 · JavaScript · 2026-11-17T22:25:41Z  
 > [GitHub](https://github.com/gsd-build/get-shit-done)  
 > `#AI智能体` `#上下文工程` `#提示工程` `#规范驱动开发` `#claude-code` `#context-engineering` `#meta-prompting` `#spec-driven-development` 
 > 该仓库为 Claude Code 提供轻量但功能完整的元提示、上下文工程与规范驱动开发框架，面向 AI 编码协作、任务拆解与流程约束场景。当前仓库已归档，核心价值在于用结构化规范提升代理式开发的一致性、可控性与执行效率。
@@ -1544,7 +1544,7 @@
 ## qufei1993/skills-hub
 
 > [!info]
-> ⭐ 1,873 · Rust · 2026-11-15T13:25:03Z  
+> ⭐ 1,877 · Rust · 2026-11-18T00:02:11Z  
 > [GitHub](https://github.com/qufei1993/skills-hub) · [Website](https://aiskillshub.link)  
 > `#AI智能体` `#Tauri 框架` `#技能管理同步` `#agent-skills` `#ai-agent` `#claude-code` `#codex` `#cursor` `#desktop-app` `#react` `#rust` `#skill-management` `#skills-hub` `#skills-manager` `#tauri` 
 > Skills Hub 是基于 Tauri 与 React 的跨平台桌面应用，集中管理 Agent Skills，并同步到 Cursor、Claude Code、Codex 等多种 AI 编码工具。它支持全局/项目级作用域、符号链接优先同步、现有技能迁移、在线检索安装与多来源导入，显著降低多工具协作下的技能分发与维护成本。
@@ -1564,7 +1564,7 @@
 ## zhukunpenglinyutong/desktop-cc-gui
 
 > [!info]
-> ⭐ 4,601 · TypeScript · 2026-11-17T01:28:06Z  
+> ⭐ 4,603 · TypeScript · 2026-11-18T00:41:38Z  
 > [GitHub](https://github.com/zhukunpenglinyutong/desktop-cc-gui) · [Website](https://www.mossx.ai/download)  
 > `#AI智能体` `#React` `#Tauri 框架` `#开发者工作台` `#ai-coding` `#claude-code` `#codex` `#deepseek-harness` `#desktop-app` `#dsh` `#tauri` `#vibe-coding` 
 > Desktop CC GUI 是面向开发者的跨平台本地优先 AI 工程工作台，整合多种代码引擎、终端、Git、任务执行与项目记忆。基于 Tauri 2、React 19 与 TypeScript，强调开发过程可观测、可恢复、可审计，适用于 AI 辅助编码、项目治理与复杂研发协作场景。
@@ -1574,7 +1574,7 @@
 ## GuanYixuan/pyCapCut
 
 > [!info]
-> ⭐ 753 · Python · 2026-11-16T17:00:58Z  
+> ⭐ 755 · Python · 2026-11-17T16:03:14Z  
 > [GitHub](https://github.com/GuanYixuan/pyCapCut)  
 > `#Python` `#自动化工具` `#视频剪辑自动化` `#api` `#automation` `#capcut` `#video-editing` `#video-production` 
 > pyCapCut 是面向 CapCut 草稿生成与导出的轻量 Python 工具，适合自动化视频剪辑、混剪与批量生产流程。它支持模板草稿复用、素材替换、字幕导入、多轨道编排、关键帧、特效滤镜与批量导出，在保留 CapCut 编辑能力的同时提升脚本化生产效率。
@@ -1584,7 +1584,7 @@
 ## virattt/dexter
 
 > [!info]
-> ⭐ 27,843 · TypeScript · 2026-11-16T20:40:12Z  
+> ⭐ 27,846 · TypeScript · 2026-11-18T00:03:31Z  
 > [GitHub](https://github.com/virattt/dexter)  
 > `#AI大模型` `#AI智能体` `#投研自动化` `#金融科技` 
 > Dexter 是面向金融投研的自治智能体，基于大模型完成复杂问题拆解、工具选择、自我反思与结果校验，结合实时财报和市场数据生成可追踪的深度研究结论，并内置循环检测与步数限制，适用于金融分析辅助、研究自动化与教学演示，而非真实投资决策执行。
@@ -1594,7 +1594,7 @@
 ## MiniMax-AI/MiniMax-MCP
 
 > [!info]
-> ⭐ 1,604 · Python · 2026-11-16T22:20:16Z  
+> ⭐ 1,606 · Python · 2026-11-17T04:29:06Z  
 > [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [Website](https://www.minimax.io/platform)  
 > `#AI智能体` `#MCP` `#多模态生成` `#模型服务接入` `#image-generation` `#image-to-video` `#mcp` `#mcp-server` `#mcp-tools` `#text-to-image` `#text-to-speech` `#text-to-video` `#video-generation` `#voice-cloning` 
 > MiniMax-MCP 是官方 MCP 服务器，将 MiniMax 的文本转语音、图像生成和视频生成能力标准化封装给兼容客户端调用。它适合智能体、工作流编排与创作工具快速接入多模态生成 API，亮点在于统一协议、官方维护与低集成成本。
@@ -1614,7 +1614,7 @@
 ## shanraisshan/claude-code-best-practice
 
 > [!info]
-> ⭐ 69,116 · HTML · 2026-11-17T01:28:23Z  
+> ⭐ 69,167 · HTML · 2026-11-17T23:41:58Z  
 > [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [Website](https://linkedin.com/in/shanraisshan)  
 > `#AI智能体` `#Claude Code` `#MCP` `#自动化工程` `#agentic-ai` `#agentic-coding` `#agentic-engineering` `#agentic-workflow` `#ai` `#ai-agents` `#anthropic` `#best-practices` `#boris` `#claude` `#claude-ai` `#claude-code` `#claude-code-agents` `#claude-code-best-practices` `#claude-code-commands` `#claude-code-skills` `#context-engineering` `#pakistan` `#pakistani-developer` `#vibe-coding` 
 > 该仓库围绕 Claude Code 构建系统化最佳实践，覆盖子代理、命令、技能、工作流、Hooks 与 MCP 配置，帮助团队从随意提示式开发转向可复用、可编排、可落地的智能体工程。适用于提升协作开发效率、沉淀规范与构建自动化工程流程。
@@ -1624,7 +1624,7 @@
 ## dreamhunter2333/cloudflare_temp_email
 
 > [!info]
-> ⭐ 12,121 · TypeScript · 2026-11-17T01:20:06Z  
+> ⭐ 12,134 · TypeScript · 2026-11-17T21:46:56Z  
 > [GitHub](https://github.com/dreamhunter2333/cloudflare_temp_email) · [Website](https://mail.awsl.uk)  
 > `#Cloudflare Workers` `#Rust WASM` `#临时邮箱` `#自动化工具` `#cloudflare-email` `#cloudflare-pages` `#cloudflare-workers` `#email` `#free` 
 > 该项目基于 Cloudflare Workers 等免费能力，搭建可低成本部署的临时邮箱服务，支持邮件收发、附件、IMAP/SMTP 与 Telegram Bot 集成。其亮点是采用 Rust WASM 提升邮件解析性能，配备现代化多语言界面、独立地址密码机制，并对 AI Agent 场景提供友好支持。
@@ -1654,7 +1654,7 @@
 ## Yeachan-Heo/oh-my-claudecode
 
 > [!info]
-> ⭐ 40,874 · TypeScript · 2026-11-17T01:39:41Z  
+> ⭐ 40,908 · TypeScript · 2026-11-18T00:51:43Z  
 > [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode) · [Website](https://oh-my-claudecode.dev)  
 > `#AI智能体` `#TypeScript` `#自动化工具` `#agentic-coding` `#ai-agents` `#automation` `#claude` `#claude-code` `#multi-agent-systems` `#oh-my-opencode` `#opencode` `#parallel-execution` `#vibe-coding` 
 > oh-my-claudecode 面向团队协作，围绕 Claude Code 提供多智能体编排能力，以插件与 CLI 形式快速接入。它强调零学习成本，通过预置工作流、命令体系与可迁移配置，提升多人开发、任务分派和工程自动化效率。
@@ -1664,7 +1664,7 @@
 ## mindfold-ai/Trellis
 
 > [!info]
-> ⭐ 15,141 · TypeScript · 2026-11-16T10:33:06Z  
+> ⭐ 15,149 · TypeScript · 2026-11-18T00:37:58Z  
 > [GitHub](https://github.com/mindfold-ai/Trellis) · [Website](https://docs.trytrellis.app)  
 > `#AI智能体` `#AI编程协作` `#Node.js` `#工程自动化` `#agentic-coding` `#ai-workflow` `#claudecode` `#codex` `#harness` 
 > Trellis 是面向 AI 编程的智能体工程框架，通过将规范、任务与项目记忆持久化到仓库，让不同 AI 编码平台共享统一上下文与团队标准。它适用于代码协作、需求实现和评审流程，突出自动注入规格、任务化工作流、多平台兼容及可复用工程记忆，减少重复提示并提升交付一致性。
@@ -1674,7 +1674,7 @@
 ## JimLiu/baoyu-skills
 
 > [!info]
-> ⭐ 27,613 · TypeScript · 2026-11-17T01:43:12Z  
+> ⭐ 27,642 · TypeScript · 2026-11-17T23:48:56Z  
 > [GitHub](https://github.com/JimLiu/baoyu-skills)  
 > `#AI智能体` `#Node.js` `#插件市场` `#自动化工具` `#agent-skills` `#claude-skills` `#codex-skills` `#openclaw-skills` 
 > 该仓库面向 Claude Code、Codex 等 AI 智能体，提供 20 余个可按需安装的技能插件，覆盖内容生成、图像卡片制作、AI 后端接入与效率工具。其亮点是以插件市场和 ClawHub 双分发模式组织技能，支持独立发布、按需安装和自动更新，减少上下文负担，适合提升日常写作、发布与工作流自动化效率。
@@ -1703,7 +1703,7 @@
 ## chatfire-AI/huobao-drama
 
 > [!info]
-> ⭐ 17,592 · TypeScript · 2026-11-17T01:45:51Z  
+> ⭐ 17,656 · TypeScript · 2026-11-18T00:50:21Z  
 > [GitHub](https://github.com/chatfire-AI/huobao-drama)  
 > `#AI大模型` `#AI智能体` `#TypeScript全栈` `#短剧生成` 
 > 火宝短剧是面向短视频创作的AI自动化平台，基于TypeScript全栈与Mastra Agents，串联剧本改写、角色/场景提取、分镜生成、配音、图生视频和FFmpeg合成。支持多厂商模型接入与本地资源管理，适合低成本批量生产短剧成片。
@@ -1723,7 +1723,7 @@
 ## vuejs-ai/skills
 
 > [!info]
-> ⭐ 3,350 · N/A · 2026-11-16T20:35:10Z  
+> ⭐ 3,353 · N/A · 2026-11-17T15:12:38Z  
 > [GitHub](https://github.com/vuejs-ai/skills)  
 > `#AI智能体` `#TypeScript` `#Vue 3` `#开发提效` 
 > 该仓库面向 Vue 3 开发场景，提供可被 AI 编程助手调用的技能库，覆盖 Composition API、Router、Pinia、测试、调试与可复用 composable 设计。其价值在于把真实问题沉淀为结构化提示与最佳实践，提升生成代码的准确性、一致性和工程可维护性。
@@ -1733,7 +1733,7 @@
 ## OpenByteInc/QuantDinger
 
 > [!info]
-> ⭐ 13,806 · Python · 2026-11-16T23:11:20Z  
+> ⭐ 13,829 · Python · 2026-11-18T00:37:13Z  
 > [GitHub](https://github.com/OpenByteInc/QuantDinger) · [Website](https://ai.quantdinger.com)  
 > `#AI智能体` `#Python` `#量化交易` `#agentic-ai` `#ai-agents` `#backtesting` `#crypto` `#finance` `#fintech` `#investment` `#llm` `#market-data` `#mcp` `#mcp-server` `#multi-agent` `#portfolio-management` `#python` `#quant` `#quantitative-finance` `#risk-management` `#self-hosted` `#stock-market` `#technical-analysis` 
 > QuantDinger 是面向加密、股票与外汇的开源 AI 量化交易平台，覆盖多智能体研究、Python 策略开发、回测、模拟盘与实盘执行。其本地优先、自托管架构结合 PostgreSQL、Redis 与独立交易运行时，强调可控性、审计能力与多市场接入。
@@ -1743,7 +1743,7 @@
 ## ZhuLinsen/daily_stock_analysis
 
 > [!info]
-> ⭐ 72,820 · Python · 2026-11-17T01:50:15Z  
+> ⭐ 73,084 · Python · 2026-11-18T00:46:09Z  
 > [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [Website](https://dsa.zhulinsen.tech)  
 > `#AI智能体` `#Python` `#投资决策支持` `#金融数据分析` `#a-stock` `#ai-agent` `#aigc` `#llm` `#quant` `#quantitative-finance` `#quantitative-trading` 
 > 这是一个面向A股、港股与美股的LLM驱动股票分析系统，聚合行情、新闻、公告与资金面等多源数据，生成含评分、趋势、买卖点和风险提示的决策仪表盘，并支持Web/桌面工作台、Agent问股及多渠道自动推送，适合低成本定时投研与自选股跟踪。
@@ -1762,7 +1762,7 @@
 ## YangYuHou/github-skill-forge
 
 > [!info]
-> ⭐ 1,058 · Python · 2026-11-16T13:11:49Z  
+> ⭐ 1,061 · Python · 2026-11-17T18:14:06Z  
 > [GitHub](https://github.com/YangYuHou/github-skill-forge)  
 > 
 > 生成失败
@@ -1802,7 +1802,7 @@
 ## lingfengQAQ/webnovel-writer
 
 > [!info]
-> ⭐ 7,989 · Python · 2026-11-17T01:38:07Z  
+> ⭐ 8,002 · Python · 2026-11-17T16:18:45Z  
 > [GitHub](https://github.com/lingfengQAQ/webnovel-writer) · [Website](https://lingfengqaq.github.io/webnovel-writer/)  
 > `#AI智能体` `#Claude Code` `#RAG检索` `#长篇创作` `#ai-writing` `#chinese-novel` `#deepseek-harness` `#dsh-plugin` `#webnovel` `#writing-assistant` 
 > Webnovel Writer 是运行于 Claude Code 的长篇网文创作系统，围绕设定管理、卷章规划、章节写作、审查与记忆沉淀构建闭环，借助 Story System、状态索引与 RAG 检索，缓解 AI 连载中的遗忘、幻觉和一致性失控问题，支持百万至两百万字级持续创作。
@@ -1842,7 +1842,7 @@
 ## nextlevelbuilder/ui-ux-pro-max-skill
 
 > [!info]
-> ⭐ 150,456 · Python · 2026-11-17T01:51:09Z  
+> ⭐ 150,897 · Python · 2026-11-18T00:52:25Z  
 > [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) · [Website](https://www.uupm.cc/)  
 > `#AI智能体` `#Python` `#UI/UX设计` `#设计系统` `#ai-skills` `#antigravity` `#claude` `#claude-code` `#codex` `#command-line` `#copilot` `#cursor-ai` `#html5` `#kiro` `#landing-page` `#mobile-ui` `#qoder` `#react` `#tailwindcss` `#trae` `#ui-design` `#uikit` `#windsurf-ai` 
 > UI UX Pro Max 是面向多平台界面设计的 AI 技能，聚焦将需求快速转化为专业 UI/UX 方案。其核心亮点是基于推理规则的设计系统生成，可结合项目目标输出页面结构、交互模式与视觉风格建议，适用于网页、应用和跨框架产品设计提效。
@@ -1852,7 +1852,7 @@
 ## Fission-AI/OpenSpec
 
 > [!info]
-> ⭐ 75,011 · TypeScript · 2026-11-17T01:49:45Z  
+> ⭐ 75,099 · TypeScript · 2026-11-17T23:33:51Z  
 > [GitHub](https://github.com/Fission-AI/OpenSpec) · [Website](https://openspec.dev/)  
 > `#AI智能体` `#Node.js/CLI` `#规格驱动开发` `#ai` `#context-engineering` `#engineering` `#planning` `#prd` `#sdd` `#sdlc` `#spec` `#spec-driven-development` `#specification` 
 > 面向 AI 编码助手的规格驱动开发框架，通过提案、设计、任务与归档的结构化工件，配合 CLI 和斜杠命令，把需求拆解、实现与验证流程标准化，适合从个人项目到企业级 brownfield 改造。
@@ -1862,7 +1862,7 @@
 ## qixing-jk/all-api-hub
 
 > [!info]
-> ⭐ 5,069 · TypeScript · 2026-11-16T11:24:42Z  
+> ⭐ 5,074 · TypeScript · 2026-11-17T23:56:13Z  
 > [GitHub](https://github.com/qixing-jk/all-api-hub) · [Website](https://all-api-hub.qixing1217.top/)  
 > `#AI 接口管理` `#浏览器插件` `#自动化工具` `#运维自动化` `#ai` `#cc-switch` `#chatgpt` `#chatgpt-api` `#cherrystudio` `#claude` `#claude-code` `#cliproxyapi` `#codex` `#new-api` `#newapi` `#one-api` `#openai` `#openrouter` `#sub2api` `#voapi` 
 > All API Hub 是面向 New-API/Sub2API 中转站的浏览器管理中枢，集中处理多账号余额、用量、价格与健康状态，支持自动签到、接口验证、密钥一键导出及渠道同步。其亮点在于统一看板、跨工具集成、本地优先存储与加密同步，适合高频使用多站点 AI 接口的个人与运维场景。
@@ -1882,7 +1882,7 @@
 ## looplj/axonhub
 
 > [!info]
-> ⭐ 5,467 · Go · 2026-11-17T00:35:25Z  
+> ⭐ 5,473 · Go · 2026-11-17T17:23:41Z  
 > [GitHub](https://github.com/looplj/axonhub) · [Website](https://axonhub.reveric.app)  
 > `#AI大模型` `#AI网关` `#Go` `#运维自动化` `#agent` `#agents` `#ai` `#anthropic` `#anthropic-api` `#api-gateway` `#claude` `#claude-code` `#codex` `#cost-management` `#deepseek` `#gemini-api` `#llm` `#openai` `#opencode` 
 > AxonHub 是面向多模型接入的开源 AI 网关与开发平台，兼容 OpenAI、Anthropic 等主流 SDK，实现零代码切换 100+ LLM。其核心能力包括协议转换、智能负载均衡、毫秒级故障切换、成本追踪、端到端链路观测与权限控制，适合企业统一管理多厂商模型调用。
@@ -1892,7 +1892,7 @@
 ## ikuaitu/vue-fabric-editor
 
 > [!info]
-> ⭐ 8,003 · Vue · 2026-11-16T09:46:28Z  
+> ⭐ 8,003 · Vue · 2026-11-17T15:44:18Z  
 > [GitHub](https://github.com/ikuaitu/vue-fabric-editor) · [Website](https://ikuaitu.github.io/doc/#/)  
 > `#Fabric.js` `#Vue` `#图形设计` `#在线图片编辑` `#canvas-editor` `#design` `#design-editor` `#editor` `#fabricjs` `#image-editor` `#poster` `#svg-editor` `#vue-fabric` 
 > vue-fabric-editor 是基于 Vue 与 fabric.js 的开源图片编辑器，采用插件化架构，支持拖拽设计、模板素材与字体定制。项目覆盖 PSD/JSON 导入、PNG/SVG 导出、图层、裁剪、滤镜、二维码等能力，适合在线海报设计、商品 DIY 与轻量可视化编辑场景。
@@ -1902,7 +1902,7 @@
 ## linshenkx/prompt-optimizer
 
 > [!info]
-> ⭐ 41,736 · TypeScript · 2026-11-17T01:52:12Z  
+> ⭐ 41,834 · TypeScript · 2026-11-18T00:54:48Z  
 > [GitHub](https://github.com/linshenkx/prompt-optimizer) · [Website](https://prompt.always200.com)  
 > `#AI大模型` `#Chrome扩展` `#提示工程` `#自动化工具` `#ai-prompts` `#ai-tools` `#llm` `#prompt` `#prompt-engineering` `#prompt-optimization` `#prompt-optimizer` `#prompt-testing` `#prompt-toolkit` `#prompt-tuning` 
 > Prompt Optimizer 是面向大模型交互的提示词优化平台，支持网页、桌面、Chrome 扩展与 Docker 部署。它覆盖提示词编写、模板复用、测试评估与资产沉淀，适用于内容创作、评审对话、图像生成等场景，亮点在于多端可用、可复用变量模板与完整优化工作流。
@@ -1912,7 +1912,7 @@
 ## fengshao1227/ccg-workflow
 
 > [!info]
-> ⭐ 5,983 · TypeScript · 2026-11-17T01:20:29Z  
+> ⭐ 5,982 · TypeScript · 2026-11-17T14:43:44Z  
 > [GitHub](https://github.com/fengshao1227/ccg-workflow) · [Website](https://ccg.fengshao1227.com)  
 > `#AI智能体` `#Node.js` `#多模型协作` `#自动化工具` `#agent-teams` `#ai` `#ccg` `#claude-code` `#cli` `#codex` `#gemini` `#llm` `#no-de` `#nodejs` `#opsxspec` `#prompt` `#workflow` 
 > CCG 是面向 Claude Code 的多模型协作工作流引擎，通过 `/ccg:go` 将自然语言需求自动转成策略选择、任务持久化、并行 Agent 执行与质量校验流程。它结合 Hook 注入、领域知识增强、阶段审批和 Codex 主导编排，适合复杂开发、重构、安全审查等场景，显著提升多模型协同编码的稳定性、可控性与交付效率。
@@ -1922,7 +1922,7 @@
 ## router-for-me/CLIProxyAPI
 
 > [!info]
-> ⭐ 58,748 · Go · 2026-11-17T01:48:35Z  
+> ⭐ 58,870 · Go · 2026-11-18T00:34:17Z  
 > [GitHub](https://github.com/router-for-me/CLIProxyAPI)  
 > `#AI大模型` `#API代理` `#OAuth` `#自动化工具` `#antigravity` `#claude` `#claude-code` `#codex` `#devin` `#gemini` `#muse` `#openai` 
 > CLIProxyAPI 将 Gemini CLI、Codex、Claude Code、Grok 等命令行能力封装为兼容 OpenAI、Gemini、Claude、Codex 的统一 API 服务，支持本地或多账号接入与 OAuth 登录。其价值在于复用现有 SDK 与客户端，低成本接入多模型能力，适用于 AI 开发集成、代理转发与自动化调用场景。
@@ -1972,7 +1972,7 @@
 ## KuekHaoYang/KVideo
 
 > [!info]
-> ⭐ 4,255 · TypeScript · 2026-11-16T17:39:28Z  
+> ⭐ 4,256 · TypeScript · 2026-11-17T09:27:57Z  
 > [GitHub](https://github.com/KuekHaoYang/KVideo) · [Website](https://kvideo.pages.dev/)  
 > `#Next.js` `#TypeScript` `#视频平台` `#视频聚合播放` 
 > KVideo 是基于 Next.js 16 的视频聚合播放平台，面向多源搜索、在线点播与 IPTV 场景。项目以 Liquid Glass 视觉体系提升交互质感，结合 SSE 并行搜索、HLS 播放、代理切换、自动切源与多端播放器优化，兼顾性能、扩展性与实际部署灵活度。
@@ -1992,7 +1992,7 @@
 ## zai-org/Open-AutoGLM
 
 > [!info]
-> ⭐ 26,613 · Python · 2026-11-17T00:07:54Z  
+> ⭐ 26,620 · Python · 2026-11-17T22:49:03Z  
 > [GitHub](https://github.com/zai-org/Open-AutoGLM) · [Website](https://autoglm.z.ai/blog)  
 > `#ADB自动化` `#AI智能体` `#多模态大模型` `#手机任务自动化` `#agent` `#phone-use-agent` 
 > Open-AutoGLM 是面向 Android 与鸿蒙设备的开源手机智能体框架，结合多模态屏幕理解、任务规划与 ADB/HDC 控制，实现用自然语言自动完成搜寻、输入、导航等操作，支持远程调试、人工接管与敏感确认，适合移动端 AI 助手、测试自动化和交互研究。
@@ -2002,7 +2002,7 @@
 ## wusimpl/AntigravityQuotaWatcher
 
 > [!info]
-> ⭐ 2,250 · TypeScript · 2026-11-16T13:48:25Z  
+> ⭐ 2,249 · TypeScript · 2026-11-17T02:04:02Z  
 > [GitHub](https://github.com/wusimpl/AntigravityQuotaWatcher)  
 > `#AI大模型` `#VS Code插件` `#自动化工具` `#配额监控` 
 > Antigravity Quota Watcher 是面向 Antigravity IDE 的配额监控插件，可自动检测本地服务端口与登录凭证，实时轮询 AI 模型剩余额度，并在状态栏与 Dashboard 中展示配额、重置时间和连接状态。其亮点是免手动配置、低配额预警、周限检测及跨平台支持，适合高频使用 Claude、GPT、Gemini 的开发者持续掌握调用成本与可用性。
@@ -2022,7 +2022,7 @@
 ## lmn1919/dompdf.js
 
 > [!info]
-> ⭐ 1,815 · TypeScript · 2026-11-17T01:07:44Z  
+> ⭐ 1,822 · TypeScript · 2026-11-17T23:25:34Z  
 > [GitHub](https://github.com/lmn1919/dompdf.js) · [Website](https://dompdfjs.lisky.com.cn)  
 > `#JavaScript` `#PDF生成` `#前端开发` `#跨平台` `#frontend` `#html-to-pdf` `#html2pdf` `#pdf` `#pdf-generation` `#vector-pdf` 
 > dompdf.js 是一个前端浏览器内 HTML 转矢量 PDF 工具，基于 DOM 解析而非截图，可直接生成可编辑、可打印、体积更小的多页 PDF，支持分页、文本、图片、背景、Canvas 与 SVG，尤其适合报表、长文档与超大页数导出场景。
@@ -2082,7 +2082,7 @@
 ## PastKing/tgbot-verify
 
 > [!info]
-> ⭐ 3,615 · Python · 2026-11-16T16:05:59Z  
+> ⭐ 3,622 · Python · 2026-11-17T19:59:48Z  
 > [GitHub](https://github.com/PastKing/tgbot-verify)  
 > `#Playwright` `#Python` `#自动化工具` `#身份认证` 
 > 该仓库是面向 SheerID 学生与教师认证场景的 Telegram 自动化机器人，基于 Python、Playwright 与 MySQL，实现身份信息生成、证件图片制作、认证提交及积分管理，适合部署为多平台认证代办与运营工具。
@@ -2102,7 +2102,7 @@
 ## Anionex/banana-slides
 
 > [!info]
-> ⭐ 16,021 · Python · 2026-11-17T00:20:51Z  
+> ⭐ 16,025 · Python · 2026-11-17T23:21:56Z  
 > [GitHub](https://github.com/Anionex/banana-slides) · [Website](https://bananaslides.online)  
 > `#AI大模型` `#OpenAI` `#PPT生成` `#容器化` `#ai-ppt-maker` `#ai-slide-builder` `#ai-slides` `#editable-pptx` `#llm` `#nanobananapro` `#ppt` `#ppt-generator` `#slides` `#text2image` 
 > Banana Slides 是一款原生 AI PPT 生成应用，基于 nano banana pro 与多模型能力，将模板图、参考素材和一句话/大纲输入转成高质量演示文稿。它强调风格可控、区域级口头修改、素材智能解析与可编辑 PPT 导出，适合教育、汇报和内容创作等高频场景。
@@ -2121,7 +2121,7 @@
 ## yeahhe365/AMC-WebUI
 
 > [!info]
-> ⭐ 932 · TypeScript · 2026-11-17T00:09:54Z  
+> ⭐ 931 · TypeScript · 2026-11-17T08:11:45Z  
 > [GitHub](https://github.com/yeahhe365/AMC-WebUI) · [Website](https://all-model-chat.pages.dev/)  
 > `#AI智能体` `#React` `#TypeScript` `#自动化工具` `#ai` `#chatbot` `#gemini` `#gemini-api` `#google` `#image-generation` `#local-first` `#pwa` `#react` `#tailwindcss` `#typescript` `#vite` 
 > AMC WebUI 是面向 Gemini 的 Local-First AI 工作流控制台，集成多模态对话、Canvas、文件解析、实时搜索、代码执行与深度推理。基于 React 与 TypeScript 构建，兼容 OpenAI 标准聊天接口，支持浏览器本地存储、独立 API 部署及实时音视频交互，适合构建高隐私、高交互的 AI 生产力工作台。
@@ -2131,7 +2131,7 @@
 ## sirmalloc/ccstatusline
 
 > [!info]
-> ⭐ 13,611 · TypeScript · 2026-11-17T01:47:01Z  
+> ⭐ 13,624 · TypeScript · 2026-11-18T00:38:46Z  
 > [GitHub](https://github.com/sirmalloc/ccstatusline)  
 > `#AI智能体` `#Node.js` `#开发效率工具` `#终端美化` `#ai-tools` `#claude-code` `#cli` `#developer-tools` `#git` `#powerline` `#statusbar` `#statusline` `#terminal` `#themeing` 
 > ccstatusline 是面向 Claude Code CLI 的终端状态栏美化与信息聚合工具，基于 Node.js 提供主题、Powerline 样式和多组件扩展能力，可展示模型、Git 分支、Token 与用量指标。其亮点在于高度可定制、跨平台支持、版本锁定安装及 Git 缓存优化，适合提升 AI 编码终端的可观测性与交互体验。
@@ -2141,7 +2141,7 @@
 ## Wei-Shaw/claude-relay-service
 
 > [!info]
-> ⭐ 12,813 · JavaScript · 2026-11-17T01:20:21Z  
+> ⭐ 12,815 · JavaScript · 2026-11-17T14:44:19Z  
 > [GitHub](https://github.com/Wei-Shaw/claude-relay-service) · [Website](https://pincc.ai)  
 > `#AI大模型` `#Node.js` `#Redis` `#自动化中转服务` `#claude` `#claude-api` `#claude-code` `#claude-proxy` `#codex-cli` `#crs` `#droid` `#droid-cli` `#droid2api` `#gemini-cli` 
 > Claude Relay Service 是面向 Claude Code 自建接入的开源中转平台，统一接入 Claude、OpenAI、Gemini 与 Droid 订阅，支持多账号轮换、拼车共享、独立 API Key、用量统计与管理面板。项目基于 Node.js、Redis 和 Docker，强调低门槛部署、隐私可控、成本分摊与原生工具兼容，适合受地域限制或有稳定接入需求的团队自托管使用。
@@ -2171,7 +2171,7 @@
 ## TheSmallHanCat/flow2api
 
 > [!info]
-> ⭐ 3,170 · Python · 2026-11-16T16:32:18Z  
+> ⭐ 3,173 · Python · 2026-11-17T07:50:05Z  
 > [GitHub](https://github.com/TheSmallHanCat/flow2api)  
 > `#AI大模型` `#FastAPI` `#OpenAI兼容` `#自动化工具` 
 > Flow2API 是面向 Flow 的 OpenAI/Gemini 兼容 API 网关，聚焦图像与视频生成统一接入。项目通过多 Token 账号池、负载均衡、AT/ST 自动刷新、缓存与代理机制，提升可用性与稳定性，并提供 Web 管理台、监控指标和 Docker 部署，适合多账号运营、接口转发与自动化生产场景。
@@ -2181,7 +2181,7 @@
 ## HisMax/RedInk
 
 > [!info]
-> ⭐ 5,719 · Python · 2026-11-16T15:28:48Z  
+> ⭐ 5,721 · Python · 2026-11-17T22:52:53Z  
 > [GitHub](https://github.com/HisMax/RedInk) · [Website](https://redink.top)  
 > `#AI智能体` `#Flask` `#Vue 3` `#内容生成` `#ai` `#aigc` `#content-generator` `#docker` `#flask` `#gemini` `#nano-banana-pro` `#python` `#social-media` `#text-to-image` `#vue` `#xiaohongshu` 
 > RedInk 是面向小红书内容创作的一站式 AI 图文生成工具，输入一句话即可自动生成大纲、封面与多页内容图，强调风格统一与文字准确。项目采用 Flask 后端与 Vue 3 前端，结合 Gemini 3 和 Nano Banana Pro，支持并发生成、局部重绘、Web 配置及 Docker 快速部署，适合自媒体运营与批量内容生产。
@@ -2191,7 +2191,7 @@
 ## tw93/Mole
 
 > [!info]
-> ⭐ 75,315 · Shell · 2026-11-17T01:33:20Z  
+> ⭐ 75,405 · Shell · 2026-11-18T00:17:32Z  
 > [GitHub](https://github.com/tw93/Mole) · [Website](https://mole.fit)  
 > `#macOS` `#命令行工具` `#系统清理` `#运维自动化` `#analyzer` `#appcleaner` `#clean` `#cleaner` `#cleanmymac` `#command-line` `#daisydisk` `#deepseek-harness` `#dsh-plugin` `#dsh-skill` `#gemini-cli-extension` `#istat` `#macos` `#macos-app` `#optimize` `#pearcleaner` `#sensei` `#shell` `#uninstall` `#windows` 
 > Mole 是面向 macOS 的终端系统维护工具，将清理、卸载、磁盘分析、性能优化与实时监控整合为单一 CLI。它可深度清除缓存、日志和残留文件，智能卸载应用及隐藏依赖，并提供磁盘可视化与 CPU/内存/网络状态监控，适合开发者和重度 Mac 用户进行高效本地运维与空间治理。
@@ -2201,7 +2201,7 @@
 ## lanyeeee/bilibili-video-downloader
 
 > [!info]
-> ⭐ 2,388 · Rust · 2026-11-17T00:05:50Z  
+> ⭐ 2,394 · Rust · 2026-11-17T15:08:58Z  
 > [GitHub](https://github.com/lanyeeee/bilibili-video-downloader)  
 > `#Tauri 框架` `#媒体库整理` `#自动化工具` `#bilibili` `#download` `#downloader` `#gui` `#naive-ui` `#rust` `#tauri` `#tauri-app` `#vue` 
 > 这是面向 B 站内容归档与媒体库整理的跨平台下载工具，基于 Tauri 提供轻量图形界面，支持普通视频、番剧、课程等多类型资源下载。除高画质音视频获取外，还集成字幕、弹幕、封面、NFO 刮削、章节与广告标记，便于无缝接入 Emby 等本地媒体中心，兼顾效率、组织性与可用性。
@@ -2251,7 +2251,7 @@
 ## 666ghj/BettaFish
 
 > [!info]
-> ⭐ 42,730 · Python · 2026-11-17T01:01:40Z  
+> ⭐ 42,731 · Python · 2026-11-17T21:52:45Z  
 > [GitHub](https://github.com/666ghj/BettaFish) · [Website](https://deepwiki.com/666ghj/BettaFish)  
 > `#AI智能体` `#Python` `#多Agent` `#舆情分析` `#agent-framework` `#data-analysis` `#deep-research` `#deep-search` `#llms` `#multi-agent-system` `#nlp` `#public-opinion-analysis` `#python3` `#sentiment-analysis` 
 > 微舆是一个从零实现的多Agent舆情分析助手，面向品牌监测、热点追踪与决策支持场景，自动分析30多个海内外社媒及海量评论。其亮点在于纯Python轻量架构、Agent论坛式协作、复合分析引擎与多模态解析，并支持公私域数据融合与快速定制扩展。
@@ -2261,7 +2261,7 @@
 ## xiamuceer-j/MuMuAINovel
 
 > [!info]
-> ⭐ 3,331 · Python · 2026-11-16T08:20:05Z  
+> ⭐ 3,334 · Python · 2026-11-17T22:54:11Z  
 > [GitHub](https://github.com/xiamuceer-j/MuMuAINovel) · [Website](https://mumuverse.space:1566/)  
 > `#AI智能体` `#FastAPI` `#React` `#小说创作` 
 > MuMuAINovel 是面向网文与长篇故事创作的 AI 写作助手，集成多模型调用、剧情大纲生成、角色关系管理、章节重写润色与伏笔追踪能力。项目采用 FastAPI + React + PostgreSQL 架构，支持 Docker 部署、多用户隔离及 Prompt 可视化配置，适合个人作者和小团队高效协同创作。
@@ -2271,7 +2271,7 @@
 ## wonderwhy-er/DesktopCommanderMCP
 
 > [!info]
-> ⭐ 10,331 · JavaScript · 2026-11-17T00:00:37Z  
+> ⭐ 10,344 · JavaScript · 2026-11-17T21:58:15Z  
 > [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [Website](https://desktopcommander.app/)  
 > `#AI智能体` `#MCP` `#Node.js` `#自动化工具` `#agent` `#ai` `#code-analysis` `#code-generation` `#gemini-cli-extension` `#mcp` `#terminal-ai` `#terminal-automation` `#vibe-coding` 
 > Desktop Commander MCP 是面向 Claude 等模型的桌面自动化与开发控制服务器，结合 MCP、终端进程管理、文件搜索与差异编辑能力，支持远程 AI 操作、本地代码执行、文档与表格处理，适合 AI 编程协作、运维执行和跨文件内容管理场景。
@@ -2291,7 +2291,7 @@
 ## farion1231/cc-switch
 
 > [!info]
-> ⭐ 154,938 · Rust · 2026-11-17T01:51:36Z  
+> ⭐ 155,219 · Rust · 2026-11-18T00:57:22Z  
 > [GitHub](https://github.com/farion1231/cc-switch) · [Website](https://ccswitch.io)  
 > `#AI智能体` `#Tauri 框架` `#开发工具管理` `#跨平台桌面应用` `#ai-tools` `#claude-code` `#codex` `#deepseek-harness` `#desktop-app` `#grok` `#grokbuild` `#hermes` `#kimi-code` `#mcp` `#open-source` `#opencode` `#pi` `#provider-management` `#rust` `#skills` `#skills-management` `#tauri` `#wsl-support` 
 > CC Switch 是面向 AI 编码助手生态的跨平台桌面管理器，统一接入 Claude Code、Codex、Gemini CLI 等工具，集中处理切换、配置与协同使用。项目基于 Tauri 2 构建，兼顾轻量性能、多系统支持与一站式开发工作流整合。
@@ -2301,7 +2301,7 @@
 ## github/spec-kit
 
 > [!info]
-> ⭐ 150,119 · Python · 2026-11-17T01:50:22Z  
+> ⭐ 150,295 · Python · 2026-11-18T00:58:05Z  
 > [GitHub](https://github.com/github/spec-kit) · [Website](https://github.github.com/spec-kit/)  
 > `#AI智能体` `#规范驱动开发` `#软件工程` `#ai` `#copilot` `#development` `#engineering` `#prd` `#spec` `#spec-driven` 
 > Spec Kit 是 GitHub 开源的规范驱动开发工具包，通过 Specify CLI 将需求说明转化为可执行实现，帮助团队围绕产品场景、约束与预期结果协作开发。其亮点是集成 AI 编码代理、支持模板扩展与版本自升级，提升交付质量、一致性与启动效率。
@@ -2311,7 +2311,7 @@
 ## harry0703/MoneyPrinterTurbo
 
 > [!info]
-> ⭐ 144,035 · Python · 2026-11-17T01:51:25Z  
+> ⭐ 144,222 · Python · 2026-11-18T00:49:10Z  
 > [GitHub](https://github.com/harry0703/MoneyPrinterTurbo)  
 > `#AI大模型` `#AI视频生成` `#Web应用` `#短视频自动化` `#ai-video-generator` `#content-creation` `#ffmpeg` `#instagram-reels` `#llm` `#python` `#short-video` `#subtitles` `#text-to-speech` `#tiktok` `#video-automation` `#video-workflow` `#workflow-automation` `#youtube-shorts` 
 > MoneyPrinterTurbo 是一款基于 AI 大模型的短视频自动化生成工具，输入主题或关键词即可完成文案、配音、字幕、素材、配乐到成片合成。项目同时提供 Web 与 API，支持批量生成、多尺寸画幅、多模型接入及本地素材替换，适合内容营销、知识传播与短视频生产提效场景。
@@ -2321,7 +2321,7 @@
 ## rustdesk/rustdesk
 
 > [!info]
-> ⭐ 129,744 · Rust · 2026-11-17T01:38:29Z  
+> ⭐ 129,923 · Rust · 2026-11-18T00:49:16Z  
 > [GitHub](https://github.com/rustdesk/rustdesk) · [Website](https://rustdesk.com)  
 > `#Flutter` `#Rust` `#远程办公` `#远程桌面` `#android` `#anydesk` `#dart` `#flatpak` `#flutter` `#flutter-apps` `#ios` `#linux` `#macos` `#p2p` `#rdp` `#remote-control` `#remote-desktop` `#rust` `#rust-lang` `#teamviewer` `#vnc` `#wayland` `#windows` 
 > RustDesk 是面向自托管场景的开源远程桌面应用，以 Rust 为核心实现，兼顾安全性、低门槛部署与跨平台体验。它支持开箱即用连接，也可自建中继与信令服务器，适合企业远程运维、技术支持和隐私敏感的远程访问需求。
@@ -2331,7 +2331,7 @@
 ## jdx/mise
 
 > [!info]
-> ⭐ 36,221 · Rust · 2026-11-17T01:43:12Z  
+> ⭐ 36,255 · Rust · 2026-11-18T00:46:12Z  
 > [GitHub](https://github.com/jdx/mise) · [Website](https://mise.jdx.dev)  
 > `#Rust` `#任务自动化` `#开发工具` `#环境管理` 
 > mise 是面向开发环境治理的一体化 CLI，将工具版本管理、项目级环境变量加载与任务编排统一到 `mise.toml`。它适用于本地开发、多人协作与 CI 场景，支持按目录自动切换 Node、Python、Terraform 等工具，减少环境漂移，强调跨 Shell 一致性、无 shim 路径和高效工程化体验。
@@ -2341,7 +2341,7 @@
 ## tenoms/sf-express-return-picture
 
 > [!info]
-> ⭐ 242 · TypeScript · 2026-11-03T13:57:46Z  
+> ⭐ 243 · TypeScript · 2026-11-17T06:29:55Z  
 > [GitHub](https://github.com/tenoms/sf-express-return-picture) · [Website](https://sf-exp.pages.dev/)  
 > `#HTML/JavaScript` `#截图模拟` `#自动化工具` 
 > 该项目基于纯前端 HTML+JavaScript，模拟顺丰及京东、中通、申通等电商退货地址截图界面，用于快速生成规范化寄件信息画面。核心价值在于降低手工拼图成本，支持剪贴板粘贴、复制与一键清空，适合本地静态部署和多平台退货场景演示。
@@ -2351,7 +2351,7 @@
 ## wangwangit/tts
 
 > [!info]
-> ⭐ 784 · JavaScript · 2026-11-13T05:54:26Z  
+> ⭐ 786 · JavaScript · 2026-11-17T08:01:48Z  
 > [GitHub](https://github.com/wangwangit/tts)  
 > `#AI语音` `#Cloudflare Workers` `#Microsoft Edge TTS` `#双向语音处理` 
 > 这是一个部署于 Cloudflare Workers 的 AI 语音处理平台，基于 Microsoft Edge TTS 提供高质量文本转语音，并集成硅基流动 API 实现语音转文字。项目支持多语言、丰富音色与参数调节，兼容 OpenAI TTS API，适合在线语音生成、转录和轻量化集成场景。
@@ -2371,7 +2371,7 @@
 ## MatrixSeven/file-transfer-go
 
 > [!info]
-> ⭐ 5,201 · TypeScript · 2026-11-16T10:13:39Z  
+> ⭐ 5,202 · TypeScript · 2026-11-17T12:02:20Z  
 > [GitHub](https://github.com/MatrixSeven/file-transfer-go) · [Website](https://transfer.52python.cn)  
 > `#Go` `#P2P文件传输` `#WebRTC` `#实时通信` 
 > 这是一个基于 Go、React 与 WebRTC 的端到端 P2P 传输工具，支持文件、文本、桌面共享与目录同步。数据直连不落盘服务器，兼顾隐私与传输效率；配合 WebSocket 信令、断点续传、响应式界面和单文件部署，适合跨平台即时分享与轻量协作场景。
@@ -2391,7 +2391,7 @@
 ## xpzouying/xiaohongshu-mcp
 
 > [!info]
-> ⭐ 17,155 · Go · 2026-11-17T00:37:31Z  
+> ⭐ 17,184 · Go · 2026-11-17T21:51:59Z  
 > [GitHub](https://github.com/xpzouying/xiaohongshu-mcp) · [Website](https://www.haha.ai/xiaohongshu-mcp)  
 > `#AI智能体` `#MCP` `#内容运营` `#自动化工具` `#mcp` `#mcp-server` `#xiaohongshu-mcp` 
 > xiaohongshu-mcp 是面向小红书的数据访问与运营自动化 MCP 服务，让 AI 助手可直接完成登录、搜索、推荐抓取、帖子详情读取、评论互动及图文/视频发布。项目以 Docker 与浏览器插件双形态降低部署门槛，适合内容运营、数据采集、智能体集成与自动化工作流场景。
@@ -2421,7 +2421,7 @@
 ## musistudio/claude-code-router
 
 > [!info]
-> ⭐ 38,190 · TypeScript · 2026-11-17T01:44:50Z  
+> ⭐ 38,216 · TypeScript · 2026-11-17T23:03:47Z  
 > [GitHub](https://github.com/musistudio/claude-code-router) · [Website](https://ccrdesk.top/)  
 > `#AI智能体` `#Node.js` `#模型路由` `#自动化工具` 
 > Claude Code Router 以 Claude Code 为底座，构建可替换模型与提供商的编码路由层，支持 OpenRouter、Gemini、Ollama 等多源接入。它可按任务类型进行模型路由、动态切换模型，并通过请求响应转换器、插件系统和 GitHub Actions 集成，满足本地开发、自动化编码与 CI 场景中的灵活编排需求。
@@ -2441,7 +2441,7 @@
 ## cjo4m06/mcp-shrimp-task-manager
 
 > [!info]
-> ⭐ 2,151 · JavaScript · 2026-11-16T11:35:56Z  
+> ⭐ 2,150 · JavaScript · 2026-11-17T07:19:00Z  
 > [GitHub](https://github.com/cjo4m06/mcp-shrimp-task-manager) · [Website](https://cjo4m06.github.io/mcp-shrimp-task-manager/)  
 > `#AI智能体` `#MCP` `#任务管理` `#自动化工具` `#agent` `#ai` `#codeagent` `#coding-assistant` `#cursor-ai` `#cursorai` `#mcp` `#mcp-server` `#roocode` `#task-list` `#task-manager` `#tasks` `#thought-processes` `#windsurf` `#windsurf-ai` 
 > MCP Shrimp Task Manager 是面向 AI 智能体开发的任务管理工具，基于 MCP 将自然语言需求拆解为可执行开发任务，并维护依赖、进度与跨会话上下文。其亮点在于链式推理、反思迭代与风格一致性，适合复杂项目规划、持续编码协作和 AI 辅助软件交付。
@@ -2451,7 +2451,7 @@
 ## Usagi-org/ai-goofish-monitor
 
 > [!info]
-> ⭐ 20,056 · Python · 2026-11-17T01:46:24Z  
+> ⭐ 20,144 · Python · 2026-11-18T00:56:37Z  
 > [GitHub](https://github.com/Usagi-org/ai-goofish-monitor)  
 > `#AI智能体` `#Playwright` `#商品监控` `#自动化工具` `#ai` `#ai-assistant` `#ai-tools` `#automation` `#gemini` `#goofish` `#open-source` `#openai` `#playwright` `#tool` `#xian-yu` `#xianyu` `#xianyu-bot` 
 > 该项目是面向闲鱼商品发现的智能监控平台，结合 Playwright 自动化采集与多模态 AI 分析，实现多任务实时/定时监控、规则筛选和结果研判。系统提供完整 Web 管理后台，支持账号与代理轮换、区域与价格等细粒度过滤，并集成多渠道通知。其亮点在于用自然语言创建监控任务、以 SQLite 统一存储任务与结果，并通过 Docker 快速部署，适合二手交易捡漏、垂直选品和高频行情跟踪场景。
@@ -2461,7 +2461,7 @@
 ## sansan0/TrendRadar
 
 > [!info]
-> ⭐ 63,672 · Python · 2026-11-17T01:36:17Z  
+> ⭐ 63,701 · Python · 2026-11-17T23:16:28Z  
 > [GitHub](https://github.com/sansan0/TrendRadar) · [Website](https://trendradar.sandev.cc)  
 > `#AI智能体` `#MCP` `#容器化` `#舆情监控` `#ai` `#bark` `#data-analysis` `#docker` `#hot-news` `#llm` `#mail` `#mcp` `#mcp-server` `#news` `#ntfy` `#python` `#rss` `#trending-topics` `#wechat` `#wework` 
 > TrendRadar 是面向品牌、公关与研究场景的 AI 舆情与趋势监控工具，聚合多平台热点与 RSS 信息流，支持关键词过滤、AI 筛选、翻译、分析简报及多渠道告警。项目以轻量化和快速部署为特点，兼容 Docker 与 MCP，支持本地或云端自持，适合构建可对话、可预警的情报监测体系。
@@ -2471,7 +2471,7 @@
 ## linyqh/NarratoAI
 
 > [!info]
-> ⭐ 11,846 · Python · 2026-11-17T01:04:58Z  
+> ⭐ 11,857 · Python · 2026-11-18T00:28:38Z  
 > [GitHub](https://github.com/linyqh/NarratoAI) · [Website](https://www.narratoai.cn)  
 > `#AI大模型` `#AI智能体` `#自动化剪辑` `#视频创作` `#aiagent` `#aiops` `#gemini-api` `#llm` `#moviepy` `#python` 
 > NarratoAI 是面向影视解说与短剧混剪的一站式 AI 视频生产工具，基于大模型打通文案生成、视频理解、自动剪辑、配音、字幕转录与草稿导出流程。项目支持本地部署和云端托管，兼容多模型与多 TTS 引擎，并持续增强逐帧分析、语音克隆、短剧解说和自动化剪辑能力，适合内容创作者高效完成批量视频制作。
@@ -2481,7 +2481,7 @@
 ## panyanyany/Twocast
 
 > [!info]
-> ⭐ 1,293 · TypeScript · 2026-11-16T01:08:22Z  
+> ⭐ 1,293 · TypeScript · 2026-11-17T10:45:12Z  
 > [GitHub](https://github.com/panyanyany/Twocast) · [Website](https://twocast.app/)  
 > `#AI智能体` `#内容生成` `#大语言模型` `#语音合成` `#podcast` `#podcast-generator` `#voice-cloning` `#voice-synthesis` 
 > Twocast 是面向双人播客场景的 AI 生成平台，支持从主题、链接、文档和列表页一键生成 3 至 9 分钟多语言节目，并输出音频、大纲与脚本。项目集成 Fish Audio、Minimax、Gemini 与 LLM 检索链路，兼顾真人对话感、多音色合成和可部署性，适合内容创作、资讯播报与知识传播。
@@ -2500,7 +2500,7 @@
 ## AstrBotDevs/AstrBot
 
 > [!info]
-> ⭐ 47,055 · Python · 2026-11-17T01:43:46Z  
+> ⭐ 47,128 · Python · 2026-11-18T00:23:33Z  
 > [GitHub](https://github.com/AstrBotDevs/AstrBot) · [Website](https://astrbot.app)  
 > `#AI智能体` `#Python` `#自动化助手` `#跨平台` `#agent` `#ai` `#astrbot` `#chatbot` `#chatgpt` `#discord` `#docker` `#gemini` `#gpt` `#llama` `#llm` `#mcp` `#openai` `#python` `#qq` `#qqbot` `#telegram` 
 > AstrBot 是面向即时通讯场景的一体化开源 AI 智能体平台与开发框架，集成主流 IM、LLM 与插件生态，支持快速搭建可扩展聊天助手。其亮点在于多平台接入、模块化扩展、稳定会话基础设施，以及兼顾个人部署与团队级开发的工程化能力。
@@ -2529,7 +2529,7 @@
 ## zhtyyx/ioe
 
 > [!info]
-> ⭐ 1,640 · HTML · 2026-11-14T06:04:32Z  
+> ⭐ 1,641 · HTML · 2026-11-17T10:10:10Z  
 > [GitHub](https://github.com/zhtyyx/ioe) · [Website](https://ioea.xianist.com/)  
 > `#Django` `#企业管理` `#零售库存管理` 
 > IOE 是面向零售门店与小型仓库的一站式库存管理系统，基于 Django 构建，覆盖商品、库存、盘点、销售、会员与报表分析全流程。其亮点在于实时库存跟踪、低库存预警、多支付收银、会员积分体系及可视化经营报表，支持 SQLite 开箱即用与 Docker 部署。
@@ -2539,7 +2539,7 @@
 ## JIEKE66633/One-click-cleaning-of-C-drive
 
 > [!info]
-> ⭐ 1,165 · Python · 2026-11-16T17:11:48Z  
+> ⭐ 1,166 · Python · 2026-11-17T14:33:45Z  
 > [GitHub](https://github.com/JIEKE66633/One-click-cleaning-of-C-drive)  
 > `#Python` `#Windows` `#磁盘清理` `#运维自动化` 
 > 这是一个面向 Windows 的开源 C 盘清理工具，基于 Python 提供免安装、一键扫描与安全清理能力，可处理临时文件、浏览器缓存、更新残留和大文件占用。项目强调模拟预览、备份恢复与多重安全检查，适合需要低风险释放系统盘空间的个人用户与运维场景。
@@ -2549,7 +2549,7 @@
 ## iFurySt/RedNote-MCP
 
 > [!info]
-> ⭐ 1,135 · TypeScript · 2026-11-15T03:53:32Z  
+> ⭐ 1,136 · TypeScript · 2026-11-17T07:50:01Z  
 > [GitHub](https://github.com/iFurySt/RedNote-MCP)  
 > `#AI智能体` `#Node.js` `#Playwright` `#内容检索` `#ai` `#mcp` `#mcp-server` `#rednote` `#rednote-mcp` `#xhs` `#xhs-mcp` 
 > RedNote MCP 是面向小红书内容访问的 MCP 服务，基于 Node.js 与 Playwright 实现登录态持久化、关键词搜索和笔记 URL 抓取。它可接入 Cursor 等支持 MCP 的智能体环境，帮助模型安全调用真实站点内容，适用于内容检索、知识采集与自动化助手集成场景。
@@ -2559,7 +2559,7 @@
 ## LibreSpark/LibreTV
 
 > [!info]
-> ⭐ 25,126 · TypeScript · 2026-11-17T01:17:41Z  
+> ⭐ 25,213 · TypeScript · 2026-11-18T00:55:51Z  
 > [GitHub](https://github.com/LibreSpark/LibreTV) · [Website](https://libretv.is-an.org)  
 > `#在线视频平台` `#容器化` `#影视搜索播放` `#无服务器` `#css` `#film` `#html` `#movie-web-app` `#movies-and-cinemas` `#nextjs` `#tv` 
 > LibreTV 是面向个人部署的轻量级影视搜索与播放平台，聚合多视频源内容，支持免注册访问、跨设备观看与密码保护。项目以原生前端结合 Serverless 代理实现 HLS 播放和接口兼容，可快速部署到 Vercel、Netlify、Cloudflare Pages 或 Docker，适合低门槛搭建私有在线视频站点。
@@ -2569,7 +2569,7 @@
 ## ruanyf/weekly
 
 > [!info]
-> ⭐ 108,175 · N/A · 2026-11-17T01:51:08Z  
+> ⭐ 108,247 · N/A · 2026-11-18T00:45:50Z  
 > [GitHub](https://github.com/ruanyf/weekly)  
 > `#Markdown` `#内容策展` `#技术周刊` `#科技媒体` 
 > 该仓库是阮一峰维护的《科技爱好者周刊》开源归档，按周持续整理技术新闻、工具、文章与行业观察，覆盖 AI、编程、互联网商业和工程实践。核心价值在于高频筛选与长期沉淀，适合开发者、产品人和科技从业者快速获取趋势判断、优质资源与话题线索。
@@ -2579,7 +2579,7 @@
 ## RSSNext/Folo
 
 > [!info]
-> ⭐ 39,308 · TypeScript · 2026-11-16T21:06:00Z  
+> ⭐ 39,311 · TypeScript · 2026-11-17T21:07:14Z  
 > [GitHub](https://github.com/RSSNext/Folo) · [Website](https://app.folo.is)  
 > `#AI智能体` `#RSS阅读` `#React` `#跨平台` `#ai` `#reader` `#rss` `#rss-reader` `#rsshub` 
 > Folo 是面向信息订阅与知识获取的 AI RSS 阅读器，支持桌面与移动端分发，帮助用户统一追踪博客、新闻与创作者内容。项目亮点在于将 RSS 聚合、跨平台客户端与 AI 能力结合，提升内容筛选、阅读效率和个性化信息消费体验。
@@ -2599,7 +2599,7 @@
 ## WhatRUHuh/LLMAI-writer
 
 > [!info]
-> ⭐ 206 · Python · 2026-10-14T03:59:32Z  
+> ⭐ 206 · Python · 2026-11-17T05:09:34Z  
 > [GitHub](https://github.com/WhatRUHuh/LLMAI-writer)  
 > `#AI大模型` `#Python` `#多模型集成` `#小说创作` 
 > LLMAI-writer 是面向小说创作的 AI 写作工具，覆盖大纲生成、人物设定、章节创作、分析润色到知识库检索的完整流程。项目支持 GPT、Claude、Gemini、Ollama 等多模型接入，结合上下文感知生成、人物关系图与统计可视化，适合网文作者和长篇内容生产场景。
@@ -2608,7 +2608,7 @@
 ## loks666/get_jobs
 
 > [!info]
-> ⭐ 9,742 · Java · 2026-11-17T01:48:51Z  
+> ⭐ 9,765 · Java · 2026-11-17T23:56:55Z  
 > [GitHub](https://github.com/loks666/get_jobs) · [Website](https://loks666.github.io/get_jobs/)  
 > `#Java` `#求职投递` `#浏览器自动化` `#自动化工具` `#ai` `#ai-agent` `#ai-agents` `#ai-analysis` `#getjob` `#job-application` `#job-search` `#jobs` `#nextjs` `#resume-builder` `#send-resume` `#spring-boot` 
 > 这是一个面向求职场景的自动化投递工具，覆盖 Boss、前程无忧、猎聘、智联等平台，提供图形化配置、智能筛选、黑名单去重与企业微信通知。项目基于 Java/Gradle 与浏览器自动化，并接入大模型生成岗位匹配分析和个性化招呼语，提升海投效率与投递精准度。
@@ -2618,7 +2618,7 @@
 ## Goodnameisfordoggy/JD-AutomatedTools
 
 > [!info]
-> ⭐ 155 · Python · 2026-11-10T09:42:38Z  
+> ⭐ 154 · Python · 2026-11-17T07:07:22Z  
 > [GitHub](https://github.com/Goodnameisfordoggy/JD-AutomatedTools)  
 > `#Python` `#电商流程自动化` `#网页爬虫` `#自动化工具` `#automation-tools` `#python` 
 > 该仓库围绕京东账号操作自动化，整合订单信息抓取与持久化、登录态和 Cookie 管理、订单批量评价等能力。技术亮点在于按子模块拆分流程，覆盖从登录到数据提取再到评价执行的闭环，适用于个人数据整理、自动化测试与电商流程研究。
@@ -2638,7 +2638,7 @@
 ## ddCat-main/cursor-auto-register
 
 > [!info]
-> ⭐ 890 · Python · 2026-11-16T13:54:53Z  
+> ⭐ 889 · Python · 2026-11-17T07:09:31Z  
 > [GitHub](https://github.com/ddCat-main/cursor-auto-register)  
 > `#FastAPI` `#Python` `#自动化工具` `#账号注册` 
 > 该项目是一个基于 Python 的 Cursor 账号自动注册与管理工具，结合临时邮箱、数据库持久化、FastAPI 接口和可视化页面，提供账号创建、查询与随机获取能力。其亮点在于将浏览器自动化、邮件转发验证和本地服务封装为可部署的轻量方案，适合学习自动化注册流程、接口封装与账号池管理实现。
@@ -2648,7 +2648,7 @@
 ## u14app/deep-research
 
 > [!info]
-> ⭐ 4,686 · JavaScript · 2026-11-16T11:56:34Z  
+> ⭐ 4,685 · JavaScript · 2026-11-17T13:15:17Z  
 > [GitHub](https://github.com/u14app/deep-research) · [Website](https://research.u14.app)  
 > `#AI大模型` `#MCP` `#Next.js` `#深度研究` `#anthropic` `#deep-research` `#deep-research-api` `#deepresearch` `#deepseek` `#gemini` `#grok` `#mcp-server` `#ollama` `#openai` 
 > Deep Research 是面向深度调研与报告生成的多模型 AI 应用，支持接入主流 LLM、SSE API 与 MCP Server，并整合多种 Web 搜索能力。其亮点在于 2 分钟级研究报告、本地隐私存储、可追溯研究流程、知识库与知识图谱生成，适用于行业分析、资料汇总、问研协作等场景。
@@ -2677,7 +2677,7 @@
 ## wasp-lang/wasp
 
 > [!info]
-> ⭐ 18,807 · TypeScript · 2026-11-16T18:14:42Z  
+> ⭐ 18,806 · TypeScript · 2026-11-18T00:47:59Z  
 > [GitHub](https://github.com/wasp-lang/wasp) · [Website](https://wasp.sh)  
 > `#Node.js` `#React` `#Web开发框架` `#全栈开发` `#javascript` `#node` `#open-source` `#prisma` `#react` `#wasp` `#web-app` 
 > Wasp 是面向 AI 时代的全栈 Web 框架，以声明式规范整合 React、Node.js 与 Prisma，内置认证、RPC、任务队列、邮件、类型安全与一键部署。它显著减少样板代码，适合快速交付 SaaS、后台系统及 AI 驱动应用，同时保留可控代码与无厂商锁定能力。
@@ -2727,7 +2727,7 @@
 ## 1c7/chinese-independent-developer
 
 > [!info]
-> ⭐ 62,139 · N/A · 2026-11-17T01:41:37Z  
+> ⭐ 62,148 · N/A · 2026-11-17T20:09:25Z  
 > [GitHub](https://github.com/1c7/chinese-independent-developer)  
 > `#GitHub` `#独立开发` `#社区协作` `#项目导航` `#china` `#indie` `#indie-developer` 
 > 该仓库聚合中国独立开发者已上线或开发中的网站与 App 项目，覆盖 AI 创作、效率工具、内容服务等方向。其核心价值在于展示真实产品形态与创业趋势，帮助开发者发现选题、观察市场，并通过统一收录与贡献机制持续扩展社区项目样本。
